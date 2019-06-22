@@ -39,6 +39,21 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### This Is a Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GIhGXEpUTuA" target="_blank"><img src="http://img.youtube.com/vi/GIhGXEpUTuA/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m6C_AeMF5zk?start=180" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
+
 ### This is a Podcast
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504193485&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<h2>3. 🧦 Understanding Scarcity</h2>
+In different systems there are different scarce resources. First, listen to this 90 second clip where 
+<span class="profile"><img src="/syllabus/src/img/alexd.jpeg" />
+<a href="https://twitter.com/alex_danco">Alex Danco</a>
+</span> 
+talks about the scarcity in paradigms before cryptonetworks. Listen from 
+<span class="timeframe">38:34 - 40:05</span>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src=
+"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/516656988&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
+</iframe>
+
 
