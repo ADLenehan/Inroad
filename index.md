@@ -1,4 +1,4 @@
-<p><img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%" align="left" /></p>
+<p><a href="http://inroad.co"><img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%" align="left" /></a></p>
 <p style="clear: both;"></p>
 
 # The Best of Product Management
@@ -31,7 +31,7 @@ You can use the [editor on GitHub](https://github.com/ADLenehan/inroad/edit/mast
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<h2 id="second-h">Understanding the Customer</h2>
+<h2 id="second-h">II. Understanding the Customer</h2>
 
 ### Markdown
 
