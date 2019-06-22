@@ -1,7 +1,17 @@
 <p><img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%" align="left" /></p>
 <p style="clear: both;"></p>
 
-# Welcome to GitHub Pages
+# Guide to Product Management
+
+<ol type="I">
+      <li><a href="#first-q">What's Scarce in Cryptonetworks? Hashrate.</a></li>
+      <li><a href="#second-q">Protocols and Networks Accruing Value</a></li>
+      <li><a href="#third-q">The token is the thing that accrues the value.</a></li>
+      <li><a href="#fourth-q">How much should a token be worth?</a></li>
+      <li><a href="#fifth-q">The best argument against Fat Protocol is Aggregation Theory.</a></li>
+      <li><a href="#sixth-q">What else should hashrate scarcity tell us about cryptonetworks?</a></li>
+      <li><a href="#seventh-q">How do these networks evolve?</a></li>
+</ol>
 
 You can use the [editor on GitHub](https://github.com/ADLenehan/inroad/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
