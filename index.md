@@ -1,4 +1,4 @@
-<img src="/assets/img/Inroad_logo_2G.png" />
+<img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%"/>
 
 # Welcome to GitHub Pages
 
