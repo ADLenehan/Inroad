@@ -9,8 +9,8 @@ We've enabled comments using Disqus, so please feel free to leave any feedback i
 
 We've organized the Best of Product Management  as follows:
 
-<ol>
-      <li><a href="#first-h">I. What is Product Management?</a></li>
+<ol type="I">
+      <li><a href="#first-h">What is Product Management?</a></li>
       <li><a href="#second-h">Understanding the Customer</a></li>
       <li><a href="#third-h">Marrying Business and Product Strategy</a></li>
       <li><a href="#fourth-h">Defining the Product: Vision, Objective, Key Result</a></li>
