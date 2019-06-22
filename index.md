@@ -1,4 +1,5 @@
-<p><img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%" /></p>
+<p><img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%" align="left" /></p>
+<p style="clear: both;"></p>
 
 # Welcome to GitHub Pages
 
