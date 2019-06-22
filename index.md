@@ -25,11 +25,13 @@ We've organized the Best of Product Management  as follows:
 
 By no means should this serve as a comprehensive syllabus, but we've found these resources to be helpful to our clients in the past. Hopefully they're helpful to you as well!
 
-<h2 id="#first-h">I. What is Product Management?</h2>
+<h2 id="first-h">I. What is Product Management?</h2>
 
 You can use the [editor on GitHub](https://github.com/ADLenehan/inroad/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+<h2 id="second-h">Understanding the Customer</h2>
 
 ### Markdown
 
