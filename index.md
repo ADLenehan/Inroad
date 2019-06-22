@@ -73,7 +73,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### This Is a Video
 
-<iframe style="position:absolute;top:0;left:0;width:66%;height:66%;" src="https://www.youtube.com/embed/m6C_AeMF5zk?start=180" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/m6C_AeMF5zk?start=180" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2>3. 🧦 This is a podcast</h2>
 In different systems there are different scarce resources. First, listen to this 90 second clip where 
