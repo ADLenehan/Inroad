@@ -73,8 +73,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### This Is a Video
 
-<iframe width="1309" height="480" src="https://www.youtube.com/embed/xmRaWhae5e8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m6C_AeMF5zk?start=180" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
