@@ -37,16 +37,16 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ### This Is a Video
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GIhGXEpUTuA" target="_blank"><img src="http://img.youtube.com/vi/GIhGXEpUTuA/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 ### This Is a Video
+
 <iframe width="1309" height="480" src="https://www.youtube.com/embed/xmRaWhae5e8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### This is a Podcast
-
-<h2>3. 🧦 Understanding Scarcity</h2>
+<h2>3. 🧦 This is a podcast</h2>
 In different systems there are different scarce resources. First, listen to this 90 second clip where 
 <span class="profile"><img src="/syllabus/src/img/alexd.jpeg" />
 <a href="https://twitter.com/alex_danco">Alex Danco</a>
