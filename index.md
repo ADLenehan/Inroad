@@ -1,17 +1,31 @@
 <p><img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%" align="left" /></p>
 <p style="clear: both;"></p>
 
-# Guide to Product Management
+# The Best of Product Management
 
-<ol type="I">
-      <li><a href="#first-q">What's Scarce in Cryptonetworks? Hashrate.</a></li>
-      <li><a href="#second-q">Protocols and Networks Accruing Value</a></li>
-      <li><a href="#third-q">The token is the thing that accrues the value.</a></li>
-      <li><a href="#fourth-q">How much should a token be worth?</a></li>
-      <li><a href="#fifth-q">The best argument against Fat Protocol is Aggregation Theory.</a></li>
-      <li><a href="#sixth-q">What else should hashrate scarcity tell us about cryptonetworks?</a></li>
-      <li><a href="#seventh-q">How do these networks evolve?</a></li>
+Hi there! Something that we've noticed at Inroad is that there's a lot of great Product Management content on the internet, and generally speaking, the best of it is free! We've tried to consolidate all the best resources we've found around the internet and organize it into a syllabus of sorts. 
+
+We've enabled comments using Disqus, so please feel free to leave any feedback in the comments section on the right. As usual, also feel free to email us at [hello@inroad.co](mailto:hello@inroad.co)!
+
+We've organized the Best of Product Management  as follows:
+
+<ol>
+      <li><a href="#first-h">I. What is Product Management?</a></li>
+      <li><a href="#second-h">Understanding the Customer</a></li>
+      <li><a href="#third-h">Marrying Business and Product Strategy</a></li>
+      <li><a href="#fourth-h">Defining the Product: Vision, Objective, Key Result</a></li>
+      <li><a href="#fifth-h">The Roadmap</a></li>
+      <li><a href="#sixth-h">The Spec aka PRD</a></li>
+      <li><a href="#seventh-h">Validating your Solution</a></li>
+      <li><a href="#eigth-h">Managing the Build</a></li>
+      <li><a href="#ninth-h">Releasing</a></li>
+      <li><a href="#tenth-h">Other Helpful Resources</a></li>
+      <li><a href="#eleventh-h">Bonus: Building a PM Org</a></li>
 </ol>
+
+By no means should this serve as a comprehensive syllabus, but we've found these resources to be helpful to our clients in the past. Hopefully they're helpful to you as well!
+
+<h2 id="#first-h">I. What is Product Management?</h2>
 
 You can use the [editor on GitHub](https://github.com/ADLenehan/inroad/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
