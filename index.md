@@ -51,9 +51,9 @@ While we’re not associated with the many Product Management courses available 
 
 We now have a good understanding of what Product Managers are responsible for, broadly speaking, but what does great Product Management look like? To answer that question, let's ask some "the greats" to define greatness:
 
-[Good Product Manager / Bad Product Manager] (https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) by [Ben Horowitz](https://twitter.com/bhorowitz) is a post that you've probably seen before if you've done any reading on Product Management before this. Ben founded and ran the enterprise software company, Opsware, before founding and running the venture capital firm, Andreeson Horowitz. Ben prefaces this blog post with a warning, "This document was written 15 years ago and is probably not relevant for today’s product managers. I present it here merely as an example of a useful training document.” It holds up.
+[Good Product Manager / Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) by [Ben Horowitz](https://twitter.com/bhorowitz) is a post that you've probably seen before if you've done any reading on Product Management before this. Ben founded and ran the enterprise software company, Opsware, before founding and running the venture capital firm, Andreeson Horowitz. Ben prefaces this blog post with a warning, "This document was written 15 years ago and is probably not relevant for today’s product managers. I present it here merely as an example of a useful training document.” It holds up.
 
-[Ian McAllister]((http://twitter.com/ianmcall) provides a helpful take on this question on Quora in his answer to [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister). Ian was a Product Manager at Microsoft, Amazon, and Airbnb. With experience like that, he found himself well-equipped to answer this question on Quora.
+[Ian McAllister](http://twitter.com/ianmcall) provides a helpful take on this question on Quora in his answer to [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister). Ian was a Product Manager at Microsoft, Amazon, and Airbnb. With experience like that, he found himself well-equipped to answer this question on Quora.
 
 We don't think an MBA is a requirement for great Product Management, but we do think publications like the [Harvard Business Review](https://hbr.org/) are incredibly helpful resources. [What It Takes to Become a Great Product Manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) by [Julia Austin](https://twitter.com/austinfish) is one such resource. Julia is a Senior Lecturer in the Entrepreneurial Management Unit at the Harvard Business School. She also has deep experience on the operating and advising side. One of the things I like about this article is looking beyond core competencies to look at EQ and company fit. 
 
@@ -61,6 +61,11 @@ You'll often see references to great Product Managers being the "CEOs of their p
 
 <iframe src="https://player.vimeo.com/277465224#t=563s" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/277465224#t=563s">Gods, Superheroes and Product Managers by Randy Silver</a> from <a href="https://vimeo.com/mindtheproduct">Mind the Product</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/277465224" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+<iframe src="https://player.vimeo.com/video/277465224#t=563s" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <h3>Further Reading</h3>
 [Behind Every Great Product Manager](https://svpg.com/assets/Files/productmanager.pdf) by Marty Caagan
