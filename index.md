@@ -35,7 +35,9 @@ The “job” of a Product Manager, at its core, is actually pretty simple. Ulti
 
 [Martin Eriksson](https://twitter.com/bfgmartin) is an experienced Product Manager who cofounded the blog "Mind the Product" (one of our favorites). In his article on [The History and Evolution of Product Management](https://www.mindtheproduct.com/2015/10/history-evolution-product-management/) he breaks out how we got here. 
 
-If you Prefer an audio version, feel free to listen to [The (Abbreviated) History Of Product Management](http://rocketship.fm/episodes/the_abbreviated_history_of_product_management/) podcast by [Rocketship.fm](http://rocketship.fm)
+If you Prefer an audio version, feel free to listen to [The (Abbreviated) History Of Product Management](http://rocketship.fm/episodes/the_abbreviated_history_of_product_management/) podcast by [Rocketship.fm](http://rocketship.fm):
+
+<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/46212/62201422" width="220" height="150" frameborder="0" scrolling="no"></iframe>
 
 <h3>So... What is Product Management?</h3>
 
@@ -43,7 +45,7 @@ Ok, so back to the original question. We think [Martin Eriksson](https://twitter
 
 While we’re not associated with the many Product Management courses available online, we do recognize that they’ve produced some helpful (and sometimes free) resources. One of those is [The Product Podcast](https://podcasts.apple.com/us/podcast/the-product-podcast/id1219400787) from [Product School](https://www.productschool.com/). They do a really nice job in their “What is Product Management?” podcast of explaining what Product Management is (and is not):
 
-<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/134992/58323123" width="100%" height="166"  frameborder="0" scrolling="no"></iframe>
+<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/134992/58323123" width="220" height="150" frameborder="0" scrolling="no"></iframe>
 
 ### Markdown
 
