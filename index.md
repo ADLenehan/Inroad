@@ -67,11 +67,6 @@ We now have a good understanding of what Product Managers are responsible for, b
 
 We don't think an MBA is a requirement for great Product Management, but we do think publications like the [Harvard Business Review](https://hbr.org/) are incredibly helpful resources. [What It Takes to Become a Great Product Manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) by [Julia Austin](https://twitter.com/austinfish) is one such resource. Julia is a Senior Lecturer in the Entrepreneurial Management Unit at the Harvard Business School. She also has deep experience on the operating and advising side. One of the things I like about this article is looking beyond core competencies to look at EQ and company fit. 
 
-<div class="video-responsive">
-<iframe src="https://player.vimeo.com/video/141675862" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-      </div>
-<br>
-
 Great Product Managers are also willing to take great (calculated) risks - especially when the pace of business necessitates it. In his talk "10x Not 10% : Product Management by Orders of Magnitude" [Ken Norton](https://twitter.com/kennethn), Product Manager and Senior Operating Partner at Google Ventures, talks about how Product Managers should fight their instinct for loss aversion and go for moonshots:
 
 <div class="video-responsive">
@@ -115,6 +110,7 @@ The go-to resource for incorporating jobs to be done into customer outcomes is t
 
 ![Needs](https://sloanreview.mit.edu/files/2008/12/49314-si1-lo6.png "Customer Needs")
 
+<br>
 <h3>Customer Segmentation</h3>
 
 <h3>3. 🧦 This is a podcast</h3>
