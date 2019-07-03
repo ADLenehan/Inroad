@@ -39,7 +39,10 @@ The “job” of a Product Manager, at its core, is actually pretty simple. Ulti
 
 If you Prefer an audio version, feel free to listen to [The (Abbreviated) History Of Product Management](http://rocketship.fm/episodes/the_abbreviated_history_of_product_management/) podcast by [Rocketship.fm](http://rocketship.fm):
 
+
+<div class="video-responsive">
 <iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/46212/62201422" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+      </div><br>
 
 
 <h3>So... What is Product Management?</h3>
@@ -48,7 +51,10 @@ Ok, so back to the original question. We think [Martin Eriksson](https://twitter
 
 While we’re not associated with the many Product Management courses available online, we do recognize that they’ve produced some helpful (and sometimes free) resources. One of those is [The Product Podcast](https://podcasts.apple.com/us/podcast/the-product-podcast/id1219400787) from [Product School](https://www.productschool.com/). They do a really nice job in their “What is Product Management?” podcast of explaining what Product Management is (and is not):
 
+
+<div class="video-responsive">
 <iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/134992/58323123" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+      </div><br>
 
 
 <h3>Good vs Great Product Management</h3>
@@ -61,15 +67,19 @@ We now have a good understanding of what Product Managers are responsible for, b
 
 We don't think an MBA is a requirement for great Product Management, but we do think publications like the [Harvard Business Review](https://hbr.org/) are incredibly helpful resources. [What It Takes to Become a Great Product Manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) by [Julia Austin](https://twitter.com/austinfish) is one such resource. Julia is a Senior Lecturer in the Entrepreneurial Management Unit at the Harvard Business School. She also has deep experience on the operating and advising side. One of the things I like about this article is looking beyond core competencies to look at EQ and company fit. 
 
+
+<div class="video-responsive">
 <iframe src="https://player.vimeo.com/video/141675862" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+      </div>
+<br>
 
 
 You'll often see references to great Product Managers being the "CEOs of their products." Practically speaking, that definition doesn't really make sense, because Product Managers don't have the organizational authority that CEOs do. In his talk "Gods, Superheroes, and Product Managers" [Randy Silver](http://twitter.com/randy_silver) talks about how Product Managers should interact with other members of organization without authority built in:
 
 <div class="video-responsive">
 <iframe src="https://player.vimeo.com/video/277465224#t=563s" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-      </div>
-
+</div>
+<br>
 
 <h3>Further Reading</h3>
 [Behind Every Great Product Manager](https://svpg.com/assets/Files/productmanager.pdf) by Marty Caagan
@@ -87,6 +97,7 @@ We'd be remiss if we didn't have at least one piece of content here from the gre
 <div class="video-responsive">
       <iframe width="560" height="349" src="http://www.youtube.com/embed/FF-tKLISfPE?rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
 </div>
+<br>
 
 <h3>Jobs to be Done</h3>
 
@@ -95,6 +106,7 @@ Harvard professor, Theodore Levitt, is often quoted as saying, "People don't wan
 <div class="video-responsive">
       <iframe width="560" height="349" src="http://www.youtube.com/embed/1SfUsSyGWJ8?t=8&rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
 </div>
+<br>
 
 For a bit more information on jobs to be done - see Clayton Christensen's post in HBR [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
 
