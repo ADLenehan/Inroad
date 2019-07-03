@@ -75,9 +75,9 @@ Great Product Managers are also willing to take great (calculated) risks - espec
 <br>
 
 <h3>Further Reading</h3>
-[Behind Every Great Product Manager](https://svpg.com/assets/Files/productmanager.pdf) by Marty Caagan
-[What is Product Management](https://www.romanpichler.com/blog/romans-product-management-framework/) by Roman Pichler
-[Product Manager Skills By Seniority Level — A Deep Breakdown](https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10) by Brent Tworetzky
+*[Behind Every Great Product Manager](https://svpg.com/assets/Files/productmanager.pdf) by Marty Caagan
+*[What is Product Management](https://www.romanpichler.com/blog/romans-product-management-framework/) by Roman Pichler
+*[Product Manager Skills By Seniority Level — A Deep Breakdown](https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10) by Brent Tworetzky
 
 <h2 id="second-h">II. Problem Space: Understanding the Customer</h2>
 
