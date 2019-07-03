@@ -67,17 +67,15 @@ We now have a good understanding of what Product Managers are responsible for, b
 
 We don't think an MBA is a requirement for great Product Management, but we do think publications like the [Harvard Business Review](https://hbr.org/) are incredibly helpful resources. [What It Takes to Become a Great Product Manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) by [Julia Austin](https://twitter.com/austinfish) is one such resource. Julia is a Senior Lecturer in the Entrepreneurial Management Unit at the Harvard Business School. She also has deep experience on the operating and advising side. One of the things I like about this article is looking beyond core competencies to look at EQ and company fit. 
 
-
 <div class="video-responsive">
 <iframe src="https://player.vimeo.com/video/141675862" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
       </div>
 <br>
 
-
-You'll often see references to great Product Managers being the "CEOs of their products." Practically speaking, that definition doesn't really make sense, because Product Managers don't have the organizational authority that CEOs do. In his talk "Gods, Superheroes, and Product Managers" [Randy Silver](http://twitter.com/randy_silver) talks about how Product Managers should interact with other members of organization without authority built in:
+Great Product Managers are also willing to take great (calculated) risks - especially when the pace of business necessitates it. In his talk "10x Not 10% : Product Management by Orders of Magnitude" [Ken Norton](https://twitter.com/kennethn), Product Manager and Senior Operating Partner at Google Ventures, talks about how Product Managers should fight their instinct for loss aversion and go for moonshots:
 
 <div class="video-responsive">
-<iframe src="https://player.vimeo.com/video/277465224#t=563s" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/141675862" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -113,55 +111,13 @@ For a bit more information on jobs to be done - see Clayton Christensen's post i
 
 <h3>Customer Needs / Outcomes</h3>
 
-The go-to resource for incorporating jobs to be done into customer outcomes is the book [What Customers Want](https://www.amazon.com/What-Customers-Want-Outcome-Driven-Breakthrough/dp/0071408673) by [Anthony Ulwick](https://twitter.com/Ulwick). The book maps out exactly how to use customer input to drive innovative Product decisions. For those who aren't inclined to pick up the whole book, Anthony published an article in the Sloan Review entitled [Giving Customers a Fair Hearing](https://sloanreview.mit.edu/article/giving-customers-a-fair-hearing/), which explains how to clearly define customer needs.
+The go-to resource for incorporating jobs to be done into customer outcomes is the book [What Customers Want](https://www.amazon.com/What-Customers-Want-Outcome-Driven-Breakthrough/dp/0071408673) by [Anthony Ulwick](https://twitter.com/Ulwick). The book maps out exactly how to use customer input to drive innovative Product decisions. For those who aren't inclined to pick up the whole book, Anthony published an article in the Sloan Review entitled [Giving Customers a Fair Hearing](https://sloanreview.mit.edu/article/giving-customers-a-fair-hearing/), which explains how to clearly define customer needs. The basic structure is: 
 
+![Needs](https://sloanreview.mit.edu/files/2008/12/49314-si1-lo6.png "Customer Needs")
 
+<h3>Customer Segmentation</h3>
 
-
-
-<h3>Jobs to be Done</h3>
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ADLenehan/inroad/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-### This Is a Video
-<div class="video-responsive">
-      <iframe width="560" height="349" src="http://www.youtube.com/embed/n_dZNLr2cME?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<h2>3. 🧦 This is a podcast</h2>
+<h3>3. 🧦 This is a podcast</h3>
 In different systems there are different scarce resources. First, listen to this 90 second clip where 
 <span class="profile"><img src="/syllabus/src/img/alexd.jpeg" />
 <a href="https://twitter.com/alex_danco">Alex Danco</a>
