@@ -40,7 +40,7 @@ The “job” of a Product Manager, at its core, is actually pretty simple. Ulti
 If you Prefer an audio version, feel free to listen to [The (Abbreviated) History Of Product Management](http://rocketship.fm/episodes/the_abbreviated_history_of_product_management/) podcast by [Rocketship.fm](http://rocketship.fm):
 
 
-<div class="video-responsive">
+<div class="audio-responsive">
 <iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/46212/62201422" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
       </div><br>
 
@@ -52,7 +52,7 @@ Ok, so back to the original question. We think [Martin Eriksson](https://twitter
 While we’re not associated with the many Product Management courses available online, we do recognize that they’ve produced some helpful (and sometimes free) resources. One of those is [The Product Podcast](https://podcasts.apple.com/us/podcast/the-product-podcast/id1219400787) from [Product School](https://www.productschool.com/). They do a really nice job in their “What is Product Management?” podcast of explaining what Product Management is (and is not):
 
 
-<div class="video-responsive">
+<div class="audio-responsive">
 <iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/134992/58323123" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
       </div><br>
 
