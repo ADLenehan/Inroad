@@ -54,8 +54,6 @@ img {
 }
 
 iframe {
-  padding-top: 1em;
-  padding-bottom: 1em;
   margin: 0 auto;
   display: block;
 }
@@ -116,7 +114,7 @@ iframe {
 .audio-responsive{
     position: relative;
     overflow: hidden;
-    padding-top: 33.33%;
+    padding-top: 25%;
 }
 
 .audio-responsive iframe{
