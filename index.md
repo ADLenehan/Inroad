@@ -16,13 +16,13 @@ We've organized the Best of Product Management  as follows:
 <ol type="I">
       <li><a href="#first-h">What is Product Management?</a></li>
       <li><a href="#second-h">Problem Space: Understanding the Customer</a></li>
-      <li><a href="#third-h">Marrying Business and Product Strategy</a></li>
-      <li><a href="#fourth-h">Defining the Product: Vision, Objective, Key Result</a></li>
-      <li><a href="#fifth-h">The Roadmap</a></li>
-      <li><a href="#sixth-h">The Spec aka PRD</a></li>
-      <li><a href="#seventh-h">Validating your Solution</a></li>
-      <li><a href="#eigth-h">Managing the Build</a></li>
-      <li><a href="#ninth-h">Releasing</a></li>
+      <li><a href="#third-h">Problem Space: Understanding the Industry</a></li>
+      <li><a href="#fourth-h">Problem Space: Identifying Opportunities</a></li>
+      <li><a href="#fifth-h">Solutions Space: The Roadmap</a></li>
+      <li><a href="#sixth-h">Solutions Space: Validating Solutions and Defining the Product</a></li>
+      <li><a href="#seventh-h">Solutions Space: The Spec aka PRD</a></li>
+      <li><a href="#eigth-h">Execution: Managing the Build</a></li>
+      <li><a href="#ninth-h">Execution: Releasing</a></li>
       <li><a href="#tenth-h">Other Helpful Resources</a></li>
       <li><a href="#eleventh-h">Bonus: Building a PM Org</a></li>
 </ol>
