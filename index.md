@@ -136,3 +136,29 @@ So we have our target customer segments, which are informed by "Jobs to be Done.
 Ultimately, customers at different stages of this cycle have different expectations of products. It's important that you understand these expectations before starting to think about what solutions may be appropriate for these customers. The "bible" on this topic is [Crossing the Chasm](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123) by [Geoffrey Moore](https://twitter.com/geoffreyamoore). 
 
 <h2 id="second-h">II. Understanding the Business</h2>
+Ok, so, we understand the customers we're targeting and what jobs those customers are looking to get done. As a Product Manager, you probably work within the confines of a broader company and that company should have a perspective on what value its trying to provide those customers - starting with its mission.
+
+<h3>The Company Mission</h3>
+Ultimately, everyone at the company should have a good understanding of what the mission is but this is especially true of Product Managers. Product Managers should be constantly referencing the company's mission as kind of a "north star" that guides product development. This TED talk by [Simon Sinek](https://twitter.com/simonsinek) does a pretty good job of explaining what makes a good mission:
+
+<div class="video-responsive">
+      <iframe width="560" height="349" src="https://embed.ted.com/talks/lang/en/simon_sinek_how_great_leaders_inspire_action " frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
+
+[Here](https://www.inc.com/larry-kim/30-inspiring-billion-dollar-startup-company-mission-statements.html) are some other good examples of mission statements across companies. Our favorite articulation of a company mission came from the CEO of Slack, [Stewart Butterfield](https://twitter.com/stewart) in the memo he sent his company before Slack's launch entitled [We Don't Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d).
+
+<h3>Company Strategy</h3>
+Many of these sections could be courses unto themselves. That's especially true of this section. Entire MBA programs revolve around equipping executives to become masters of strategic thinking. The term "strategy" can also be pretty abstract. In his HBR article, [Demystifying Strategy](https://hbr.org/2007/09/demystifying-strategy-the-what), HBS professor [Michael Watkins](https://twitter.com/MichaelDWatkins) describes strategy as "a set of guiding principles that, when communicated and adopted in the organization, generates a desired pattern of decision making. A strategy is therefore about how people throughout the organization should make decisions and allocate resources in order accomplish key objectives. A good strategy provides a clear roadmap, consisting of a set of guiding principles or rules, that defines the actions people in the business should take (and not take) and the things they should prioritize (and not prioritize) to achieve desired goals."
+
+From a Product Manager's standpoint, the decisions you make on what to build and how / when to build it ultimately need to align with the business's strategy. [WTF is Strategy](https://hackernoon.com/wtf-is-a-strategy-bcaa3fda9a31) by [Vince Law](https://twitter.com/vincelawco) does an excellent job of explaining how a company's mission informs strategy, which informs roadmap, etc. 
+
+As a bonus here, we'll direct you to Facebook VP, [Julie Zhao's](https://twitter.com/joulee) post entitled [How to be Strategic](https://medium.com/the-year-of-the-looking-glass/how-to-be-strategic-f6630a44f86b). In it she explains what a successfully implemented strategy actually looks like out in the wild. 
+
+<h3>Product Strategy</h3>
+Product Strategy is the part of the overall business strategy that you, as a Product Manager, have control of. Within Product Strategy, we're seeking to marry what's being asked of us within the company strategy with the problems that we know our customers are actually trying to solve on the ground. The afformentioned Julie Zhao gave an excellent talk at TNW 2016 on "Building with Creative Confidence" that we think helps to bridge these two ideas:
+
+<div class="video-responsive">
+      <iframe width="560" height="349" src="https://www.youtube.com/embed/IIm289_YMIE" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
