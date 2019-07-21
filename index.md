@@ -55,6 +55,10 @@ While we’re not associated with the many Product Management courses available 
 <div class="audio-responsive">
 <iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/134992/58323123" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
       </div><br>
+      
+      
+<h3>The Product Lifecycle</h3>
+So what are the steps that Product Managers go through in order to achieve their goals? This post, [Great PMs don’t spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions) by Intercom (a B2B messaging apps company) talks at length about The Product Lifecycle and where Product Managers should be spending their time. An important takeaway here is that great Product Managers have a deep understanding of the problems that they're trying to solve before they ever start thinking about solutions.
 
 
 <h3>Good vs Great Product Management</h3>
@@ -79,7 +83,7 @@ Great Product Managers are also willing to take great (calculated) risks - espec
 *[What is Product Management](https://www.romanpichler.com/blog/romans-product-management-framework/) by Roman Pichler
 *[Product Manager Skills By Seniority Level — A Deep Breakdown](https://medium.com/pminsider/product-manager-skills-by-seniority-level-a-deep-breakdown-cd0690f76d10) by Brent Tworetzky
 
-<h2 id="second-h">II. Problem Space: Understanding the Customer</h2>
+<h2 id="second-h">II. Understanding the Customer</h2>
 
 Products are solutions and before you develop a smart solution, you need a complete understanding of the problem. In the case of a business, the problem is the job that the customer is paying you to do. It’s important to remember that your customers are people (assuming you’re reading this before The Robot Revolution). Understanding your customers on a “personal” level is probably the most important skill that a product manager can have. We recognize that there are likely going to be multiple customers (stakeholders) that the Product Team should be concerned with - including internal stakeholders and external decision makers, but for the purpose of this guide, we’ll focus on the end users. We need to get to know the end user above all others because ultimately these are the customers we’re trying to serve.
 
@@ -92,7 +96,15 @@ We'd be remiss if we didn't have at least one piece of content here from the gre
 </div>
 <br>
 
-<h3>Jobs to be Done</h3>
+There's a lot of great information out there on user research, but we think the article [The Product Manager Superpower: User Science](https://medium.com/@tworetzky/the-product-manager-superpower-user-science-7296134ae5a4) does a nice job of laying out what different customer touch points might look like, and how you get user-centric information back into your company.
+
+<h3>Customer Segmentation</h3>
+[Paul Graham](https://twitter.com/paulg) once said "“It’s better to have 100 people that love you than a million people that just sort of like you. Find 100 people that love you.” As a Product Manager, it's not your job to make every possible customer happy. It is your job, however, to have a deep understanding of the customers that you are targeting with your product.
+
+There are a number of different ways you can segment a customer base. [The 6 Types of User Segmentation and What They Mean for Your Product](https://uxdesign.cc/how-to-think-segmentation-from-day-1-f714df093ccb) does a very good job at explaining some of the traditional ways businesses segment customers. Although those methods can come in handy from time to time, we think there's probably a better way of segmenting users around what they actually need from the products you might build.
+
+
+<h3>Needs-based Segmentation and Jobs to be Done</h3>
 
 Harvard professor, Theodore Levitt, is often quoted as saying, "People don't want to buy a quarter-inch drill, they want a quarter-inch hole." We think this quote perfectly distills down the idea of "Jobs to be done." The educator who popularized this idea is another Harvard Professor named [Clayton Christensen](https://twitter.com/claychristensen). Here, Clayton explains what he means when he talks about jobs to be done. If you're already a Product Manager, and you've heard the term "milkshakes," this is where it comes from:
 
@@ -101,27 +113,15 @@ Harvard professor, Theodore Levitt, is often quoted as saying, "People don't wan
 </div>
 <br>
 
-For a bit more information on jobs to be done - see Clayton Christensen's post in HBR [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
+For a bit more information on jobs to be done - see Clayton Christensen's post in HBR [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done). HBR also put out a helpful podcast on the topic:
 
+<div class="audio-responsive">
+<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/6655/48484546" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+      </div><br>
 
-<h3>Customer Needs / Outcomes</h3>
+So now that we know what a "Job to be Done" is, how does this affect how we segment users? The post [Market Segmentation Through a Jobs to Be Done Lens](https://jobs-to-be-done.com/market-segmentation-through-a-jobs-to-be-done-lens-5ef9242de65) by [Tony Ulwick](https://twitter.com/Ulwick). Here, Tony explains why typical methods of market segmentation are often inneffective for creating helpful products. 
 
-The go-to resource for incorporating jobs to be done into customer outcomes is the book [What Customers Want](https://www.amazon.com/What-Customers-Want-Outcome-Driven-Breakthrough/dp/0071408673) by [Anthony Ulwick](https://twitter.com/Ulwick). The book maps out exactly how to use customer input to drive innovative Product decisions. For those who aren't inclined to pick up the whole book, Anthony published an article in the Sloan Review entitled [Giving Customers a Fair Hearing](https://sloanreview.mit.edu/article/giving-customers-a-fair-hearing/), which explains how to clearly define customer needs. The basic structure is: 
+For a deeper understanding of some of these concepts, I'd recommend reading Tony's book, [What Customers Want](https://www.amazon.com/What-Customers-Want-Outcome-Driven-Breakthrough/dp/0071408673). The book maps out exactly how to use customer input to drive innovative Product decisions. Another helpful (and free!) book on these concepts comes from [Alan Klement](https://twitter.com/alanklement?lang=en) called [When Coffee and Kehl Compete](http://www.whencoffeeandkalecompete.com).
 
-![Needs](https://sloanreview.mit.edu/files/2008/12/49314-si1-lo6.png "Customer Needs")
-
-<br>
-<h3>Customer Segmentation</h3>
-
-<h3>3. 🧦 This is a podcast</h3>
-In different systems there are different scarce resources. First, listen to this 90 second clip where 
-<span class="profile"><img src="/syllabus/src/img/alexd.jpeg" />
-<a href="https://twitter.com/alex_danco">Alex Danco</a>
-</span> 
-talks about the scarcity in paradigms before cryptonetworks. Listen from 
-<span class="timeframe">38:34 - 40:05</span>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src=
-"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/516656988&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
-</iframe>
-
+<h3>The Technology Adoption Life Cycle</h3>
 
