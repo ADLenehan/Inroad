@@ -98,6 +98,8 @@ We'd be remiss if we didn't have at least one piece of content here from the gre
 
 There's a lot of great information out there on user research, but we think the article [The Product Manager Superpower: User Science](https://medium.com/@tworetzky/the-product-manager-superpower-user-science-7296134ae5a4) does a nice job of laying out what different customer touch points might look like, and how you get user-centric information back into your company.
 
+One important note that you may get, in a B2B company in particular, is distinguishing between users and buyers. As a Product Manager your job is not to build for buyers. [This article](https://hbr.org/2018/02/the-most-successful-brands-focus-on-users-not-buyers) in HBR explains why.
+
 <h3>Customer Segmentation</h3>
 [Paul Graham](https://twitter.com/paulg) once said "“It’s better to have 100 people that love you than a million people that just sort of like you. Find 100 people that love you.” As a Product Manager, it's not your job to make every possible customer happy. It is your job, however, to have a deep understanding of the customers that you are targeting with your product.
 
@@ -121,7 +123,16 @@ For a bit more information on jobs to be done - see Clayton Christensen's post i
 
 So now that we know what a "Job to be Done" is, how does this affect how we segment users? The post [Market Segmentation Through a Jobs to Be Done Lens](https://jobs-to-be-done.com/market-segmentation-through-a-jobs-to-be-done-lens-5ef9242de65) by [Tony Ulwick](https://twitter.com/Ulwick). Here, Tony explains why typical methods of market segmentation are often inneffective for creating helpful products. 
 
-For a deeper understanding of some of these concepts, I'd recommend reading Tony's book, [What Customers Want](https://www.amazon.com/What-Customers-Want-Outcome-Driven-Breakthrough/dp/0071408673). The book maps out exactly how to use customer input to drive innovative Product decisions. Another helpful (and free!) book on these concepts comes from [Alan Klement](https://twitter.com/alanklement?lang=en) called [When Coffee and Kehl Compete](http://www.whencoffeeandkalecompete.com).
+For a deeper understanding of some of these concepts, I'd recommend reading Tony's book, [What Customers Want](https://www.amazon.com/What-Customers-Want-Outcome-Driven-Breakthrough/dp/0071408673). The book maps out exactly how to use customer input to drive innovative Product decisions. Another helpful (and free!) book on these concepts comes from [Alan Klement](https://twitter.com/alanklement?lang=en) called [When Coffee and Kale Compete](http://www.whencoffeeandkalecompete.com).
 
 <h3>The Technology Adoption Life Cycle</h3>
+So we have our target customer segments, which are informed by "Jobs to be Done." Before moving on, we think it's also important to understand where these customers fall on the Technology Adoption Life Cycle. For an overview of what we're talking about, check out this video:
 
+<div class="video-responsive">
+      <iframe width="560" height="349" src="http://www.youtube.com/embed/9QnfWhtujPA?t=8&rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
+
+Ultimately, customers at different stages of this cycle have different expectations of products. It's important that you understand these expectations before starting to think about what solutions may be appropriate for these customers. The "bible" on this topic is [Crossing the Chasm](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123) by [Geoffrey Moore](https://twitter.com/geoffreyamoore). 
+
+<h2 id="second-h">II. Understanding the Business</h2>
