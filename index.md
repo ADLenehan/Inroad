@@ -135,7 +135,7 @@ So we have our target customer segments, which are informed by "Jobs to be Done.
 
 Ultimately, customers at different stages of this cycle have different expectations of products. It's important that you understand these expectations before starting to think about what solutions may be appropriate for these customers. The "bible" on this topic is [Crossing the Chasm](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123) by [Geoffrey Moore](https://twitter.com/geoffreyamoore). 
 
-<h2 id="second-h">II. Understanding the Business</h2>
+<h2 id="third-h">III. Understanding the Business</h2>
 Ok, so, we understand the customers we're targeting and what jobs those customers are looking to get done. As a Product Manager, you probably work within the confines of a broader company and that company should have a perspective on what value its trying to provide those customers - starting with its mission.
 
 <h3>The Company Mission</h3>
@@ -162,3 +162,12 @@ Product Strategy is the part of the overall business strategy that you, as a Pro
       <iframe width="560" height="349" src="https://www.youtube.com/embed/IIm289_YMIE" frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
+
+<h2 id="fourth-h">IV. Building the Roadmap</h2>
+We now understand the customer, the business, and the strategy. The next step is distilling that strategy down into the actual product roadmap. Because you will inevitably have a limited number of developers at your company, you'll need to be judicious about what you build and when. The product roadmap is the artifact that ultimately defines that plan. 
+
+<h3>Identifying opportunities</h3>
+In order to build an informed product roadmap, you'll need to first identify and sort what opportunities you see that you think your product may be able to take advantage of. We've found that the most effective way to define these opportunities is by capturing a list of desired outcomes from users and then ordering those outcomes based on the importance of those outcomes and how satisfied users are with current solutions. In his HBR article [Turn Customer Input into Innovation](https://hbr.org/2002/01/turn-customer-input-into-innovation) Tony Ulwick breaks out exactly how this is done. If you really want to quantify some of this feedback, you should use Tony's "Opportunity Algorithm" to assign numbers to each opportunity and rank them accordingly. We don't think it's necessary to 
+
+
+<h3>The Kano Model</h3>
