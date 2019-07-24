@@ -5,9 +5,7 @@
 
 Hi there! Something that we've noticed at Inroad is that there's a lot of great Product Management content on the internet, and luckily enough, a lot of it is free! We've tried to consolidate all the best resources we've found around the internet and organize it into a syllabus of sorts. 
 
-Of course, we understand that every organization asks something different of its Product function. There are drastic differences between an early-stage startup looking for product market fit and a well-established company looking to capitalize on existing customer relationships. We believe the material below is applicable across the board. Established companies should be thinking about approaching new businesses like startups to avoid being disrupted. Startups should also be aware of how short-term traction can inform long-term strategy planning.
-
-We've also separated out the "Problem Space" from the "Solution Space." A lot of the available resources in the Product Management space today dive deeply into solutions and execution, but we think what separates great Product Managers from the rest is a more complete understanding of the problems they're trying to solve. We'll get into that a bit more later. 
+Of course, we understand that every organization asks something different of its Product function. There are drastic differences between an early-stage startup looking for product market fit and a well-established company looking to capitalize on existing customer relationships. We believe the material below is applicable pretty much across the board, but have made some distinctions between new and existing products (or features). 
 
 We've enabled comments using Disqus, so please feel free to leave any feedback in the comments section on the right. As usual, also feel free to email us at [hello@inroad.co](mailto:hello@inroad.co)!
 
@@ -96,17 +94,12 @@ We'd be remiss if we didn't have at least one piece of content here from the gre
 </div>
 <br>
 
+<h3>Collecting Information</h3>
 There's a lot of great information out there on user research, but we think the article [The Product Manager Superpower: User Science](https://medium.com/@tworetzky/the-product-manager-superpower-user-science-7296134ae5a4) does a nice job of laying out what different customer touch points might look like, and how you get user-centric information back into your company.
 
 One important note that you may get, in a B2B company in particular, is distinguishing between users and buyers. As a Product Manager your job is not to build for buyers. [This article](https://hbr.org/2018/02/the-most-successful-brands-focus-on-users-not-buyers) in HBR explains why.
 
-<h3>Customer Segmentation</h3>
-[Paul Graham](https://twitter.com/paulg) once said "“It’s better to have 100 people that love you than a million people that just sort of like you. Find 100 people that love you.” As a Product Manager, it's not your job to make every possible customer happy. It is your job, however, to have a deep understanding of the customers that you are targeting with your product.
-
-There are a number of different ways you can segment a customer base. [The 6 Types of User Segmentation and What They Mean for Your Product](https://uxdesign.cc/how-to-think-segmentation-from-day-1-f714df093ccb) does a very good job at explaining some of the traditional ways businesses segment customers. Although those methods can come in handy from time to time, we think there's probably a better way of segmenting users around what they actually need from the products you might build.
-
-
-<h3>Needs-based Segmentation and Jobs to be Done</h3>
+<h3>Jobs to be Done</h3>
 
 Harvard professor, Theodore Levitt, is often quoted as saying, "People don't want to buy a quarter-inch drill, they want a quarter-inch hole." We think this quote perfectly distills down the idea of "Jobs to be done." The educator who popularized this idea is another Harvard Professor named [Clayton Christensen](https://twitter.com/claychristensen). Here, Clayton explains what he means when he talks about jobs to be done. If you're already a Product Manager, and you've heard the term "milkshakes," this is where it comes from:
 
@@ -120,10 +113,25 @@ For a bit more information on jobs to be done - see Clayton Christensen's post i
 <div class="audio-responsive">
 <iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/6655/48484546" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
       </div><br>
+      
+As a Product Manager, once our product has been released, we want consumers to "hire" our product to do a job for them. In diagnosing all of the components that ultimately go into that job, it's important to understand the steps that a consumer goes through in completing that job and understand customer needs at every step. [Tony Ulwick](https://twitter.com/Ulwick) breaks out what a customer needs statement looks like in his post [Inventing the Perfect Customer Need Statement](https://jobs-to-be-done.com/inventing-the-perfect-customer-need-statement-4fb7de6ba999). 
 
-So now that we know what a "Job to be Done" is, how does this affect how we segment users? The post [Market Segmentation Through a Jobs to Be Done Lens](https://jobs-to-be-done.com/market-segmentation-through-a-jobs-to-be-done-lens-5ef9242de65) by [Tony Ulwick](https://twitter.com/Ulwick). Here, Tony explains why typical methods of market segmentation are often inneffective for creating helpful products. 
+<h3>Traditional Customer Segmentation</h3>
+[Paul Graham](https://twitter.com/paulg) once said "“It’s better to have 100 people that love you than a million people that just sort of like you. Find 100 people that love you.” As a Product Manager, it's not your job to make every possible customer happy. It is your job, however, to have a deep understanding of the customers that you are targeting with your product.
 
-For a deeper understanding of some of these concepts, I'd recommend reading Tony's book, [What Customers Want](https://www.amazon.com/What-Customers-Want-Outcome-Driven-Breakthrough/dp/0071408673). The book maps out exactly how to use customer input to drive innovative Product decisions. Another helpful (and free!) book on these concepts comes from [Alan Klement](https://twitter.com/alanklement?lang=en) called [When Coffee and Kale Compete](http://www.whencoffeeandkalecompete.com).
+There are a number of different ways you can segment a customer base. [The 6 Types of User Segmentation and What They Mean for Your Product](https://uxdesign.cc/how-to-think-segmentation-from-day-1-f714df093ccb) does a very good job at explaining some of the traditional ways businesses segment customers. Although those methods can come in handy from time to time, we think there's probably a better way of segmenting users around what they actually need from the products you might build.
+
+<h3>Jobs-driven Segmentation (New Products)</h3>
+So now that we understand the job to be done, and how users are measuring success or failure for this particular job, how does this affect how we segment users? The post [Market Segmentation Through a Jobs to Be Done Lens](https://jobs-to-be-done.com/market-segmentation-through-a-jobs-to-be-done-lens-5ef9242de65) again by [Tony Ulwick](https://twitter.com/Ulwick). Here, Tony explains why typical methods of market segmentation are often inneffective for creating helpful products. 
+
+Tony also offers a helpful case study on use of his frameworks through his consulting company, [Strategyn](www.strategyn.com):
+
+<div class="video-responsive">
+      <iframe width="560" height="349" src="http://www.youtube.com/embed/6t2Bt0hdOus?t=8&rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
+
+For a deeper understanding of some of these concepts, we'd recommend reading Tony's book, [What Customers Want](https://www.amazon.com/What-Customers-Want-Outcome-Driven-Breakthrough/dp/0071408673). The book maps out exactly how to use customer input to drive innovative Product decisions. Another helpful (and free!) book on these concepts comes from [Alan Klement](https://twitter.com/alanklement?lang=en) called [When Coffee and Kale Compete](http://www.whencoffeeandkalecompete.com).
 
 <h3>The Technology Adoption Life Cycle</h3>
 So we have our target customer segments, which are informed by "Jobs to be Done." Before moving on, we think it's also important to understand where these customers fall on the Technology Adoption Life Cycle. For an overview of what we're talking about, check out this video:
