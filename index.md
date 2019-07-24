@@ -124,7 +124,7 @@ There are a number of different ways you can segment a customer base. [The 6 Typ
 <h3>Jobs-driven Segmentation (New Products)</h3>
 So now that we understand the job to be done, and how users are measuring success or failure for this particular job, how does this affect how we segment users? The post [Market Segmentation Through a Jobs to Be Done Lens](https://jobs-to-be-done.com/market-segmentation-through-a-jobs-to-be-done-lens-5ef9242de65) again by [Tony Ulwick](https://twitter.com/Ulwick). Here, Tony explains why typical methods of market segmentation are often inneffective for creating helpful products. 
 
-Tony also offers a helpful case study on use of his frameworks through his consulting company, [Strategyn](www.strategyn.com):
+Tony also offers a helpful case study on use of his frameworks through his consulting company, [Strategyn](www.strategyn.com). A deep dive on the "segmentation" element of this framework starts at 18:30:
 
 <div class="video-responsive">
       <iframe width="560" height="349" src="http://www.youtube.com/embed/6t2Bt0hdOus?t=8&rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
