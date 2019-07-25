@@ -195,3 +195,8 @@ In a Product context, OKRs take on a more specific meaning. Julie Zhuo breaks th
 
 So at this point you may ask, "I already have all of these outcomes that my users are trying to achieve, can I just use those as my OKR?" The answer is "yes," BUT make sure those outcomes are measurable and adhere to the rules outlined above.
 
+<h3>Prioritization</h3>
+
+
+https://productcoalition.com/juggling-with-priorities-62ad82da591e
+https://www.quora.com/What-are-the-best-ways-to-prioritize-a-list-of-product-features
