@@ -65,6 +65,8 @@ We now have a good understanding of what Product Managers are responsible for, b
 
 [Good Product Manager / Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/) by [Ben Horowitz](https://twitter.com/bhorowitz) is a post that you've probably seen before if you've done any reading on Product Management before this. Ben founded and ran the enterprise software company, Opsware, before founding and running the venture capital firm, Andreeson Horowitz. Ben prefaces this blog post with a warning, "This document was written 15 years ago and is probably not relevant for today’s product managers. I present it here merely as an example of a useful training document.” It holds up.
 
+Great Product Managers also think about achieving outcomes vs building features. This way, both the Product Manager and the organization at large have a better understanding of whether or not products are actually achieving the right goals (the goals of the user). Max Bennett does an excellent job of explaining this distinction in his post [Great Product Managers are “Outcome Thinkers”](https://medium.com/@max.bennett/great-product-managers-are-outcome-thinkers-66fa5d69cfac).
+
 [Ian McAllister](http://twitter.com/ianmcall) provides a helpful take on this question on Quora in his answer to [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister). Ian was a Product Manager at Microsoft, Amazon, and Airbnb. With experience like that, he found himself well-equipped to answer this question on Quora.
 
 We don't think an MBA is a requirement for great Product Management, but we do think publications like the [Harvard Business Review](https://hbr.org/) are incredibly helpful resources. [What It Takes to Become a Great Product Manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) by [Julia Austin](https://twitter.com/austinfish) is one such resource. Julia is a Senior Lecturer in the Entrepreneurial Management Unit at the Harvard Business School. She also has deep experience on the operating and advising side. One of the things I like about this article is looking beyond core competencies to look at EQ and company fit. 
@@ -174,10 +176,22 @@ Product Strategy is the part of the overall business strategy that you, as a Pro
 <br>
 
 <h2 id="fourth-h">IV. Building the Roadmap</h2>
-We now understand the customer, the business, and the strategy (to the extent one exists). The next step is distilling all that information down into the actual product roadmap. Because you will inevitably have a limited number of developers at your company, you'll need to be judicious about what you build and when. The product roadmap is the artifact that ultimately defines that plan. 
+We now understand the customer, the business, and the strategy (to the extent one exists). The next step is distilling all that information down into the actual product roadmap. Because you will inevitably have a limited number of developers at your company, you'll need to be judicious about what you build and when. The product roadmap is the artifact that ultimately defines that plan. Before we jump into the process of building a roadmap, we think it makes sense to first explain what a roadmap shouldn't be: [12 Signs You’re Working in a Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2).
 
-<h3>Identifying opportunities</h3>
-In order to build an informed product roadmap, you'll need to first identify and sort what opportunities you see that you think your product may be able to take advantage of. We can use the list of desired outcomes from the  [Turn Customer Input into Innovation](https://hbr.org/2002/01/turn-customer-input-into-innovation) article and, as it mentions, ask users to rate these outcomes by importance and satisfaction. Surveys are usually the best way to collect this information. Once we know which of these outcomes is "underserved" (high importance / low satisfaction), we should try to figu
+<h3>Roadmap Definiton</h3>
+A roadmap should communicate your product strategy. A roadmap should not be a listing of the features and dates you hope to ship in the coming months, quarters, even years. A roadmap is not a release plan. Check out this talk by C. Todd Lombardo talking about what goes into a roadmap and how it relates to elements of the company mission and strategy that we've discussed to this point:
 
-<h3>The Kano Model</h3>
-There are a number of different frameworks to use in order to prioritize new products / features 
+<div class="video-responsive">
+<iframe src="https://player.vimeo.com/video/285660483" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+<br>
+
+We also like this post by Elena Sviridenko, which talks about [Outcome-driven product roadmaps](https://productcoalition.com/outcome-driven-product-roadmap-f705c49032b2). Ultimately, we want to take the user outcomes that we've collected to this point and group them into themes. Themes will be sets of outcomes that generally relate to the same overall goal. 
+
+<h3>OKRs</h3>
+Within our discussions with design and development teams, Product Managers shouldn't be prescriptive about what the solution looks like. However, Product Managers should be prescriptive about the objective for solutions that will ultimately be designed by the broader team. If you're not familiar with what OKRs are and what they represent, check out this post by Rick Klau entitled [How Google sets goals: OKRs](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7). 
+
+In a Product context, OKRs take on a more specific meaning. Julie Zhuo breaks this out in her article [How do you set metrics?](https://medium.com/the-year-of-the-looking-glass/how-do-you-set-metrics-59f78fea7e44). If you're looking for examples helpful metrics for startups, look no further than Dave Mcclure's [Pirate Metrics](https://medium.com/i-want-to-be-a-product-manager-when-i-grow-up/startup-metrics-for-pirates-aarrr-15fe3a38cf2e). 
+
+So at this point you may ask, "I already have all of these outcomes that my users are trying to achieve, can I just use those as my OKR?" The answer is "yes," BUT make sure those outcomes are measurable and adhere to the rules outlined above.
+
