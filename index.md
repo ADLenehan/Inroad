@@ -196,7 +196,22 @@ In a Product context, OKRs take on a more specific meaning. Julie Zhuo breaks th
 So at this point you may ask, "I already have all of these outcomes that my users are trying to achieve, can I just use those as my OKR?" The answer is "yes," BUT make sure those outcomes are measurable and adhere to the rules outlined above.
 
 <h3>Prioritization</h3>
+We now have a list of all the things our product could potentially accomplish. We now need to order that list. As Kate Bennet states in [Product Prioritization by the Numbers](https://www.mindtheproduct.com/2017/10/product-prioritization-numbers/), different organizations approach prioritization differently. Sometimes, it's not even the product managers making this call. 
 
+You should have a perspective here whether or not the decision ultimately falls to you. There are a number of different approaches you can use, but they all boil down to a similar idea: which products or features will have the highest ROI for the company? 
 
-https://productcoalition.com/juggling-with-priorities-62ad82da591e
-https://www.quora.com/What-are-the-best-ways-to-prioritize-a-list-of-product-features
+[Folding Burritos](https://foldingburritos.com/) offers a number of helpful resources on Product Management, one of which is their semi-exaustive list of prioritization models in [20 Product Prioritization Techniques: A Map and Guided Tour](https://foldingburritos.com/product-prioritization-techniques/). 
+
+You should also check out this podcast from The Product School:
+
+<div class="audio-responsive">
+<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/134992/62310534"  width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+      </div><br>
+      
+We're not going to say definitively that there's one ideal way to prioritize a backlog, but if you're looking for a simple answer here, check out Ian McAllister's answer to the question [What are the best ways to prioritize a list of product features?](https://www.quora.com/What-are-the-best-ways-to-prioritize-a-list-of-product-features) on Quora.
+
+Keep in mind that the ROI, in this case, could account for the opportunity cost associated with NOT fixing product bugs / issues. Check out the post [Juggling priorities](https://productcoalition.com/juggling-with-priorities-62ad82da591e) to see some options for incorporating bugs into the prioritization equation.
+
+<h3>Saying "No"</h3>
+Inevitably, there will be a number of opportunities that don't make the roadmap. Inevitably, a large number of these opportunities will be requests from inside your own company. As a Product Manager, you need to be able to maintain lines of communication and feedback loops throughout the organization, which means you need to be diplomatic about how and why you're saying "no" to stakeholders. This post, entitled [Negotiate like a pro: how to say ‘No’ to product feature requests…](https://hackernoon.com/negotiate-like-a-pro-how-to-say-no-to-product-feature-requests-e2ce00ae9981) does an excellent job of explaining how to say no - in a constructive way.
+
