@@ -131,7 +131,9 @@ Tony also offers a helpful case study on use of his frameworks through his consu
 </div>
 <br>
 
-For a deeper understanding of some of these concepts, we'd recommend reading Tony's book, [What Customers Want](https://www.amazon.com/What-Customers-Want-Outcome-Driven-Breakthrough/dp/0071408673). The book maps out exactly how to use customer input to drive innovative Product decisions. Another helpful (and free!) book on these concepts comes from [Alan Klement](https://twitter.com/alanklement?lang=en) called [When Coffee and Kale Compete](http://www.whencoffeeandkalecompete.com).
+It's interesting to note here that jobs to be done and traditional segmentation dimensions are compatible. In our estimation, you need to understand the tasks that users will need to complete, the motivation for those tasks, and who the users are beyond those tasks in order to give you a holistic view of the problem you're trying to solve. Page Laubheimer does an excellent job of explaining this in her article [Personas vs. Jobs-to-Be-Done](https://www.nngroup.com/articles/personas-jobs-be-done). 
+
+For a deeper understanding of some of these concepts, we'd recommend reading Tony's book, [What Customers Want](https://www.amazon.com/What-Customers-Want-Outcome-Driven-Breakthrough/dp/0071408673). The book maps out exactly how to use customer input to drive innovative Product decisions. 
 
 <h3>The Technology Adoption Life Cycle</h3>
 So we have our target customer segments, which are informed by "Jobs to be Done." Before moving on, we think it's also important to understand where these customers fall on the Technology Adoption Life Cycle. For an overview of what we're talking about, check out this video:
@@ -172,11 +174,10 @@ Product Strategy is the part of the overall business strategy that you, as a Pro
 <br>
 
 <h2 id="fourth-h">IV. Building the Roadmap</h2>
-We now understand the customer, the business, and the strategy (to the extent one exists). The next step is distilling that strategy down into the actual product roadmap. Because you will inevitably have a limited number of developers at your company, you'll need to be judicious about what you build and when. The product roadmap is the artifact that ultimately defines that plan. 
+We now understand the customer, the business, and the strategy (to the extent one exists). The next step is distilling all that information down into the actual product roadmap. Because you will inevitably have a limited number of developers at your company, you'll need to be judicious about what you build and when. The product roadmap is the artifact that ultimately defines that plan. 
 
 <h3>Identifying opportunities</h3>
-In order to build an informed product roadmap, you'll need to first identify and sort what opportunities you see that you think your product may be able to take advantage of. We've found that the most effective way to define these opportunities is by capturing a list of desired outcomes from users and then ordering those outcomes based on the importance of those outcomes and how satisfied users are with current solutions. In this HBR article [Turn Customer Input into Innovation](https://hbr.org/2002/01/turn-customer-input-into-innovation) we go back to Tony Ulwick to understand exactly how this is done. If you really want to quantify some of this feedback, you should use Tony's "Opportunity Algorithm" to assign numbers to each opportunity and rank them accordingly. We don't think it's necessary to quantify these inputs necessarily, but you should definitely map them out in order to get a sense for what's going to be most-valuable. 
-
+In order to build an informed product roadmap, you'll need to first identify and sort what opportunities you see that you think your product may be able to take advantage of. We can use the list of desired outcomes from the  [Turn Customer Input into Innovation](https://hbr.org/2002/01/turn-customer-input-into-innovation) article and, as it mentions, ask users to rate these outcomes by importance and satisfaction. Surveys are usually the best way to collect this information. Once we know which of these outcomes is "underserved" (high importance / low satisfaction), we should try to figu
 
 <h3>The Kano Model</h3>
 There are a number of different frameworks to use in order to prioritize new products / features 
