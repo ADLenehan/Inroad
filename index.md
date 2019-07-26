@@ -257,6 +257,14 @@ For an overview of MVP in audio form, check out the Startup Podcast:
 <iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/68080/45086373" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
       </div><br>
 
-<h3>The MVE - Minimum Viable Experiment</h3>
+<h3>Experiment Design</h3>
+If you have a background in Science (took a science class back in the day), you're probably familiar with The Scientific Method. We think the Scientific Method provides a pretty good framework from which to start thinking about product experimentation. Check out this talk by a Ruben Lozano, Google PM, at ProductCon Seattle 2019 about applything the Scientific Method to product experimentation:
 
-<h3>Iterating</h3>
+<div class="video-responsive">
+<iframe src="https://www.youtube.com/embed/4NCxYPalGgU" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+<br>
+
+We also really like this post from Simon Cast at Mind the Product, entitled [Everything a product manager needs to know about experiments](https://www.mindtheproduct.com/2012/08/experiments-101/). In it, Simon breaks out how experiments should be designed, how to incorporate results back into your company, and some tools to use that may be helpful.  Ideally, our experiment is going to validate a hypothesis that our product is going to move our product's OKR by some amount. It's not always easy to get that result in an experiment, so think creatively about an experimental hypothesis that serves as a fair proxy for your product objective.
+
+Experimentation and iteration should be a continuous process - if at first you don't succeed, that's normal. Companies like Optimizely specialize in this process and have published excellent posts like this one entitled [Experiment, Launch, Iterate, Repeat: Why Product Development is Never Complete](https://blog.optimizely.com/2017/09/06/experiment-launch-iterate-repeat/).
