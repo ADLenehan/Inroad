@@ -240,18 +240,23 @@ Ok so how do we go about finding elegant solutions to these customer problems? Y
 If you're looking for some other points of reference on how to think about brainstorming solutions, check out these articles from [HBR](https://hbr.org/2017/05/your-team-is-brainstorming-all-wrong) and [McKinsey](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/seven-steps-to-better-brainstorming).
 
 <h3>Running Experiments</h3>
-We want to know that our solutions are producing the outcomes our users are looking for as soon as possible. Ideally, if we're off base in any way, we'd like to learn that before our team has written a single line of code. In our estimation, there's a significant difference here between experiments you're going to run while developing new products and features at an existing company vs developing a new product at a startup. At a startup, you're trying to validate much more than the product, you're trying to validate the business itself. This merits a different approach to experimentation - developing a minimum viable product instead of running a singular experiment.
-
-<h3>The MVE - Minimum Viable Experiment</h3>
+We want to know that our solutions are producing the outcomes our users are looking for as soon as possible. Ideally, if we're off base in any way, we'd like to learn that before our team has written a single line of code. In our estimation, there's a significant difference here between experiments you're going to run while developing new products and features at an product vs developing a new product. At a startup, you're trying to validate much more than the product, you're trying to validate the idea, market, etc (the business itself). This merits a different approach to experimentation - developing a minimum viable product instead of running a singular experiment.
 
 <h3>The MVP - Minimum Viable Product</h3>
 A lot of the literature that you'll encounter around in the Product Management world around developing Minimum Viable Products and releasing them into the world to see if the product is able to find Product-Market Fit. One of the most referenced startup posts of all time comes from [Marc Andreeson](https://twitter.com/pmarca) entitled [The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html).
 
-Andreeson's post provides an excellent overview, but we like this post entitled [Making sense of MVP (Minimum Viable Product)](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp) by Henrik Kniberg to actually break out what it means to build an MVP. 
+Andreeson's post provides an excellent overview, but we also like these posts: [Making sense of MVP (Minimum Viable Product)](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp) and [What does “Minimum Viable Product” actually mean, anyway?](https://medium.com/free-code-camp/what-the-hell-does-minimum-viable-product-actually-mean-anyway-7d8f6a110f38), that actually break out the idea a little further. It's also worth checking out [The Ultimate Guide to MVP](https://medium.com/hackernoon/the-ultimate-guide-to-minimum-viable-product-59218ce738f8) which breaks out a bunch of helpful tools.
 
 If you're a working at a startup that's building or iterating on an MVP, we'd also recommend checking out the wealth of resources available to you in the [YCombinator Library](https://www.startupschool.org/library). [YCombinator](https://www.ycombinator.com/) is a startup incubator that's probably helped launch more successful technology companies than any other entity in the world. 
 
 You should also buy [Eric Reis's](https://twitter.com/ericries) [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) immediately. It's the seminal book on product development at a startup and is the basis for a number of the ideas we've outlined here.
 
+For an overview of MVP in audio form, check out the Startup Podcast:
+
+<div class="audio-responsive">
+<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/68080/45086373" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+      </div><br>
+
+<h3>The MVE - Minimum Viable Experiment</h3>
 
 <h3>Iterating</h3>
