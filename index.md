@@ -1,3 +1,4 @@
+<br>
 <p><a href="http://inroad.co"><img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%" align="left" /></a></p>
 <p style="clear: both;"></p>
 
@@ -215,3 +216,22 @@ Keep in mind that the ROI, in this case, could account for the opportunity cost 
 <h3>Saying "No"</h3>
 Inevitably, there will be a number of opportunities that don't make the roadmap. Inevitably, a large number of these opportunities will be requests from inside your own company. As a Product Manager, you need to be able to maintain lines of communication and feedback loops throughout the organization, which means you need to be diplomatic about how and why you're saying "no" to stakeholders. This post, entitled [Negotiate like a pro: how to say ‘No’ to product feature requests…](https://hackernoon.com/negotiate-like-a-pro-how-to-say-no-to-product-feature-requests-e2ce00ae9981) does an excellent job of explaining how to say no - in a constructive way.
 
+<h2 id="fifth-h">V. Validating Solutions</h2>
+To this point, we've done no thinking about the actual "solutions." As Albert Einstein once said, "If I had only one hour to save the world, I would spend fifty-five minutes defining the problem, and only five minutes finding the solution." In Product Management terms, as we mentioned earlier, great Product Managers go deep on the problem before they ever start thinking about how to solve it. As you start to put some of these skills into practice, you'll be tempted to bring some of this solutions thinking forward in the process and start brainstorming solutions before developing a thorough understanding of the problem space. Try to avoid this - particularly in conversations you have with users. Don't cloud their perspective and input with your own ideas of how their problems should be solved. That being said, we've now entered the "solution space" of the Product Management Process. 
+
+<h3>The Opportunity Solutions Tree</h3>
+You may be curious about how many of these ideas around customer input, outcomes (OKRs), and opportunities actually fit together. There's a relatively "new" framework that we love to introduce here called the [Opportunity Solutions Tree](https://www.producttalk.org/2016/08/opportunity-solution-tree/). It was developed by [Teresa Torres](https://twitter.com/ttorres), who is an expert in Product Discovery. For an excellent overview of her take on Product Discovery and how it relates to some of the formative work in the Product space leading up to this point, watch her keynote from Productized Conference 2016 in Lisbon:
+
+<div class="video-responsive">
+<iframe src="https://www.youtube.com/embed/l7-5x0ra2tc" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+<br>
+
+For a bit of a deeper dive on the framework, as well as a supporting podcast, see [An Introduction to Modern Product Discovery](https://medium.com/productized-blog/an-introduction-to-modern-product-discovery-by-teresa-torres-productizedconf-bb2703b01fdb) on the Productized Blog. If you remember one thing from this outline, it should probably be this relationship. 
+
+<h3>Generating Solutions</h3>
+Ok so how 
+
+<h3>Running Experiments</h3>
+
+<h3>Iterating</h3>
