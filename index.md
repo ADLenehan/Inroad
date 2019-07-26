@@ -230,7 +230,14 @@ You may be curious about how many of these ideas around customer input, outcomes
 For a bit of a deeper dive on the framework, as well as a supporting podcast, see [An Introduction to Modern Product Discovery](https://medium.com/productized-blog/an-introduction-to-modern-product-discovery-by-teresa-torres-productizedconf-bb2703b01fdb) on the Productized Blog. If you remember one thing from this outline, it should probably be this relationship. 
 
 <h3>Generating Solutions</h3>
-Ok so how 
+Ok so how do we go about finding elegant solutions to these customer problems? You guessed it - brainstorming! You'll generally want to brainstorm with a UX designer and an Engineering leader, but the more folks you involve in this process, the better. Different organizations have different ways of brainstorming, but we like this guidance from organizational psychologist, [Adam Grant](https://twitter.com/AdamMGrant):
+
+<div class="video-responsive">
+<iframe src="https://www.youtube.com/embed/dIY_Zk3IiW4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+<br>
+
+If you're looking for some other points of reference on how to think about brainstorming solutions, check out these articles from [HBR](https://hbr.org/2017/05/your-team-is-brainstorming-all-wrong) and [McKinsey](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/seven-steps-to-better-brainstorming).
 
 <h3>Running Experiments</h3>
 
