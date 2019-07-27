@@ -273,6 +273,8 @@ Experimentation and iteration should be a continuous process - if at first you d
 
 <h2 id="sixth-h">VI. Defining the Product</h2>
 
-There a number of schools of thought when it comes to the "Product Requirements Document" or "PRD" or "Spec." Check out this Quora thread, [What should a lean startup functional spec / product requirements doc look like?](https://www.quora.com/What-should-a-lean-startup-functional-spec-product-requirements-doc-look-like), for a peak into what this debate looks like. Basically, there are two sides to this argument. The discenting view subscribes to the thought that in a "lean" world, PRDs "overengineer" a solution so the process is therefor counterproductive. This makes sense, but we still think (as do most established companies) that there's value in thinking through the PRD, so we'll go ahead and take you through that process.
+There a number of schools of thought when it comes to the "Product Requirements Document" or "PRD" or "Spec." Check out this Quora thread, [What should a lean startup functional spec / product requirements doc look like?](https://www.quora.com/What-should-a-lean-startup-functional-spec-product-requirements-doc-look-like), for a peak into what this debate looks like. Basically, there are two sides to this argument. The discenting view subscribes to the thought that in a "lean" world, PRDs "overengineer" a solution so the process is therefor counterproductive. This makes sense, but we still think (as do most established companies) that there's value in thinking through the PRD, and that [Great Product Managers Obsess over Documentation](https://slab.com/blog/why-obsessive-documentation-is-key-to-being-a-great-product-manager/), so we'll go ahead and take you through it.
+
+<h3>PRD Format</h3>
 
 
