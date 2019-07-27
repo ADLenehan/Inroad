@@ -276,5 +276,28 @@ Experimentation and iteration should be a continuous process - if at first you d
 There a number of schools of thought when it comes to the "Product Requirements Document" or "PRD" or "Spec." Check out this Quora thread, [What should a lean startup functional spec / product requirements doc look like?](https://www.quora.com/What-should-a-lean-startup-functional-spec-product-requirements-doc-look-like), for a peak into what this debate looks like. Basically, there are two sides to this argument. The discenting view subscribes to the thought that in a "lean" world, PRDs "overengineer" a solution so the process is therefor counterproductive. This makes sense, but we still think (as do most established companies) that there's value in thinking through the PRD, and that [Great Product Managers Obsess over Documentation](https://slab.com/blog/why-obsessive-documentation-is-key-to-being-a-great-product-manager/), so we'll go ahead and take you through it.
 
 <h3>PRD Format</h3>
+The Silicon Valley Product Group does a nice job summarizing what a PRD is in their [How to Write a Good PRD](https://svpg.com/assets/Files/goodprd.pdf). They say "The purpose of the product requirements document (PRD) or product spec is to clearly and unambiguously articulate the product’s purpose, features, functionality, and behavior. The product team will use this specification to actually build and test the product, so it needs to be complete enough to provide them the information they need to do their jobs. If the PRD is done well, it still might not be a successful product, but it is certain that if the PRD is not done well, it is nearly impossible for a good product to result." Ultimately, this is the document that your development team is going to refer to when they actually build the product.
 
+You'll find that as you write PRDs, the process of writing becomes a useful thought exercise and framework for thinking about your own products. The blog post [How you write Product Specs is how you build products](https://hackernoon.com/how-you-write-product-specs-is-how-you-build-products-8072e52dabed) explains why the process is useful.
 
+As far as the actual structure of a PRD, we've found a few examples that we think exemplify a well-writen PRD. Check out:
+*[On Writing Specs](https://goberoi.com/on-writing-product-specs-5ca697b992fd)
+*[Asana's Spec Template & Spec Training](https://medium.com/@jackiebo/asanas-spec-template-spec-training-33bfd9d4dd32)
+
+<h3>Creating Alignment</h3>
+Chances are that if you work an existing company, it's not enough to spec out the product that you're seeking to build. You will likely need to take the extra step of recruiting others to buy in to your product vision and perhaps even work on buidling your product.
+
+As a Product Manager, you should be extremely focused on data and use it to guide your decisions, but in order to get others to buy into those decisions, you'll also want to understand the art of storytelling. Check out Anna Marie Clifton's talk at Mind the Product here: 
+
+<div class="video-responsive">
+<iframe src="https://player.vimeo.com/video/277963599" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+<br>
+
+For some other simple ideas on getting buy in for your product, check out [The Product Manager’s Guide to Getting Buy-In](https://medium.com/startup-grind/getting-buy-in-aba18cc8cc77). Some of these ideas are further fleshed out in Mind the Product's [Top Tips for Negotiating With Stakeholders](https://www.mindtheproduct.com/2017/04/top-tips-negotiating-stakeholders/)
+
+We also really like this podcast from First Round, where Google / Reddit / Pinterest Product Manager, Tyler Odean gets into the science behind influence and how that science can be used to the benefit of other PMs:
+
+<div class="audio-responsive">
+<iframe style="border: solid 1px #dedede;"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/408709611&amp;color=0066cc" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+      </div><br>
