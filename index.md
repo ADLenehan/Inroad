@@ -325,6 +325,8 @@ We also like this presentation by Ken Norton entitled [Leading Cross-functional 
 <iframe style="border: solid 1px #dedede;"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/479721180&amp;color=0066cc" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
 </div><br>
 
+If you'd like to go deep on this topic, we'd recommend picking up Fred Brooks's [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B000OZ0N6M) which you'll often see referenced as the go-to material for explaining the human elements of software engineering.
+
 <h3>Types of Development</h3>
 Aside from what language your engineers are actually coding in, there are a number of different development methodologies that engineering teams employ to work efficiently and stay organized. Rather than go through each in painstaking detail, we're going to recommend some broad overviews and then walk you through the cronology of how each methodology was created and developed, which will give you a better understanding of how they all relate to each other and which one you might ultimately want to choose - should you be responsible for making that decision. 
 
@@ -352,5 +354,10 @@ The most common of the agile methodologies is probably Scrum. "Agile" itself is 
 
 We'd recommend taking a deep dive on Scrum.org's [What is Scrum?](https://www.scrum.org/resources/what-is-scrum) for more information on how Scrum is organized. We also like Eric Weiss's [You're Doing Scrum Wrong and Here's How to Fix It](https://medium.com/hackernoon/youre-doing-scrum-wrong-and-here-s-how-to-fix-it-6d45fdd26721) for an updated take on how Scrum can be used at modern companies. 
 
+<h3>Technical and Design Skills</h3>
+One myth about Product Management (that hopefully we've dispelled at this point) is that you need a Computer Science degree in order to be eligible for these jobs. However, it is necessary that Product Managers have the ability to communicate technical concepts and communicate with technical people. Fred Wilson has an excellent post on this topic in his blog entitled [The Yin and Yang of Product and Engineering](https://avc.com/2010/05/the-yin-and-yang-of-product-and-engineering/) which explains how the two functions should fit together at various stages of company development.
 
-<h3> </h3>
+For a practical guide on what to do to gain technical experience, check out Lulu Cheng's blog post [Getting to “technical enough” as a product manager](http://www.lulucheng.com/2015/11/28/getting-to-technical-enough-as-a-product-manager/). Julie Zhuo also has an excellent post on this topic, where she approaches the question of [How to Work with Engineers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-engineers-a3163ff1eced) from a designer's perspective. Ken Norton has a post called [How to Work With Software Engineers](https://www.kennorton.com/essays/how-to-work-with-software-engineers.html) that focuses more on the "soft skills" necessary to be effective here.
+
+To talk about the design side, we return to one of our favorites, Julie Zhuo, for her post [How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146). Justin Hileman of Dropbox has a similar post on the Dropbox blog that we love called [On Working with Designers](https://blogs.dropbox.com/tech/2019/03/on-working-with-designers/). First Round also has an excellent blog post talking about a major design idea (minimizing friction) called [Amazon’s Friction-Killing Tactics To Make Products More Seamless](https://firstround.com/review/amazons-friction-killing-tactics-to-make-products-more-seamless/) which you may find to be helpful.
+
