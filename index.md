@@ -86,7 +86,9 @@ Great Product Managers are also willing to take great (calculated) risks - espec
 
 <h2 id="second-h">II. Understanding the Customer</h2>
 
-Products are solutions and before you develop a smart solution, you need a complete understanding of the problem. In the case of a business, the problem is the job that the customer is paying you to do. It’s important to remember that your customers are people (assuming you’re reading this before The Robot Revolution). Understanding your customers on a “personal” level is probably the most important skill that a product manager can have. We recognize that there are likely going to be multiple customers (stakeholders) that the Product Team should be concerned with - including internal stakeholders and external decision makers, but for the purpose of this guide, we’ll focus on the end users. We need to get to know the end user above all others because ultimately these are the customers we’re trying to serve.
+Products are solutions and before you develop a smart solution, you need a complete understanding of the problem. In the case of a business, the problem is the job that the customer is paying you to do. It’s important to remember that your customers are people (assuming you’re reading this before The Robot Revolution). Understanding your customers on a “personal” level is probably the most important skill that a product manager can have. As Amazon states in their [Leadership Principles](https://www.amazon.jobs/en/principles), "Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers."
+
+We recognize that there are likely going to be multiple customers (stakeholders) that the Product Team should be concerned with - including internal stakeholders and external decision makers, but for the purpose of this guide, we’ll focus on the end users. We need to get to know the end user above all others because ultimately these are the customers we’re trying to serve.
 
 <h3>Customers First</h3>
 
@@ -300,4 +302,55 @@ We also really like this podcast from First Round, where Google / Reddit / Pinte
 
 <div class="audio-responsive">
 <iframe style="border: solid 1px #dedede;"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/408709611&amp;color=0066cc" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
-      </div><br>
+</div><br>
+
+
+<h2 id="seventh-h">VII. Managing the Build</h2>
+Product Managers' relationship to the Engineers and Designers responsible for "building the thing" varies from company to company. Ideally, this team has been involved in the process of defining the problem and designing the solution, but here is where your company actually commits to including your solution in their line of products. At some companies (including most early-stage companies), Product Managers assist with "project managing" these team members through the development of the product. At later-stage companies, it'd more likely that you'll find a Project Management or Agile Coach function that exists separately from Product Management. 
+
+Regardless of what type of company you're working for, this section will give you a good sense for what types of development teams generally employ to get products built. We'll also talk a bit about how much tech and how much design you need to know to effectively interface with design and development teams. 
+
+
+<h3>Cross-functional Teams</h3>
+No matter how you or your company chooses to organize a development team, it's important to understand the basics of how to organize and motivate a cross-functional team (which the development team will necessarily be). We love Ron Lichty's talk entitled ‘How to Get Your Development Team to Love You,' which you can watch here:
+
+<div class="video-responsive">
+<iframe src="https://player.vimeo.com/video/160770374" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+<br>
+
+We also like this presentation by Ken Norton entitled [Leading Cross-functional Teams](https://www.kennorton.com/essays/leading-cross-functional-teams.html) (hint: bring the doughnuts). Jackie Bavaro focuses more on specifics around focusing on goals, clarifying the decision maker, and knowing when to escalate in her post [Stakeholder Management: How I get Everyone on the Same Page](https://medium.com/@jackiebo/stakeholder-management-how-i-get-everyone-on-the-same-page-34283a3fb981). First Round also has a podcast episode that talks specifically about motivation here:
+
+<div class="audio-responsive">
+<iframe style="border: solid 1px #dedede;"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/479721180&amp;color=0066cc" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+</div><br>
+
+<h3>Types of Development</h3>
+Aside from what language your engineers are actually coding in, there are a number of different development methodologies that engineering teams employ to work efficiently and stay organized. Rather than go through each in painstaking detail, we're going to recommend some broad overviews and then walk you through the cronology of how each methodology was created and developed, which will give you a better understanding of how they all relate to each other and which one you might ultimately want to choose - should you be responsible for making that decision. 
+
+We really like Roadmunk's [8 Popular Software Development Methodologies](https://roadmunk.com/guides/types-of-software-development-methodologies/) because it includes some pros and cons that one might want to consider for each. We also like this [visual guide](https://toggl.com/developer-methods-infographic/) from Toggl, which walks you through a few of these in cartoon form (fun!). For a drier, but more descriptive explanation of a few more methodologies, see the IT Development Portal's [Software Development Methodologies](http://www.itinfo.am/eng/software-development-methodologies). 
+
+For a sense for where we're going here, check out:
+
+![Agile Timeline](https://cdn.visual-paradigm.com/solutions/agile-software-development/agile-timeline.png "Agile Timeline")
+
+<h3>Waterfall</h3>
+There are references to sequential or "waterfall" development that date back to the 50s, but the first formal description of this type of development is credited to Winston Royce, an American computer scientist who was heavily involved in early space missions, in his paper [Managing the Development of Large Software Systems](http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf). We don't expect you to actually read that, but know generally that waterfall may be a good option if scope is fixed (user's requirements aren't changing) or users don't want to be / can't be involved in the development process. For more comprehensive guidence, check out Smartsheet's [When to Choose Waterfall Project Management Over Agile](https://www.smartsheet.com/when-choose-waterfall-project-management-over-agile).
+
+<h3>Agile Methodologies</h3>
+A competing idea started to be developed in the 1970s, which focused less around sequential processes and more around adaptation to the specific needs of the project. Within this idea, a number of "lightweight" methodologies were developed, including Rapid Application Development (RAD, 1991), the Unified Process (UP, 1994), the Dynamic Systems Development Method (DSDM, 1994), Scrum (1995), Crystal Clear (1996) and Extreme Programming (XP, 1996). 
+
+All of these methodologies originated before the publication of the [Agile Manifesto](https://agilemanifesto.org/) in 2001, but they are broadly categorized as agile methodologies. For a precise definition of what agile is, we'd recommend reading the Agile Manifesto - its website also harkens back to a simpler time on the internet, which we appreciate. We'd also recommend checking out Jacob Aliet Ondiek's [The 12 Agile Manifesto Principles Simply Explained](https://www.linkedin.com/pulse/12-agile-manifesto-principles-simply-explained-jacob-aliet-ondiek/), which provides a bit more context around what the principles mean. We'd also recommend checking out [The Agile Alliance](https://www.agilealliance.org) for more tools and content around agile.
+
+<h3>Scrum</h3>
+The most common of the agile methodologies is probably Scrum. "Agile" itself is a set of principles without rules / guidelines for how to implement those principles. Scrum is a common set of rules for implementing agile principles. Here's a peak into what Scrum is from Scrum.org:
+
+<div class="video-responsive">
+<iframe src="https://www.youtube.com/embed/gy1c4_YixCo" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+<br>
+
+We'd recommend taking a deep dive on Scrum.org's [What is Scrum?](https://www.scrum.org/resources/what-is-scrum) for more information on how Scrum is organized. We also like Eric Weiss's [You're Doing Scrum Wrong and Here's How to Fix It](https://medium.com/hackernoon/youre-doing-scrum-wrong-and-here-s-how-to-fix-it-6d45fdd26721) for an updated take on how Scrum can be used at modern companies. 
+
+
+<h3> </h3>
