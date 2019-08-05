@@ -389,4 +389,22 @@ At a technology company, you'll often find the specific job related to product a
 
 We'll also throw back to a book we referenced earlier in the outline, [Crossing the Chasm](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123), which is also a hugely valuable book for anyone looking to learn more about Marketing.
 
-If one of your touchpoints on a product release is liaising with the Sales team, you should also understand how to best interface with them. We like the post [How Product Management Can Work Effectively with Sales](http://community.uservoice.com/blog/how-to-work-effectively-with-sales/) from the Uservoice blog. You may also want to check out[The Product Manager — Sales Team Disconnect](https://blog.sessionstack.com/the-product-manager-sales-team-disconnect-areas-of-friction-and-how-to-mend-these-ebfc8df4084b) which goes into potential areas of friction and what to watch out for. 
+If one of your touchpoints on a product release is liaising with the Sales team, you should also understand how to best interface with them. We like the post [How Product Management Can Work Effectively with Sales](http://community.uservoice.com/blog/how-to-work-effectively-with-sales/) from the Uservoice blog. You may also want to check out[The Product Manager — Sales Team Disconnect](https://blog.sessionstack.com/the-product-manager-sales-team-disconnect-areas-of-friction-and-how-to-mend-these-ebfc8df4084b) which goes into potential areas of friction and what to watch out for. To better understand what great salespeople do, check out Andy Raskin's [The Greatest Sales Deck I’ve Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0).
+
+<h3 id="ninth-h">IX. Advanced: Building a Product Team</h3>
+If you're extremely lucky, you'll find yourself at a startup that needs to build out a Product team or at an established company that asks you to assist in hiring a team. Either way, you should have some idea of how to structure a Product Team and how to hire Product Managers. An excellent overview of how to build high-functioning teams (in Product specifically) comes from Martin Eriksson in his "Building a Kick-Ass Product Team” talk:
+
+<div class="video-responsive">
+      <iframe width="560" height="349" src="http://www.youtube.com/embed/pbkQW_B2sBg?rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
+
+On designing the Product function, you should check out First Round's [To Build Great Products, Build This Strong, Scalable System First](https://firstround.com/review/to-build-great-products-build-this-strong-scalable-system-first/). On the team design, check out Mind the Product's [Why you Should Organize Product Teams Around Customer Experiences](https://www.mindtheproduct.com/2019/02/why-you-should-organize-product-teams-around-customer-experiences/). 
+
+On the hiring side, we like Jackie Bavaro's [How to Hire Great Product Managers](https://medium.com/@jackiebo/how-to-hire-great-product-managers-f07a3c9337ea). Jackie also wrote an excellent book on the Product Management interview process entitled [Cracking the PM Interview](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818) that will definitely be helpful if you're sitting on the "interviewee" side of the table. You should also check out First Round's podcast [Find, Vet and Close the Best Product Managers](https://firstround.com/review/find-vet-and-close-the-best-product-managers-heres-how/):
+
+<div class="audio-responsive">
+<iframe style="border: solid 1px #dedede;"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/609919230&amp;color=0066cc" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+</div><br>
+
+
