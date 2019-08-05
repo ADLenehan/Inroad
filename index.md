@@ -361,3 +361,20 @@ For a practical guide on what to do to gain technical experience, check out Lulu
 
 To talk about the design side, we return to one of our favorites, Julie Zhuo, for her post [How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146). Justin Hileman of Dropbox has a similar post on the Dropbox blog that we love called [On Working with Designers](https://blogs.dropbox.com/tech/2019/03/on-working-with-designers/). First Round also has an excellent blog post talking about a major design idea (minimizing friction) called [Amazon’s Friction-Killing Tactics To Make Products More Seamless](https://firstround.com/review/amazons-friction-killing-tactics-to-make-products-more-seamless/) which you may find to be helpful.
 
+<h2 id="eighth-h">VIII. Releasing the Product</h2>
+Anyone who has seen Field of Dreams (or Wayne's World 2) will recognize the quote "if you build it, they will come." As a Product Manager, you've now overseen the conception and building of your product. Now, you need to make sure customers are using it - and using it in the ways you anticipated. Generally speaking, this is done with alpha and beta tests, which release products to smaller groups of users before releasing to a broader base of users. Beyond these tests, you'll want to make sure your Marketing and Sales teams are also equipped to talk about your product so that they're sending the right message into the market and giving your product the best chance possible to succeed. As we've mentioned in pretty much every section, different companies will do this differently, but we'll go over some of the main Product Manager touchpoints for a successful launch.
+
+<h3>Alpha and Beta Tests</h3>
+Alpha and beta tests are designed to achieve similar goals, but experiment on different audiences. Typically, alpha tests are performed by internal employees in some type of development or "sandbox" environment. Beta tests are performed by actual users and clients with the live or "production" version of the product. 
+
+Turbine Labs put out a series of interesting posts outlining a number of technical terms associated with releasing product in their Deploy != Release blog posts [here](https://blog.turbinelabs.io/deploy-not-equal-release-part-one-4724bc1e726b) and [here](https://blog.turbinelabs.io/deploy-not-equal-release-part-two-acbfe402a91c). For a step-by-step walkthrough of what a successful beta test looks like, check out Intercom's [How to run a successful beta in 7 steps](https://www.intercom.com/blog/how-to-run-a-successful-beta/). If you're working at an early-stage company, Ula Holovko's post, [How to Conduct a Closed Beta Testing with Zero Budget](https://medium.com/swlh/how-to-conduct-a-closed-beta-testing-with-zero-budget-acd19c2de43) might be helpful. In it, she goes through an actual case study about how they ran the beta test for her product, KeepSolid Sign.
+
+You may also want to check out the Product Podcast on the subject of beta tests from Prachi Wadekar, Product Manager at Mixpanel:
+
+<div class="audio-responsive">
+<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/134992/62942362" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+      </div><br>
+
+<h3>The Launch</h3>
+We've reached the finish line (kind of)! It's now time to actually launch the product to users. Different companies will have different approaches here - particularly when you look across the B2B vs B2C space. For the purposes of this outline, we'll point 
+
