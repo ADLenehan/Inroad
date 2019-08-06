@@ -4,13 +4,13 @@
 
 # The Best of Product Management
 
-Oh, hi! Having worked across a number of companies in the technology, startup universe, we find ourselves referencing the same material over an over again. Unlike a typical Product Management course, a lot of this material has been created and published by thought leaders that are successful Product Managers in their own right. In an effort to organize this material, we’ve consolidated these resources into a course syllabus (of sorts). 
+Oh, hello! Having worked across a number of companies in the technology, startup universe, we find ourselves referencing the same material over an over again. Unlike a typical Product Management course, a lot of this material has been created and published by thought leaders that are successful Product Managers in their own right. In an effort to organize this material, we’ve consolidated these resources into a course syllabus (of sorts). 
 
 Of course, we understand that every organization asks something different of its Product Management function. There are drastic differences between an early-stage startup looking for product market fit and a well-established company looking to capitalize on existing customer relationships and momentum. We believe the material below is generally across the spectrum of startup vs late-stage and B2B vs B2C, but if you disagree, we’d love to hear about it.
 
 We’ve embedded audio and video content and linked to written content. We’ve also linked to authors’ twitter feeds where those authors are actively tweeting about relevant material. We’d recommend following those folks if you’re a Twitterer yourself. 
 
-We've enabled comments using Disqus, so please feel free to leave any feedback in the comments section on the right. We’d especially love to hear about any materials you’ve discovered that you think could fit in here. As usual, also feel free to email us at [hello@inroad.co](mailto:hello@inroad.co)!
+We've enabled comments using Disqus, so please feel free to leave any feedback in the comments section next to each of the main headings below. We’d especially love to hear about any materials you’ve discovered that you think could fit in here. As usual, also feel free to email us at [hello@inroad.co](mailto:hello@inroad.co)!
 
 We've organized the Best of Product Management as follows:
 
@@ -438,12 +438,12 @@ On the hiring side, we like Jackie Bavaro's [How to Hire Great Product Managers]
 
 <h2 id="tenth-h">X. Helpful Resources and Citations</h2>
 Here are some of the books and blogs worth following that contributed heavily to this outline that may not have been mentioned above:
-+[The Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874) by [Dan Olsen]( https://twitter.com/danolsen) (probably the most thorough book on customer-driven Product Management)
-+[The Product Book](https://www.productschool.com/the-product-book/) by Product School
-+[Intercom on Product Management](https://www.intercom.com/books/product-management)
-+[Silicon Valley Product Group](https://svpg.com/)
-+[The First Round Review’s Product Magazine](https://firstround.com/review/product/)
-+[The Amplitude Product Blog](https://amplitude.com/blog)
-+[The Pendo Product Blog]( https://www.pendo.io/pendo-blog/)
-+[Sebastien Phlix’s](https://twitter.com/sebastienphl) [2017]( https://medium.com/@sebastienphl/my-product-management-reading-list-2017-cb874975c635) and [2018](https://medium.com/@sebastienphl/my-product-management-reading-list-2018-bad70780c51f) Product Management Reading Lists
-+Also check out Product Coalition’s [List of Product Management Courses](https://productcoalition.com/a-comprehensive-list-of-product-management-courses-522ad0b96b75) if you’d like to continue your education!
+1. [The Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874) by [Dan Olsen]( https://twitter.com/danolsen) (probably the most thorough book on customer-driven Product Management)
+2. [The Product Book](https://www.productschool.com/the-product-book/) by Product School
+3. [Intercom on Product Management](https://www.intercom.com/books/product-management)
+4. [Silicon Valley Product Group](https://svpg.com/)
+5. [The First Round Review’s Product Magazine](https://firstround.com/review/product/)
+6. [The Amplitude Product Blog](https://amplitude.com/blog)
+7. [The Pendo Product Blog]( https://www.pendo.io/pendo-blog/)
+8. [Sebastien Phlix’s](https://twitter.com/sebastienphl) [2017]( https://medium.com/@sebastienphl/my-product-management-reading-list-2017-cb874975c635) and [2018](https://medium.com/@sebastienphl/my-product-management-reading-list-2018-bad70780c51f) Product Management Reading Lists
+9. Also check out Product Coalition’s [List of Product Management Courses](https://productcoalition.com/a-comprehensive-list-of-product-management-courses-522ad0b96b75) if you’d like to continue your education!
