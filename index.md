@@ -438,12 +438,14 @@ On the hiring side, we like Jackie Bavaro's [How to Hire Great Product Managers]
 
 <h2 id="tenth-h">X. Helpful Resources and Citations</h2>
 Here are some of the books and blogs worth following that contributed heavily to this outline that may not have been mentioned above:
-1. [The Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874) by [Dan Olsen]( https://twitter.com/danolsen) (probably the most thorough book on customer-driven Product Management)
-2. [The Product Book](https://www.productschool.com/the-product-book/) by Product School
-3. [Intercom on Product Management](https://www.intercom.com/books/product-management)
-4. [Silicon Valley Product Group](https://svpg.com/)
-5. [The First Round Review’s Product Magazine](https://firstround.com/review/product/)
-6. [The Amplitude Product Blog](https://amplitude.com/blog)
-7. [The Pendo Product Blog]( https://www.pendo.io/pendo-blog/)
-8. [Sebastien Phlix’s](https://twitter.com/sebastienphl) [2017]( https://medium.com/@sebastienphl/my-product-management-reading-list-2017-cb874975c635) and [2018](https://medium.com/@sebastienphl/my-product-management-reading-list-2018-bad70780c51f) Product Management Reading Lists
-9. Also check out Product Coalition’s [List of Product Management Courses](https://productcoalition.com/a-comprehensive-list-of-product-management-courses-522ad0b96b75) if you’d like to continue your education!
+<ul>
+<li>[The Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874) by [Dan Olsen]( https://twitter.com/danolsen) (probably the most thorough book on customer-driven Product Management)</li>
+<li>[The Product Book](https://www.productschool.com/the-product-book/) by Product School</li>
+<li>[Intercom on Product Management](https://www.intercom.com/books/product-management)</li>
+<li>[Silicon Valley Product Group](https://svpg.com/)</li>
+<li>[The First Round Review’s Product Magazine](https://firstround.com/review/product/)</li>
+<li>[The Amplitude Product Blog](https://amplitude.com/blog)</li>
+<li>[The Pendo Product Blog]( https://www.pendo.io/pendo-blog/)</li>
+<li>[Sebastien Phlix’s](https://twitter.com/sebastienphl) [2017]( https://medium.com/@sebastienphl/my-product-management-reading-list-2017-cb874975c635) and [2018](https://medium.com/@sebastienphl/my-product-management-reading-list-2018-bad70780c51f) Product Management Reading Lists</li>
+<li>Also check out Product Coalition’s [List of Product Management Courses](https://productcoalition.com/a-comprehensive-list-of-product-management-courses-522ad0b96b75) if you’d like to continue your education!</li>
+</ul>
