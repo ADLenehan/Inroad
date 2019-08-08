@@ -159,7 +159,7 @@ Ok, so, we understand the customers we're targeting and what jobs they are ultim
 Ultimately, everyone at the company should have a good understanding of what the mission is but this is especially true of Product Managers. Product Managers should be constantly referencing the company's mission as kind of a "north star" that guides product development. This TED talk by [Simon Sinek](https://twitter.com/simonsinek) does a pretty good job of explaining what makes a good mission:
 
 <div class="video-responsive">
-      <iframe width="560" height="349" src="https://embed.ted.com/talks/lang/en/simon_sinek_how_great_leaders_inspire_action " frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="349" src="https://www.youtube.com/embed/u4ZoJKF_VuA" frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 
