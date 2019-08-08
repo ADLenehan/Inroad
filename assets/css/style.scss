@@ -127,9 +127,12 @@ iframe {
 }
 
 a:hover{
+    font-weight:normal;
+}
 
-font-weight:normal;
-
+a:visited{
+    font-weight:normal;
+    color: red;
 }
 
 @media only screen and (max-width: 600px) {
