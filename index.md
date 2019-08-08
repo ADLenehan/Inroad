@@ -1,5 +1,5 @@
 <br>
-<p><a href="http://inroad.co"><img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%" align="left" /></a></p>
+<p><a href="https://inroad.co"><img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%" align="left" /></a></p>
 <p style="clear: both;"></p>
 
 # The Best of Product Management
@@ -37,7 +37,7 @@ The “job” of a Product Manager, at its core, is actually pretty simple. Ulti
 
 [Martin Eriksson](https://twitter.com/bfgmartin) is an experienced Product Manager who cofounded the blog "Mind the Product" (one of our favorites). In his article on [The History and Evolution of Product Management](https://www.mindtheproduct.com/2015/10/history-evolution-product-management/) where Product Management originated and how it evolved. 
 
-If you Prefer an audio version, feel free to listen to [The (Abbreviated) History Of Product Management](http://rocketship.fm/episodes/the_abbreviated_history_of_product_management/) podcast by [Rocketship.fm](http://rocketship.fm):
+If you Prefer an audio version, feel free to listen to [The (Abbreviated) History Of Product Management](https://rocketship.fm/episodes/the_abbreviated_history_of_product_management/) podcast by [Rocketship.fm](https://rocketship.fm):
 
 
 <div class="audio-responsive">
@@ -69,7 +69,7 @@ We now have a good understanding of what Product Managers are responsible for, b
 
 Great Product Managers also think about achieving outcomes vs building features. This way, both the Product Manager and the organization at large have a better understanding of whether or not products are actually achieving the right goals (the goals of the user). Max Bennett does an excellent job of explaining this distinction in his post [Great Product Managers are “Outcome Thinkers”](https://medium.com/@max.bennett/great-product-managers-are-outcome-thinkers-66fa5d69cfac).
 
-[Ian McAllister](http://twitter.com/ianmcall) provides a helpful take on this question on Quora in his answer to [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister). Ian was a Product Manager at Microsoft, Amazon, and Airbnb. With experience like that, he found himself well-equipped to answer this question on Quora.
+[Ian McAllister](https://twitter.com/ianmcall) provides a helpful take on this question on Quora in his answer to [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister). Ian was a Product Manager at Microsoft, Amazon, and Airbnb. With experience like that, he found himself well-equipped to answer this question on Quora.
 
 We don't think an MBA is a requirement for great Product Management, but we do think publications like the [Harvard Business Review](https://hbr.org/) are incredibly helpful resources. [What It Takes to Become a Great Product Manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) by [Julia Austin](https://twitter.com/austinfish) is one such resource. Julia is a Senior Lecturer focused on entrepreneurship at the Harvard Business School. She also has deep experience on the operating and advising side. One of the things I like about this article is looking beyond core competencies to look at EQ and company fit. 
 
@@ -97,7 +97,7 @@ Understanding your customers on a “personal” level is probably the most impo
 We'd be remiss if we didn't have at least one piece of content here from the great Steve Jobs. This video is from Apple's 1997 Worldwide Developer Conference. In it, Steve Jobs explains to a disgruntled developer why it's important to start with the customer and not with the technology:
 
 <div class="video-responsive">
-      <iframe width="560" height="349" src="http://www.youtube.com/embed/FF-tKLISfPE?rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="349" src="https://www.youtube.com/embed/FF-tKLISfPE?rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -111,7 +111,7 @@ One important note that you may get, in a B2B company in particular, is distingu
 Harvard professor, Theodore Levitt, is often quoted as saying, "People don't want to buy a quarter-inch drill, they want a quarter-inch hole." We think this quote perfectly distills down the idea of "Jobs to be done." The person who popularized this idea is another Harvard Professor named [Clayton Christensen](https://twitter.com/claychristensen). Here, Clayton explains what he means when he talks about jobs to be done. If you're already a Product Manager, and you've heard the term "milkshakes," this is where it comes from:
 
 <div class="video-responsive">
-      <iframe width="560" height="349" src="http://www.youtube.com/embed/1SfUsSyGWJ8?t=8&rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="349" src="https://www.youtube.com/embed/1SfUsSyGWJ8?t=8&rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -134,7 +134,7 @@ So now that we understand the job to be done, and how users are measuring succes
 Tony also offers a helpful case study on use of his frameworks through his consulting company, [Strategyn](www.strategyn.com). A deep dive on the "segmentation" element of this framework starts at 18:30:
 
 <div class="video-responsive">
-      <iframe width="560" height="349" src="http://www.youtube.com/embed/6t2Bt0hdOus?t=8&rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="349" src="https://www.youtube.com/embed/6t2Bt0hdOus?t=8&rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -146,7 +146,7 @@ For a deeper understanding of some of these concepts, we'd recommend reading Ton
 We now have our target customer segments, which are informed by their "jobs to be done." Before moving on, we think it's also important to understand where these customers fall on the Technology Adoption Life Cycle. For an overview of what we're talking about, check out this video:
 
 <div class="video-responsive">
-      <iframe width="560" height="349" src="http://www.youtube.com/embed/9QnfWhtujPA?t=8&rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="349" src="https://www.youtube.com/embed/9QnfWhtujPA?t=8&rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -339,14 +339,14 @@ If you'd like to go deep on this topic, we'd recommend picking up Fred Brooks's 
 <h3>Types of Development</h3>
 Aside from what language your engineers are actually coding in, there are a number of different development methodologies that engineering teams employ to work efficiently and stay organized. Rather than go through each in painstaking detail, we're going to recommend some broad overviews and then walk you through the chronology of how each methodology was created and developed, which will give you a better understanding of how they all relate to each other and which one you might ultimately want to choose - should you be responsible for making that decision. 
 
-We really like Roadmunk's [8 Popular Software Development Methodologies](https://roadmunk.com/guides/types-of-software-development-methodologies/) because it includes some pros and cons that one might want to consider for each. We also like this [visual guide](https://toggl.com/developer-methods-infographic/) from Toggl, which walks you through a few of these in cartoon form (fun!). For a drier, but more descriptive explanation of a few more methodologies, see the IT Development Portal's [Software Development Methodologies](http://www.itinfo.am/eng/software-development-methodologies). 
+We really like Roadmunk's [8 Popular Software Development Methodologies](https://roadmunk.com/guides/types-of-software-development-methodologies/) because it includes some pros and cons that one might want to consider for each. We also like this [visual guide](https://toggl.com/developer-methods-infographic/) from Toggl, which walks you through a few of these in cartoon form (fun!). For a drier, but more descriptive explanation of a few more methodologies, see the IT Development Portal's [Software Development Methodologies](https://www.itinfo.am/eng/software-development-methodologies). 
 
 For a sense for where we're going here, check out:
 
 ![Agile Timeline](https://cdn.visual-paradigm.com/solutions/agile-software-development/agile-timeline.png "Agile Timeline")
 
 <h3>Waterfall</h3>
-There are references to sequential or "waterfall" development that date back to the 50s, but the first formal description of this type of development is credited to Winston Royce, an American computer scientist who was heavily involved in early space missions, in his paper [Managing the Development of Large Software Systems](http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf). We don't expect you to actually read that, but know generally that waterfall may be a good option if scope is fixed (user's requirements aren't changing) or users don't want to be / can't be involved in the development process. For more comprehensive guidence, check out Smartsheet's [When to Choose Waterfall Project Management Over Agile](https://www.smartsheet.com/when-choose-waterfall-project-management-over-agile).
+There are references to sequential or "waterfall" development that date back to the 50s, but the first formal description of this type of development is credited to Winston Royce, an American computer scientist who was heavily involved in early space missions, in his paper [Managing the Development of Large Software Systems](https://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf). We don't expect you to actually read that, but know generally that waterfall may be a good option if scope is fixed (user's requirements aren't changing) or users don't want to be / can't be involved in the development process. For more comprehensive guidence, check out Smartsheet's [When to Choose Waterfall Project Management Over Agile](https://www.smartsheet.com/when-choose-waterfall-project-management-over-agile).
 
 <h3>Agile Methodologies</h3>
 A competing idea started to be developed in the 1970s, which focused less around sequential processes and more around adaptation to the specific needs of the project. Within this idea, a number of "lightweight" methodologies were developed, including Rapid Application Development (RAD, 1991), the Unified Process (UP, 1994), the Dynamic Systems Development Method (DSDM, 1994), Scrum (1995), Crystal Clear (1996) and Extreme Programming (XP, 1996). 
@@ -377,7 +377,7 @@ We’d also recommend checking out [Mary Poppendieck](https://twitter.com/mpoppe
 <h3>Technical and Design Skills</h3>
 One myth about Product Management (that hopefully we've dispelled at this point) is that you need a Computer Science degree in order to be eligible for these jobs. However, it is necessary that Product Managers have the ability to communicate technical concepts and communicate with technical people. [Fred Wilson]( https://twitter.com/fredwilson), cofounder of the VC firm Union Square Ventures, has an excellent post on this topic in his blog entitled [The Yin and Yang of Product and Engineering](https://avc.com/2010/05/the-yin-and-yang-of-product-and-engineering/) which explains how the two functions should fit together at various stages of company development.
 
-For a practical guide on what to do to gain technical experience, check out Lulu Cheng's blog post [Getting to “technical enough” as a product manager](http://www.lulucheng.com/2015/11/28/getting-to-technical-enough-as-a-product-manager/). Julie Zhuo also has an excellent post on this topic, where she approaches the question of [How to Work with Engineers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-engineers-a3163ff1eced) from a designer's perspective. Ken Norton has a post called [How to Work With Software Engineers](https://www.kennorton.com/essays/how-to-work-with-software-engineers.html) that focuses more on the "soft skills" necessary to be effective here.
+For a practical guide on what to do to gain technical experience, check out Lulu Cheng's blog post [Getting to “technical enough” as a product manager](https://www.lulucheng.com/2015/11/28/getting-to-technical-enough-as-a-product-manager/). Julie Zhuo also has an excellent post on this topic, where she approaches the question of [How to Work with Engineers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-engineers-a3163ff1eced) from a designer's perspective. Ken Norton has a post called [How to Work With Software Engineers](https://www.kennorton.com/essays/how-to-work-with-software-engineers.html) that focuses more on the "soft skills" necessary to be effective here.
 
 To talk about the design side, we return to one of our favorites, Julie Zhuo, for her post [How to Work with Designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146). Justin Hileman of Dropbox has a similar post on the Dropbox blog that we love called [On Working with Designers](https://blogs.dropbox.com/tech/2019/03/on-working-with-designers/). First Round also has an excellent blog post talking about a major design idea (minimizing friction) called [Amazon’s Friction-Killing Tactics To Make Products More Seamless](https://firstround.com/review/amazons-friction-killing-tactics-to-make-products-more-seamless/) which you may find to be helpful.
 
@@ -414,7 +414,7 @@ At a technology company, you'll often find the specific job related to product a
 
 We'll also throw back to a book we referenced earlier in the outline, [Crossing the Chasm](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0060517123), which is also a hugely valuable book for anyone looking to learn more about Marketing.
 
-If one of your touchpoints on a product release is liaising with the Sales team, you should also understand how to best interface with them. We like the post [How Product Management Can Work Effectively with Sales](http://community.uservoice.com/blog/how-to-work-effectively-with-sales/) from the Uservoice blog. You may also want to check out [The Product Manager — Sales Team Disconnect](https://blog.sessionstack.com/the-product-manager-sales-team-disconnect-areas-of-friction-and-how-to-mend-these-ebfc8df4084b) which goes into potential areas of friction and what to watch out for. To better understand what great salespeople do, check out Andy Raskin's [The Greatest Sales Deck I’ve Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0).
+If one of your touchpoints on a product release is liaising with the Sales team, you should also understand how to best interface with them. We like the post [How Product Management Can Work Effectively with Sales](https://community.uservoice.com/blog/how-to-work-effectively-with-sales/) from the Uservoice blog. You may also want to check out [The Product Manager — Sales Team Disconnect](https://blog.sessionstack.com/the-product-manager-sales-team-disconnect-areas-of-friction-and-how-to-mend-these-ebfc8df4084b) which goes into potential areas of friction and what to watch out for. To better understand what great salespeople do, check out Andy Raskin's [The Greatest Sales Deck I’ve Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0).
 
 If you want to develop an excellent understanding of how Product, Sales, and Marketing fit together to drive growth at a startup or existing company, we’d recommend picking up the book [The Four Steps to the Epiphany]( https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) by [Steve Blank](https://twitter.com/sgblank). It’s one of our favorite books for explaining how to “build the machine” of a business.
 
@@ -424,7 +424,7 @@ Have you gotten here? We’re interested in hearing from you (maybe we can help 
 If you're extremely lucky, you'll find yourself at a startup that needs to build out a Product team or at an established company that asks you to assist in hiring a team. Either way, you should have some idea of how to structure a Product Team and how to hire Product Managers. An excellent overview of how to build high-functioning teams (in Product specifically) comes from Martin Eriksson in his "Building a Kick-Ass Product Team” talk:
 
 <div class="video-responsive">
-      <iframe width="560" height="349" src="http://www.youtube.com/embed/pbkQW_B2sBg?rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="349" src="https://www.youtube.com/embed/pbkQW_B2sBg?rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 
