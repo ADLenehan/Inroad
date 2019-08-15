@@ -475,5 +475,6 @@ Here are some of the books and blogs worth following that contributed heavily to
 <script src="/assets/js/app.js">
 document.getElementById('btn-login').addEventListener('click', function() {
   lock.show();
+  alert("butt");
 });
 </script>
