@@ -1,3 +1,7 @@
+<a id="linkedin-button" class="btn btn-block btn-social btn-linkedin">
+  <i class="fa fa-linkedin" aria-hidden="true"></i> Sign in with Linkedin
+</a>
+
 <br>
 <p><a href="https://inroad.co"><img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%" align="left" /></a></p>
 <p style="clear: both;"></p>
@@ -449,3 +453,20 @@ Here are some of the books and blogs worth following that contributed heavily to
 <li>[Sebastien Phlix’s](https://twitter.com/sebastienphl) [2017]( https://medium.com/@sebastienphl/my-product-management-reading-list-2017-cb874975c635) and [2018](https://medium.com/@sebastienphl/my-product-management-reading-list-2018-bad70780c51f) Product Management Reading Lists</li>
 <li>Also check out Product Coalition’s [List of Product Management Courses](https://productcoalition.com/a-comprehensive-list-of-product-management-courses-522ad0b96b75) if you’d like to continue your education!</li>
 </ul>
+
+<script>
+  $('#linkedin-button').on('click', function() {
+  // Initialize with your OAuth.io app public key
+  OAuth.initialize('txp2rKYpuKZXaaYC5kB-m13KnVE');
+  // Use popup for oauth
+  OAuth.popup('linkedin2').then(function(res) {
+      alert(res);
+      return User.signup(res)
+  }).done(function(user) {
+     //here, your user is logged in
+     console.log(user.data.firstname);
+  }).fail(function(err) {
+     //todo with `err`
+  });
+})
+</script>
