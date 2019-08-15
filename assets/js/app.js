@@ -64,9 +64,7 @@ const updateUI = async () => {
 };
 
 const login = async () => {
-  await auth0.loginWithRedirect({
-    redirect_uri: window.location.origin
-  });
+  await auth0.loginWithPopup();
 };
 
 const logout = () => {
