@@ -1,5 +1,5 @@
 <p>Welcome to our page!</p>
-<button id="btn-login">Log in</button>
+<button id="btn-login" onclick="login()">Log in</button>
 <button id="btn-logout" onclick="logout()">Log out</button>
 
 
@@ -472,9 +472,4 @@ Here are some of the books and blogs worth following that contributed heavily to
 
 <script src="https://cdn.auth0.com/js/auth0-spa-js/1.0.0/auth0-spa-js.production.js"></script>
 <script src="https://cdn.auth0.com/js/lock/11.17.2/lock.min.js"></script>
-<script src="/assets/js/app.js">
-document.getElementById('btn-login').addEventListener('click', function() {
-  lock.show();
-  alert("butt");
-});
-</script>
+<script src="/assets/js/app.js"></script>
