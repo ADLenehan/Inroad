@@ -74,7 +74,7 @@ const updateUI = async () => {
 };
 
 const login = async () => {
-  lock.show();
+  //lock.show();
   await auth0.loginWithRedirect({
     redirect_uri: window.location.origin
   });
