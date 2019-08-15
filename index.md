@@ -1,6 +1,21 @@
-<a id="linkedin-button" class="large-btn btn-block btn-social btn-linkedin">
-  <i class="fa fa-linkedin" aria-hidden="true"></i> Sign in with Linkedin
-</a>
+<p>Welcome to our page!</p>
+<button id="btn-login" disabled="true" onclick="login()">Log in</button>
+<button id="btn-logout" disabled="true" onclick="logout()">Log out</button>
+
+<div class="hidden" id="gated-content">
+    <p>
+      You're seeing this content because you're currently
+      <strong>logged in</strong>.
+    </p>
+    <label>
+      Access token:
+      <pre id="ipt-access-token"></pre>
+    </label>
+    <label>
+      User profile:
+      <pre id="ipt-user-profile"></pre>
+    </label>
+  </div>
 
 <br>
 <p><a href="https://inroad.co"><img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%" align="left" /></a></p>
@@ -454,18 +469,5 @@ Here are some of the books and blogs worth following that contributed heavily to
 <li>Also check out Product Coalition’s [List of Product Management Courses](https://productcoalition.com/a-comprehensive-list-of-product-management-courses-522ad0b96b75) if you’d like to continue your education!</li>
 </ul>
 
-<script>
-  $('#linkedin-button').on('click', function() {
-  // Initialize with your OAuth.io app public key
-  OAuth.initialize('jKnVzAla4sJn0VbjP4gRVRlukas');
-  // Use popup for oauth
-  OAuth.popup('linkedin2').then(function(res) {
-      return User.signup(res)
-  }).done(function(user) {
-     //here, your user is logged in
-     console.log(user.data.firstname);
-  }).fail(function(err) {
-     console.log(user.data.lastname);
-  });
-})
-</script>
+<script src="https://cdn.auth0.com/js/auth0-spa-js/1.0.0/auth0-spa-js.production.js"></script>
+<script src="js/app.js"></script>
