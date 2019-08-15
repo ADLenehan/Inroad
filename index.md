@@ -470,4 +470,4 @@ Here are some of the books and blogs worth following that contributed heavily to
 </ul>
 
 <script src="https://cdn.auth0.com/js/auth0-spa-js/1.0.0/auth0-spa-js.production.js"></script>
-<script src="js/app.js"></script>
+<script src="/assets/js/app.js"></script>
