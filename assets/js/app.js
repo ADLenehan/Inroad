@@ -5,7 +5,7 @@ var lock = new Auth0Lock('NHAcMO0QsAek2ftHsriSFGRi6RIr8QTO','inroad.auth0.com', 
 
 var options = {
    auth: {
-   redirect: true,
+   redirect: false,
    redirectUrl: window.location.origin,
    responseType: "token",
    sso: true
