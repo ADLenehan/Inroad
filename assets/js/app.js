@@ -1,13 +1,15 @@
 let auth0 = null;
 const fetchAuthConfig = () => fetch("/auth_config.json");
 
-var lock = new Auth0Lock(
-  'NHAcMO0QsAek2ftHsriSFGRi6RIr8QTO',
-  'inroad.auth0.com'
-);
+var lock = new Auth0Lock('NHAcMO0QsAek2ftHsriSFGRi6RIr8QTO','inroad.auth0.com', options);
 
 var options = {
-  closable: false
+   auth: {
+   redirect: true,
+   redirectUrl: window.location.origin,
+   responseType: "token",
+   sso: true
+  }
 };
 
 const configureClient = async () => {
