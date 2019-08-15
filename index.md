@@ -460,13 +460,12 @@ Here are some of the books and blogs worth following that contributed heavily to
   OAuth.initialize('jKnVzAla4sJn0VbjP4gRVRlukas');
   // Use popup for oauth
   OAuth.popup('linkedin2').then(function(res) {
-      alert(res);
       return User.signup(res)
   }).done(function(user) {
      //here, your user is logged in
      console.log(user.data.firstname);
   }).fail(function(err) {
-     //todo with `err`
+     console.log(user.data.lastname);
   });
 })
 </script>
