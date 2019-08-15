@@ -7,9 +7,7 @@ var lock = new Auth0Lock(
 );
 
 var options = {
-  auth: {
-    redirect: false
-  }
+  closable: false
 };
 
 const configureClient = async () => {
