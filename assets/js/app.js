@@ -7,7 +7,6 @@ var lock = new Auth0Lock(
 );
 
 var options = {
-  closable: false
   auth: {
     redirect: false
   }
