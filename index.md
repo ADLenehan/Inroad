@@ -1,4 +1,4 @@
-<a id="linkedin-button" class="btn btn-block btn-social btn-linkedin">
+<a id="linkedin-button" class="large-btn btn-block btn-social btn-linkedin">
   <i class="fa fa-linkedin" aria-hidden="true"></i> Sign in with Linkedin
 </a>
 
@@ -457,7 +457,7 @@ Here are some of the books and blogs worth following that contributed heavily to
 <script>
   $('#linkedin-button').on('click', function() {
   // Initialize with your OAuth.io app public key
-  OAuth.initialize('txp2rKYpuKZXaaYC5kB-m13KnVE');
+  OAuth.initialize('jKnVzAla4sJn0VbjP4gRVRlukas');
   // Use popup for oauth
   OAuth.popup('linkedin2').then(function(res) {
       alert(res);
