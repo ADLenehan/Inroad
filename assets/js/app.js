@@ -1,16 +1,6 @@
 let auth0 = null;
 const fetchAuthConfig = () => fetch("/auth_config.json");
 
-var lock = new Auth0Lock(
-  'NHAcMO0QsAek2ftHsriSFGRi6RIr8QTO',
-  'inroad.auth0.com'
-);
-
-var options = {
-  auth: {
-    redirect: false
-  }
-};
 
 const configureClient = async () => {
   const response = await fetchAuthConfig();
@@ -74,7 +64,9 @@ const updateUI = async () => {
 };
 
 const login = async () => {
-  lock.show();
+  await auth0.loginWithRedirect({
+    redirect_uri: window.location.origin
+  });
 };
 
 const logout = () => {
