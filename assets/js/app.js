@@ -72,7 +72,6 @@ const updateUI = async () => {
 };
 
 const login = async () => {
-  lock.show();
   await auth0.loginWithPopup();
 };
 
