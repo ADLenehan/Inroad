@@ -6,7 +6,7 @@ var lock = new Auth0Lock('NHAcMO0QsAek2ftHsriSFGRi6RIr8QTO','inroad.auth0.com', 
 var options = {
    auth: {
    redirectUrl: "https://syllabus.inroad.co/",
-   responseType: "code",
+   responseType: 'token id_token',
    params: {state: 'foo'}
   }
 };
