@@ -5,8 +5,8 @@ var lock = new Auth0Lock('NHAcMO0QsAek2ftHsriSFGRi6RIr8QTO','inroad.auth0.com', 
 
 var options = {
    auth: {
-   redirectUrl: "https://syllabus.inroad.co/",
-   responseType: 'token id_token',
+   redirectUrl: "https://inroad.auth0.com/login/callback/",
+   responseType: 'code',
    params: {state: 'foo'}
   }
 };
