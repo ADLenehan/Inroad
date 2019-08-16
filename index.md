@@ -1,5 +1,5 @@
 <p>Welcome to our page!</p>
-<button id="btn-login" onclick="lock.show()">Log in</button>
+<button id="btn-login" onclick="login()">Log in</button>
 <button id="btn-logout" onclick="logout()">Log out</button>
 
 
@@ -34,9 +34,5 @@ We've enabled comments using Disqus, so please feel free to leave any feedback i
 
 
 <script src="https://cdn.auth0.com/js/auth0-spa-js/1.0.0/auth0-spa-js.production.js"></script>
-<script src="https://cdn.auth0.com/js/lock/11.17.2/lock.min.js">
-    document.getElementById('btn-login').addEventListener('click', function() {
-        lock.show();
-    });
-</script>
+<script src="https://cdn.auth0.com/js/lock/11.17.2/lock.min.js"></script>
 <script src="/assets/js/app.js"></script>
