@@ -7,7 +7,6 @@ var options = {
    auth: {
    redirectUrl: window.location.origin,
    responseType: 'code',
-   params: {state: 'foo'}
   }
 };
 
