@@ -6,7 +6,8 @@ var lock = new Auth0Lock('NHAcMO0QsAek2ftHsriSFGRi6RIr8QTO','inroad.auth0.com', 
 var options = {
    auth: {
    redirectUrl: "https://syllabus.inroad.co/",
-   responseType: "token"
+   responseType: "code",
+   params: {state: 'foo'}
   }
 };
 
@@ -29,7 +30,6 @@ window.onload = async () => {
     const isAuthenticated = await auth0.isAuthenticated();
 
   if (isAuthenticated) {
-    // show the gated content
     return;
   }
 
