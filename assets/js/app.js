@@ -72,7 +72,7 @@ const updateUI = async () => {
 };
 
 const login = async () => {
-  await auth0.loginWithPopup(); 
+  lock.show();
 };
 
 const logout = () => {
