@@ -1,5 +1,5 @@
 <p>Welcome to our page!</p>
-<button id="btn-login">Log in</button>
+<button id="btn-login" onclick="lock.show()">Log in</button>
 <button id="btn-logout" onclick="logout()">Log out</button>
 
 
