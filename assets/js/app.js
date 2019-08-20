@@ -3,7 +3,8 @@ const fetchAuthConfig = () => fetch("/auth_config.json");
 
 var options = {
    auth: {
-   responseType: 'token',
+   redirectUrl: window.location.origin,
+   responseType: 'code',
   }
 };
 
