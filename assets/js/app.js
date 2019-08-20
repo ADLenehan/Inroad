@@ -59,7 +59,7 @@ const updateUI = async () => {
 
     document.getElementById(
       "ipt-access-token"
-    ).innerHTML = await auth0.getTokenSilently();
+    ).innerHTML = await auth0.loginWithRedirect();
 
     document.getElementById("ipt-user-profile").innerHTML = JSON.stringify(
       await auth0.getUser()
