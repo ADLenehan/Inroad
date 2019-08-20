@@ -3,8 +3,7 @@ const fetchAuthConfig = () => fetch("/auth_config.json");
 
 var options = {
    auth: {
-   redirectUrl: window.location.origin,
-   responseType: 'code',
+   responseType: 'token',
   }
 };
 
@@ -37,7 +36,7 @@ window.onload = async () => {
   if (query.includes("code=") && query.includes("state=")) {
 
     // Process the login state
-    await auth0.handleRedirectCallback();
+    await auth0.getTokenSilently();
     
     updateUI();
 
@@ -59,7 +58,7 @@ const updateUI = async () => {
 
     document.getElementById(
       "ipt-access-token"
-    ).innerHTML = await auth0.loginWithRedirect();
+    ).innerHTML = await auth0.getTokenSilently();
 
     document.getElementById("ipt-user-profile").innerHTML = JSON.stringify(
       await auth0.getUser()
