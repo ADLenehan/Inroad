@@ -5,7 +5,7 @@ var options = {
    allowedConnections: ['linkedin'],
    closable: false,
    languageDictionary: {
-    title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet consectetur urna. Praesent porta nisi lectus, porttitor tincidunt odio pretium sed. Donec molestie turpis in iaculis elementum. Vivamus massa massa, iaculis ut nibh non, consequat congue nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse vel lectus eu elit luctus pretium. In laoreet lorem ac tellus placerat, a egestas purus dapibus.",
+    title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     emailInputPlaceholder: "something@youremail.com"
   },
    theme: {
