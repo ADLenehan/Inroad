@@ -15,6 +15,7 @@ var options = {
     title: "This is a test this is a test",
     emailInputPlaceholder: "something@youremail.com"
   },
+   popupOptions: { width: 800 }
 };
 
 var lock = new Auth0Lock('NHAcMO0QsAek2ftHsriSFGRi6RIr8QTO','inroad.auth0.com', options);
