@@ -4,23 +4,20 @@
         <a href="http://inroad.co"><img src="/assets/img/Inroad_logo_2G.png" class="logo"></a>
 
         <div class="float-xs-right">
-            {% block navlinks %}{% endblock %}
-            {% if user.is_authenticated %}
+
+              if user. is_authenticated
                 <li class="nav-item">
-                    <a class="nav-link" href="{% url 'account' %}">Profile</a>
+                    <a class="nav-link" href="">Profile</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="{% url 'position_list' %}">Dashboard</a>
+                    <a class="nav-link" href="">Dashboard</a>
                 </li>
-                {#                <li class="nav-item">#}
-                {#                    <a class="nav-link" href="{% url 'post_list' %}">Posts</a>#}
-                {#                </li>#}
                 <li class="nav-item">
                     <div class="form-inline">
-                        <a class="btn btn-outline-success float-right" href="/logout">Logout</a>
+                        <a class="btn btn-outline-success float-right" onclick="logout()">Logout</a>
                     </div>
                 </li>
-            {% endif %}
+           end
         </div>
 
     </ul>
