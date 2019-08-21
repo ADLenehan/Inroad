@@ -7,6 +7,9 @@ var options = {
    theme: {
     logo: 'https://syllabus.inroad.co/assets/img/Inroad_logo_2G.png'
   },
+   languageDictionary: {
+    title: "Log me innnnnnsdasodij asodij aosijd oasijd oiajsoid jasiojdaojaoisj dijaosi jdsoijd oajaoi sjd "
+  },
    auth: {
    redirectUrl: window.location.origin,
    responseType: 'code',
