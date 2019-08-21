@@ -12,7 +12,7 @@ var options = {
    responseType: 'code',
   },
    languageDictionary: {
-    title: "This is a test this is a test",
+    title: "This is a test this is a test This is a test this is a test",
     emailInputPlaceholder: "something@youremail.com"
   },
    popupOptions: { width: 800 }
