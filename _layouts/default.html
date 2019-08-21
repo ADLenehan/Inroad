@@ -24,7 +24,6 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/4.12.0/bootstrap-social.min.css">
     <script src="https://cdn.auth0.com/js/auth0-spa-js/1.0/auth0-spa-js.production.js"></script>
-{% include nav.html %}
 {% seo %}
    
 
@@ -35,6 +34,7 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-145285080-1"></script>
   </head>
   <body>
+    {% include nav.html %}
     <div class="wrapper">
       {{ content }}
     </div>
