@@ -22,7 +22,7 @@
 
     </ul>
 </div>
-<p>Welcome to our page!</p>
+</div>
 <button id="btn-login" onclick="login()">Log in</button>
 <button id="btn-logout" onclick="logout()">Log out</button>
 
