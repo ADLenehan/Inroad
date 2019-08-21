@@ -1,8 +1,3 @@
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
-  ...
-</nav>
-
-
 <button id="btn-login" onclick="login()">Log in</button>
 <button id="btn-logout" onclick="logout()">Log out</button>
 
