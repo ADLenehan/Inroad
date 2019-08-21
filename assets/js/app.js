@@ -5,7 +5,7 @@ var options = {
    allowedConnections: ['linkedin'],
    closable: false,
    languageDictionary: {
-    title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    title: "Lorem ipsum dolor sit amet",
     emailInputPlaceholder: "something@youremail.com"
   },
    theme: {
