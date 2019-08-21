@@ -11,8 +11,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="/assets/css/inlineDisqussions.css" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">    
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/4.12.0/bootstrap-social.min.css">
     <script src="https://cdn.auth0.com/js/auth0-spa-js/1.0/auth0-spa-js.production.js"></script>
@@ -32,20 +32,7 @@
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script src="/assets/js/inlineDisqussions.js"></script>
-    <script>
-      disqus_shortname = 'inroad';
-      jQuery(document).ready(function() {
-        jQuery("h2").inlineDisqussions({
-          identifier: 'disqussion',
-          displayCount: true,
-          highlighted: false,
-          position: 'right',
-          background: 'white',
-          maxWidth: 9999
-        });
-      });
-    </script>
+
 
     
     {% if site.google_analytics %}
@@ -59,14 +46,6 @@
     </script>
     {% endif %}
     
-    <h2 class="post_title">
-      {{ page.title }}
-      {% if page.date %}
-        <small>{{ page.date | date_to_string }}</small>
-      {% endif %}
-    </h2>
-
-    {% include disqus.html %}
     
   </body>
 </html>
