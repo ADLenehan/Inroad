@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 comments: true
 navbar: true
+sass:
+  sass_dir: ./assets/css/
 
