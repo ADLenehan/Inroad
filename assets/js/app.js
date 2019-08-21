@@ -73,7 +73,7 @@ const updateUI = async () => {
 
     document.getElementById("ipt-user-profile").innerHTML = JSON.stringify(
       await auth0.getUser()
-    );
+    ).name;
 
   } else {
     document.getElementById("gated-content").classList.add("hidden");
