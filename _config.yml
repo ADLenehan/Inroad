@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 comments: true
 navbar: true
+plugins:
+- bootstrap
