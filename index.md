@@ -1,7 +1,4 @@
-<p>Welcome to our page!</p>
-<button id="btn-login" onclick="login()">Log in</button>
-<button id="btn-logout" onclick="logout()">Log out</button>
-
+<div class="hidden" id="gated-content">
 <div class="navbar navbar-light bg-faded navbar-fixed-top">
     <ul class="nav navbar-nav">
         <a href="http://inroad.co"><img src="/assets/img/Inroad_logo_2G.png" class="logo"></a>
@@ -28,8 +25,10 @@
 
     </ul>
 </div>
+<p>Welcome to our page!</p>
+<button id="btn-login" onclick="login()">Log in</button>
+<button id="btn-logout" onclick="logout()">Log out</button>
 
-<div class="hidden" id="gated-content">
     <p>
       You're seeing this content because you're currently
       <strong>logged in</strong>.
