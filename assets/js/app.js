@@ -12,7 +12,7 @@ var options = {
    responseType: 'code',
   },
    languageDictionary: {
-    title: "Lorem ipsum dolor",
+    title: "This is a test",
     emailInputPlaceholder: "something@youremail.com"
   },
 };
