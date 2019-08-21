@@ -4,17 +4,17 @@ const fetchAuthConfig = () => fetch("/auth_config.json");
 var options = {
    allowedConnections: ['linkedin'],
    closable: false,
-   languageDictionary: {
-    title: "Lorem ipsum dolor sit amet",
-    emailInputPlaceholder: "something@youremail.com"
-  },
    theme: {
     logo: 'https://syllabus.inroad.co/assets/img/Inroad_logo_2G.png'
   },
    auth: {
    redirectUrl: window.location.origin,
    responseType: 'code',
-  }
+  },
+   languageDictionary: {
+    title: "Lorem ipsum dolor",
+    emailInputPlaceholder: "something@youremail.com"
+  },
 };
 
 var lock = new Auth0Lock('NHAcMO0QsAek2ftHsriSFGRi6RIr8QTO','inroad.auth0.com', options);
