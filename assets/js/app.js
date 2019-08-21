@@ -2,6 +2,11 @@ let auth0 = null;
 const fetchAuthConfig = () => fetch("/auth_config.json");
 
 var options = {
+   allowedConnections: ['linkedin'],
+   closable: false,
+   theme: {
+    logo: 'https://syllabus.inroad.co/assets/img/Inroad_logo_2G.png'
+  },
    auth: {
    redirectUrl: window.location.origin,
    responseType: 'code',
