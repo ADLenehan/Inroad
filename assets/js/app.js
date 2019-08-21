@@ -4,11 +4,12 @@ const fetchAuthConfig = () => fetch("/auth_config.json");
 var options = {
    allowedConnections: ['linkedin'],
    closable: false,
+   languageDictionary: {
+    title: "Log me innnnnns",
+    emailInputPlaceholder: "something@youremail.com"
+  },
    theme: {
     logo: 'https://syllabus.inroad.co/assets/img/Inroad_logo_2G.png'
-  },
-   languageDictionary: {
-    title: "Log me innnnnnsdasodij asodij aosijd oasijd oiajsoid jasiojdaojaoisj dijaosi jdsoijd oajaoi sjd "
   },
    auth: {
    redirectUrl: window.location.origin,
