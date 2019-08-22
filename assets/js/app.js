@@ -56,7 +56,7 @@ const updateUI = async () => {
     document.getElementById("btn-logout").classList.remove("hidden");
     document.getElementById("btn-login").classList.add("hidden");
     document.getElementById("ipt-access-token").innerHTML = JSON.stringify(user.name);
-    document.getElementById("ipt-user-profile").innerHTML = JSON.stringify(user.picture);
+    document.getElementById("profile-pic").src = JSON.stringify(user.picture);
      
   } else {
     document.getElementById("btn-logout").classList.add("hidden");
