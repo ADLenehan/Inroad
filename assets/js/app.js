@@ -55,13 +55,15 @@ const updateUI = async () => {
     document.getElementById("gated-content").classList.remove("hidden");
     document.getElementById("btn-logout").classList.remove("hidden");
     document.getElementById("btn-login").classList.add("hidden");
-    document.getElementById("ipt-access-token").innerHTML = JSON.stringify(user.name);
-    document.getElementById("profile-pic").src = JSON.stringify(user.picture);
+    document.getElementById("ipt-access-token").innerHTML = JSON.stringify(user.name).replace(/\"/g, "");
+    document.getElementById("profile-pic").src = JSON.stringify(user.picture).replace(/\"/g, "");
      
   } else {
     document.getElementById("btn-logout").classList.add("hidden");
     document.getElementById("btn-login").classList.remove("hidden");
     document.getElementById("gated-content").classList.add("hidden");
+    document.getElementById("ipt-access-token").innerHTML = "";
+    document.getElementById("profile-pic").src = "";
   }
 };
 
