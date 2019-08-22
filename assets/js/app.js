@@ -48,17 +48,17 @@ window.onload = async () => {
 // NEW
 const updateUI = async () => {
   const isAuthenticated = await auth0.isAuthenticated();
-  document.getElementById("btn-logout").classList.add("hidden") = !isAuthenticated;
-  document.getElementById("btn-login").classList.add("hidden") = isAuthenticated;
-  
+
   if (isAuthenticated) {
     document.getElementById("gated-content").classList.remove("hidden");
+    document.getElementById("btn-login").classList.add("hidden");
     const user = await auth0.getUser();
     document.getElementById("ipt-access-token").innerHTML = JSON.stringify(user.name);
     
     document.getElementById("ipt-user-profile").innerHTML = JSON.stringify(user.picture);
      
   } else {
+    document.getElementById("btn-logout").classList.add("hidden");
     document.getElementById("gated-content").classList.add("hidden");
   }
 };
