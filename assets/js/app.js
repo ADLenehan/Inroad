@@ -50,21 +50,24 @@ const updateUI = async () => {
   const isAuthenticated = await auth0.isAuthenticated();
 
   if (isAuthenticated) {
-    document.getElementById("gated-content").classList.remove("hidden");
-    document.getElementById("btn-login").classList.add("hidden");
     const user = await auth0.getUser();
+    document.getElementById("gated-content").classList.remove("hidden");
+    document.getElementById("btn-logout").classList.remove("hidden");
+    document.getElementById("btn-login").classList.add("hidden");
     document.getElementById("ipt-access-token").innerHTML = JSON.stringify(user.name);
-    
     document.getElementById("ipt-user-profile").innerHTML = JSON.stringify(user.picture);
      
   } else {
     document.getElementById("btn-logout").classList.add("hidden");
+    document.getElementById("btn-login").classList.remove("hidden");
     document.getElementById("gated-content").classList.add("hidden");
   }
 };
+
 const login = async () => {
   lock.show();
 };
+
 const logout = () => {
   auth0.logout({
     returnTo: window.location.origin
