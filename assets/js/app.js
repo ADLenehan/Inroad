@@ -57,7 +57,7 @@ const updateUI = async () => {
       "ipt-access-token"
     ).innerHTML = await auth0.getTokenSilently();
     
-    const userData = await auth0.getUser();
+    const userData = auth0.getUser();
     document.getElementById("ipt-user-profile").innerHTML = JSON.stringify(userData);
   } else {
     document.getElementById("gated-content").classList.add("hidden");
