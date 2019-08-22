@@ -32,6 +32,7 @@ window.onload = async () => {
   
     const isAuthenticated = await auth0.isAuthenticated();
   if (isAuthenticated) {
+    updateUI();
     return;
   }
   // NEW - check for the code and state parameters
