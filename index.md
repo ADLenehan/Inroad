@@ -17,7 +17,11 @@
 <p><a href="https://inroad.co"><img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%" align="left" /></a></p>
 <p style="clear: both;"></p>
 
-# Inroad Guide to Product Management
+<br>
+<p><a href="https://inroad.co"><img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%" align="left" /></a></p>
+<p style="clear: both;"></p>
+
+# The Best of Product Management
 
 Oh, hello! Having worked across a number of companies in the technology and startup universe, we find ourselves referencing the same material over and over again. The information that we find to be most useful is put together by thought leaders who have succeeded as Product Managers out in the real world. This is a bit different than what you’d find in a typical Product Management course online. This outline will serve 2 purposes: first, to explain how we think about modern Product Management to clients and second, to help those interested in careers in Product Management scout the terrain to be traversed. 
 
@@ -49,7 +53,7 @@ By no means should this serve as a comprehensive Product Management course, but 
 
 The “job” of a Product Manager is guiding the products and features they oversee within a company to successful outcomes. How we go about defining and obtaining success on behalf of these products can be the tricky part. Before jumping into the role itself, we think it’d be helpful to explain a bit about how the function of “Product Manager” got started.
 
-<h3>History of Product Management </h3>
+<h4>History of Product Management </h4>
 
 [Martin Eriksson](https://twitter.com/bfgmartin) is an experienced Product Manager who cofounded the blog [Mind the Product](https://www.mindtheproduct.com) (one of our favorites). In his article on [The History and Evolution of Product Management](https://www.mindtheproduct.com/2015/10/history-evolution-product-management/) where Product Management originated and how it evolved. 
 
@@ -61,7 +65,7 @@ If you prefer an audio version, feel free to listen to [The (Abbreviated) Histor
       </div><br>
 
 
-<h3>So... What is Product Management?</h3>
+<h4>So... What is Product Management?</h4>
 
 Ok, so back to the original question. We think Martin does an excellent job of answering this in his post [What Exactly is a Product Manager?](https://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/). As one of the most well-regarded voices in the Product Management community, we think he does a great job of setting the table for us.
 
@@ -72,11 +76,11 @@ While we’re not associated with the many Product Management courses available 
       </div><br>
       
       
-<h3>The Product Lifecycle</h3>
+<h4>The Product Lifecycle</h4>
 So what are the steps that Product Managers go through in order to build successful products that are able to achieve their goals? This post, [Great PMs don’t spend their time on solutions](https://www.intercom.com/blog/great-product-managers-dont-spend-time-on-solutions) by Intercom (a B2B messaging apps company) talks at length about The Product Lifecycle and where Product Managers should be spending their time. An important takeaway here is that great Product Managers have a deep understanding of the problems that they're trying to solve before they ever start thinking about solutions. We’ll talk about this a bit more in the next section.
 
 
-<h3>Good vs Great Product Management</h3>
+<h4>Good vs Great Product Management</h4>
 
 We now have a good understanding of what Product Managers are responsible for, broadly speaking, but what does great Product Management look like? As we said earlier, great PMs have a deep understanding of the problem. Said another way, they understand the customer and the customer's problems before trying to come up with solutions. 
 
@@ -105,7 +109,7 @@ Understanding your customers on a “personal” level is probably the most impo
 
 We recognize that there are likely going to be multiple customers (stakeholders) that the Product Team should be concerned with - including internal stakeholders and external decision makers, but for the purpose of this guide, we’ll focus on the end users. We need to get to know the end user above all others because ultimately these are the customers we’re trying to serve.
 
-<h3>Customers First</h3>
+<h4>Customers First</h4>
 
 Understanding your customers on a “personal” level is probably the most important skill that a product manager can have. As Amazon states in their [Leadership Principles](https://www.amazon.jobs/en/principles), "Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers." If you read that list in full, you’ll notice that this is the first of Amazon’s fourteen leadership principles. It’s important.
 
@@ -116,12 +120,12 @@ We'd be remiss if we didn't have at least one piece of content here from the gre
 </div>
 <br>
 
-<h3>Collecting Information</h3>
+<h4>Collecting Information</h4>
 There's a lot of great information out there on user research, but we think the article [The Product Manager Superpower: User Science](https://medium.com/@tworetzky/the-product-manager-superpower-user-science-7296134ae5a4) does a nice job of laying out what different customer touch points might look like, and how to incorporate user-centric information back into your company.
 
 One important note that you may get, in a B2B company in particular, is distinguishing between users and buyers. As a Product Manager your job is not to build for buyers. [This article](https://hbr.org/2018/02/the-most-successful-brands-focus-on-users-not-buyers) in HBR explains why.
 
-<h3>Jobs to be Done</h3>
+<h4>Jobs to be Done</h4>
 
 Harvard professor, Theodore Levitt, is often quoted as saying, "People don't want to buy a quarter-inch drill, they want a quarter-inch hole." We think this quote perfectly distills down the idea of "Jobs to be done." The person who popularized this idea is another Harvard Professor named [Clayton Christensen](https://twitter.com/claychristensen). Here, Clayton explains what he means when he talks about jobs to be done:
 
@@ -138,12 +142,12 @@ For a bit more information on jobs to be done - see Clayton Christensen's post i
       
 As a Product Manager, once our product has been released, we want consumers to "hire" our product to do a job for them. In diagnosing all of the components that ultimately go into that job, it's important to understand the steps that a consumer goes through in completing that job and understand customer needs at every step. [Tony Ulwick](https://twitter.com/Ulwick) defines "customer outcomes" and breaks down how to solicit them in his article [https://hbr.org/2002/01/turn-customer-input-into-innovation](https://hbr.org/2002/01/turn-customer-input-into-innovation).
 
-<h3>Traditional Customer Segmentation</h3>
+<h4>Traditional Customer Segmentation</h4>
 [Paul Graham](https://twitter.com/paulg), founder of Y-Combinator, once said "“It’s better to have 100 people that love you than a million people that just sort of like you. Find 100 people that love you.” As a Product Manager, it's not your job to make every possible customer happy. It is your job, however, to have a deep understanding of the customers whose problems your product will aim to solve.
 
 There are a number of different ways you can segment a customer base. [The 6 Types of User Segmentation and What They Mean for Your Product](https://uxdesign.cc/how-to-think-segmentation-from-day-1-f714df093ccb) does a very good job at explaining some of the traditional ways businesses segment customers. Although those methods can come in handy from time to time, we think there's probably a better way of segmenting users around what they actually need from the products you might build.
 
-<h3>Jobs-driven Segmentation (New Products)</h3>
+<h4>Jobs-driven Segmentation (New Products)</h4>
 So now that we understand the job to be done, and how users are measuring success or failure for this particular job, how does this affect how we segment users? The post [Market Segmentation Through a Jobs to Be Done Lens](https://jobs-to-be-done.com/market-segmentation-through-a-jobs-to-be-done-lens-5ef9242de65), also by Tony Ulwick. Here, Tony explains why typical methods of market segmentation are often ineffective for creating helpful products. 
 
 Tony also offers a helpful case study on use of his frameworks through his consulting company, [Strategyn](www.strategyn.com). A deep dive on the "segmentation" element of this framework starts at 18:30:
@@ -158,7 +162,7 @@ It's interesting to note here that jobs to be done and traditional segmentation 
 
 For a deeper understanding of some of these concepts, we'd recommend reading Tony's book, [What Customers Want](https://www.amazon.com/What-Customers-Want-Outcome-Driven-Breakthrough/dp/0071408673). The book maps out exactly how to use customer input to drive innovative Product decisions. 
 
-<h3>The Technology Adoption Life Cycle</h3>
+<h4>The Technology Adoption Life Cycle</h4>
 We now have our target customer segments, which are informed by their "jobs to be done." Before moving on, we think it's also important to understand where these customers fall on the Technology Adoption Life Cycle. For an overview of what we're talking about, check out this video:
 
 <div class="video-responsive">
@@ -171,7 +175,7 @@ Ultimately, customers at different stages of this cycle have different expectati
 <h2 id="third-h">III. Understanding the Business</h2>
 We understand the customers we're targeting and what jobs they are ultimately going to hire a product to help them complete. As a Product Manager, you probably work within the confines of a broader company and that company should have a perspective on what value it’s trying to provide those customers - starting with its mission. If you're working for a startup, some of these ideas might be a bit more nascent, or what's sometimes referred to as an emergent strategy (not “top down," not explicit). We're going to keep this section fairly high level so that it's applicable across roles and companies but rest assured if you want to understand business strategy better, there is a wealth of content available outside of this outline to dive into. 
 
-<h3>The Company Mission</h3>
+<h4>The Company Mission</h4>
 Everyone at the company should have a good understanding of what the mission is but this is especially true of Product Managers. Product Managers should be constantly referencing the company's mission as kind of a "north star" that guides product development. This TED talk by [Simon Sinek](https://twitter.com/simonsinek) does a pretty good job of explaining what makes an inspiring company mission:
 
 <div class="video-responsive">
@@ -181,14 +185,14 @@ Everyone at the company should have a good understanding of what the mission is 
 
 [Here](https://www.inc.com/larry-kim/30-inspiring-billion-dollar-startup-company-mission-statements.html) are some other good examples of mission statements across companies. 
 
-<h3>Company Strategy</h3>
+<h4>Company Strategy</h4>
 Many of these sections could be courses unto themselves. That's especially true of this section. Entire MBA programs revolve around equipping executives to become masters of strategic thinking. The term "strategy" can also be pretty abstract. In his HBR article, [Demystifying Strategy](https://hbr.org/2007/09/demystifying-strategy-the-what), HBS professor [Michael Watkins](https://twitter.com/MichaelDWatkins) describes strategy as "a set of guiding principles that, when communicated and adopted in the organization, generates a desired pattern of decision making. A strategy is therefore about how people throughout the organization should make decisions and allocate resources in order accomplish key objectives. A good strategy provides a clear roadmap, consisting of a set of guiding principles or rules, that defines the actions people in the business should take (and not take) and the things they should prioritize (and not prioritize) to achieve desired goals."
 
 From a Product Manager's standpoint, the decisions you make on what to build and how / when to build it ultimately need to align with the business's strategy. [WTF is Strategy](https://hackernoon.com/wtf-is-a-strategy-bcaa3fda9a31) by [Vince Law](https://twitter.com/vincelawco) does an excellent job of explaining how a company's mission informs strategy, which informs roadmap, etc. 
 
 As a bonus here, we'll direct you to Facebook VP, [Julie Zhao's](https://twitter.com/joulee) post entitled [How to be Strategic](https://medium.com/the-year-of-the-looking-glass/how-to-be-strategic-f6630a44f86b). In it she explains what a successfully implemented strategy actually looks like out in the wild. 
 
-<h3>Product Strategy</h3>
+<h4>Product Strategy</h4>
 Product Strategy is the part of the overall business strategy that you, as a Product Manager, have control of. Within Product Strategy, we're seeking to marry what's being asked of us within the company strategy with the problems that we know our customers are actually trying to solve on the ground. The aforementioned Julie Zhao gave an excellent talk at TNW 2016 on "Building with Creative Confidence" that helps to bridge these two ideas:
 
 <div class="video-responsive">
@@ -201,7 +205,7 @@ Oftentimes, your Product Strategy will take the form of a roadmap, but as we’l
 <h2 id="fourth-h">IV. Organizing the Roadmap</h2>
 We now understand the customer, the business, and the strategy (to the extent one exists). The next step is distilling all that information down into the actual product roadmap. Because you will inevitably have a limited number of developers at your company, you'll need to be judicious about what you build and when. The product roadmap is the artifact that ultimately defines that plan. Before we jump into the process of building a roadmap, we think it makes sense to first explain what a roadmap shouldn't be: [12 Signs You’re Working in a Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2).
 
-<h3>Roadmap Definition</h3>
+<h4>Roadmap Definition</h4>
 A roadmap should not be a listing of the features and dates you hope to ship in the coming months, quarters, even years. A roadmap should communicate your product strategy.  Check out this talk by [C. Todd Lombardo]( https://twitter.com/iamctodd), VP of Product at Machine Metrics, which elaborates on how roadmaps relate to elements of the company mission and strategy that we've discussed to this point:
 
 <div class="video-responsive">
@@ -211,7 +215,7 @@ A roadmap should not be a listing of the features and dates you hope to ship in 
 
 We also like this post by Heather McCloskey, which talks about [Outcome-driven Roadmapping]( https://www.productplan.com/outcome-driven-roadmaps/). Ultimately, we want to take the user outcomes that we've collected to this point and group them into themes. Themes will be sets of outcomes that generally relate to the same overall goal. 
 
-<h3>OKRs</h3>
+<h4>OKRs</h4>
 Within our discussions with design and development teams, Product Managers shouldn't be prescriptive about what the solution looks like. However, Product Managers should be prescriptive about the objective for solutions that will ultimately be designed by the broader team. If you're not familiar with what OKRs are and what they represent, check out this post by [Rick Klau](https://twitter.com/rklau), Senior Operating Partner at Google Ventures, entitled [How Google sets goals: OKRs](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7). 
 
 In a Product context, OKRs take on a more specific meaning. Julie Zhuo breaks this out in her article [How do you set metrics?](https://medium.com/the-year-of-the-looking-glass/how-do-you-set-metrics-59f78fea7e44). If you're looking for examples helpful metrics for startups, look no further than Dave Mcclure's [Pirate Metrics](https://medium.com/i-want-to-be-a-product-manager-when-i-grow-up/startup-metrics-for-pirates-aarrr-15fe3a38cf2e). 
@@ -220,7 +224,7 @@ At this point you may ask, "I already have all of these outcomes that my users a
 
 If you want to take a deeper dive on OKRs, how to set them and what makes them effective, we’d recommend checking out the book [Measure What Matters](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221), written by John Doerr, the chairmen of venture capital firm, Kliener Perkins. 
 
-<h3>Prioritization</h3>
+<h4>Prioritization</h4>
 We now have a list of all the things our product could potentially accomplish. We now need to order that list. As stated in [Product Prioritization by the Numbers](https://www.mindtheproduct.com/2017/10/product-prioritization-numbers/), different organizations approach prioritization differently. Sometimes, it's not even the product managers making this call. 
 
 You should have a perspective here whether or not the decision ultimately falls to you. There are a number of different approaches you can use, but they all boil down to a similar idea: which products or features will have the highest return on investment for the company? 
@@ -239,7 +243,7 @@ Keep in mind that the ROI could account for the opportunity cost associated with
 
 One final note on the use of prioritization comes from Ken Norton in his post, [Babe Ruth and Feature Lists](https://www.kennorton.com/essays/babe-ruth-and-feature-lists.html) where he talks about some misunderstandings you can create unknowingly in the structure of your roadmap.
 
-<h3>Saying "No"</h3>
+<h4>Saying "No"</h4>
 Inevitably, there will be a number of opportunities that don't make the roadmap. Also inevitably, a large number of these opportunities will be product requests from inside your own company. As a Product Manager, you need to be able to maintain lines of communication and feedback loops throughout the organization, which means you need to be diplomatic about how and why you say “no.” This post, entitled [Negotiate like a pro: how to say ‘No’ to product feature requests](https://hackernoon.com/negotiate-like-a-pro-how-to-say-no-to-product-feature-requests-e2ce00ae9981) does an excellent job of explaining how to say no constructively.
 
 <h2 id="fifth-h">V. Validating Solutions</h2>
@@ -252,7 +256,7 @@ To this point, we've done no thinking about the actual "solutions." As Albert Ei
 
 As you start to put some of these skills into practice, you'll be tempted to bring “solutions thinking” forward in the process and start brainstorming solutions before developing a thorough understanding of the problem space. Try to avoid this - particularly in conversations you have with users. Don't cloud their perspective and input with your own ideas of how their problems should be solved until after you understand the problem as fully as possible. That being said, we've now entered the "solution space" of the Product Management Process. 
 
-<h3>The Opportunity Solutions Tree</h3>
+<h4>The Opportunity Solutions Tree</h4>
 You may be curious about how many of these ideas around customer input, outcomes (OKRs), and opportunities actually fit together. There's a relatively new “framework” that we love to introduce here called the [Opportunity Solutions Tree](https://www.producttalk.org/2016/08/opportunity-solution-tree/). It was developed by [Teresa Torres](https://twitter.com/ttorres), who is an expert in Product Discovery. For an excellent overview of her take on Product Discovery and how it relates to some of the formative work in the Product space leading up to this point, watch her keynote from Productized Conference 2016 in Lisbon:
 
 <div class="video-responsive">
@@ -262,7 +266,7 @@ You may be curious about how many of these ideas around customer input, outcomes
 
 For a bit of a deeper dive on the framework, as well as a supporting podcast, see [An Introduction to Modern Product Discovery](https://medium.com/productized-blog/an-introduction-to-modern-product-discovery-by-teresa-torres-productizedconf-bb2703b01fdb) on the Productized Blog. 
 
-<h3>Generating Solutions</h3>
+<h4>Generating Solutions</h4>
 Ok so how do we go about finding elegant solutions to these customer problems? You guessed it - brainstorming! You'll generally want to brainstorm with a UX designer and an Engineering leader, but the more folks you involve in this process, the better. Different organizations have different ways of brainstorming, but we like this guidance from University of Pennsylvania Organizational Psychologist, [Adam Grant](https://twitter.com/AdamMGrant):
 
 <div class="video-responsive">
@@ -272,10 +276,10 @@ Ok so how do we go about finding elegant solutions to these customer problems? Y
 
 If you're looking for some other points of reference on how to think about brainstorming solutions, check out these articles from [HBR](https://hbr.org/2017/05/your-team-is-brainstorming-all-wrong) and [McKinsey](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/seven-steps-to-better-brainstorming).
 
-<h3>Testing Solutions</h3>
+<h4>Testing Solutions</h4>
 We want to know that our solutions are producing the outcomes our users are looking for as soon as possible. Ideally, if we're off base in any way, we'd like to learn that before our team has written a single line of code. In our estimation, there's a significant difference here between experiments you're going to run while developing new products and features at an product vs developing a new product. At a startup, you're trying to validate much more than the product, you're trying to validate the idea, market, etc (the business itself). This merits a different approach to experimentation - developing a minimum viable product instead of running a singular experiment. 
 
-<h3>Experiment Design</h3>
+<h4>Experiment Design</h4>
 If you have a background in Science (or took a science class back in the day), you're probably familiar with The Scientific Method. We think the Scientific Method provides a pretty good framework from which to start thinking about product experimentation. Check out this talk by a Ruben Lozano, Google PM, at ProductCon Seattle 2019 about applying the Scientific Method to product experimentation:
 
 <div class="video-responsive">
@@ -292,7 +296,7 @@ Experimentation and iteration should be a continuous process - if at first you d
 For an explanation of what this type of experimentation could look like at an established company, we recommend checking out the book [Sprint]( https://www.amazon.com/gp/product/150112174X)  written by designer, [Jake Knapp]( https://twitter.com/jakek).
 
 
-<h3>The MVP - Minimum Viable Product</h3>
+<h4>The MVP - Minimum Viable Product</h4>
 A lot of the literature that you'll encounter around in the Product Management world around developing Minimum Viable Products and releasing them into the world to see if the product is able to find Product-Market Fit. One of the most referenced startup posts of all time comes from [Marc Andreeson](https://twitter.com/pmarca), former CTO of Netscape, entitled [The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html).
 
 Andreeson's post provides an excellent overview, but we also like these posts: [Making sense of MVP](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp) and [What does “Minimum Viable Product” actually mean, anyway?](https://medium.com/free-code-camp/what-the-hell-does-minimum-viable-product-actually-mean-anyway-7d8f6a110f38), that actually break out the idea a little further. It's also worth checking out [The Ultimate Guide to MVP](https://medium.com/hackernoon/the-ultimate-guide-to-minimum-viable-product-59218ce738f8) from Hackernoon, which breaks out a bunch of helpful tools for building an monitoring an MVP.
@@ -311,14 +315,14 @@ For an overview of MVP in audio form, check out the Startup Podcast:
 
 There a number of schools of thought when it comes to the Product Requirements Document or “PRD" or "Spec." Check out this Quora thread, [What should a lean startup functional spec / product requirements doc look like?](https://www.quora.com/What-should-a-lean-startup-functional-spec-product-requirements-doc-look-like), for a peak into what this debate looks like. Basically, there are two sides to this argument. The dissenting view subscribes to the thought that in a "lean" world, PRDs "overengineer" a solution so the process is, therefore, counterproductive. This makes sense, but we (and most companies) still think that there's value in thinking through the PRD, and that [Great Product Managers Obsess over Documentation](https://slab.com/blog/why-obsessive-documentation-is-key-to-being-a-great-product-manager/), so we'll go ahead and take you through it.
 
-<h3>PRD Format</h3>
+<h4>PRD Format</h4>
 The Silicon Valley Product Group does a nice job summarizing what a PRD is in their [How to Write a Good PRD](https://svpg.com/assets/Files/goodprd.pdf). They say "The purpose of the product requirements document (PRD) or product spec is to clearly and unambiguously articulate the product’s purpose, features, functionality, and behavior. The product team will use this specification to actually build and test the product, so it needs to be complete enough to provide them the information they need to do their jobs. If the PRD is done well, it still might not be a successful product, but it is certain that if the PRD is not done well, it is nearly impossible for a good product to result." Ultimately, this is the document that your development team is going to refer to when they actually build the product.
 
 You'll find that as you write PRDs, the process of writing becomes a useful thought exercise and framework for thinking about your own products. The blog post [How you write Product Specs is how you build products](https://hackernoon.com/how-you-write-product-specs-is-how-you-build-products-8072e52dabed) explains why.
 
 As far as the actual structure of a PRD, we've found a few examples that we think exemplify a well-written PRD. Check out: [On Writing Specs](https://goberoi.com/on-writing-product-specs-5ca697b992fd) and [Asana's Spec Template & Spec Training](https://medium.com/@jackiebo/asanas-spec-template-spec-training-33bfd9d4dd32)
 
-<h3>Creating Alignment</h3>
+<h4>Creating Alignment</h4>
 Chances are that if you work an existing company, it's not enough to spec out the product that you're seeking to build. You will likely need to take the extra step of recruiting others to buy in to your product vision and perhaps even work on building your product.
 
 As a Product Manager, you should be extremely focused on data and use it to guide your decisions, but in order to get others to buy into those decisions, you'll also want to understand the art of storytelling. Check out Anna Marie Clifton's talk at Mind the Product here: 
@@ -345,7 +349,7 @@ A Product Manager's relationships to the Engineers and Designers responsible for
 Regardless of what type of company you're working for, this section will give you a good sense for what types of development teams generally employ to get products built. We'll also talk a bit about how much tech and how much design you need to know to effectively interface with design and development teams. 
 
 
-<h3>Cross-functional Teams</h3>
+<h4>Cross-functional Teams</h4>
 No matter how you or your company chooses to organize a development team, it's important to understand the basics of how to organize and motivate a cross-functional team (which the development team will necessarily be). We love the talk by [Ron Lichty]( https://twitter.com/RonLichty), developer management expert, talk entitled ‘How to Get Your Development Team to Love You,' which you can watch here:
 
 <div class="video-responsive">
@@ -361,7 +365,7 @@ We also like this presentation by Ken Norton entitled [Leading Cross-functional 
 
 If you'd like to go deep on this topic, we'd recommend picking up Fred Brooks's [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B000OZ0N6M) which you'll often see referenced as the go-to material for explaining the human elements of software engineering.
 
-<h3>Types of Development</h3>
+<h4>Types of Development</h4>
 Aside from what language your engineers are actually coding in, there are a number of different development methodologies that engineering teams employ to work efficiently and stay organized. Rather than go through each in painstaking detail, we're going to recommend some broad overviews and then walk you through the chronology of how each methodology was created and developed, which will give you a better understanding of how they all relate to each other and which one you might ultimately want to choose - should you be responsible for making that decision. 
 
 We really like Roadmunk's [8 Popular Software Development Methodologies](https://roadmunk.com/guides/types-of-software-development-methodologies/) because it includes some pros and cons that one might want to consider for each. We also like this [visual guide](https://toggl.com/developer-methods-infographic/) from Toggl, which walks you through a few of these in cartoon form (fun!). For a drier, but more descriptive explanation of a few more methodologies, see the IT Development Portal's [Software Development Methodologies](https://www.itinfo.am/eng/software-development-methodologies). 
@@ -370,15 +374,15 @@ For a sense for where we're going here, check out:
 
 ![Agile Timeline](https://cdn.visual-paradigm.com/solutions/agile-software-development/agile-timeline.png "Agile Timeline")
 
-<h3>Waterfall</h3>
+<h4>Waterfall</h4>
 There are references to sequential or "waterfall" development that date back to the 50s, but the first formal description of this type of development is credited to Winston Royce, an American computer scientist who was heavily involved in early space missions, in his paper [Managing the Development of Large Software Systems](https://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf). We don't expect you to actually read that, but know generally that waterfall may be a good option if scope is fixed (user's requirements aren't changing) or users don't want to be / can't be involved in the development process. For more comprehensive guidance, check out Smartsheet's [When to Choose Waterfall Project Management Over Agile](https://www.smartsheet.com/when-choose-waterfall-project-management-over-agile).
 
-<h3>Agile Methodologies</h3>
+<h4>Agile Methodologies</h4>
 A competing idea started to be developed in the 1970s, which focused less around sequential processes and more around adaptation to the specific needs of the project. Within this idea, a number of "lightweight" methodologies were developed, including Rapid Application Development (RAD, 1991), the Unified Process (UP, 1994), the Dynamic Systems Development Method (DSDM, 1994), Scrum (1995), Crystal Clear (1996) and Extreme Programming (XP, 1996). 
 
 All of these methodologies originated before the publication of the [Agile Manifesto](https://agilemanifesto.org/) in 2001, but they are broadly categorized as agile methodologies. For a precise definition of what agile is, we'd recommend reading the Agile Manifesto - its website also harkens back to a simpler time on the internet, which we appreciate. We'd also recommend checking out Jacob Aliet Ondiek's [The 12 Agile Manifesto Principles Simply Explained](https://www.linkedin.com/pulse/12-agile-manifesto-principles-simply-explained-jacob-aliet-ondiek/), which provides a bit more context around what the principles mean. We'd also recommend checking out [The Agile Alliance](https://www.agilealliance.org) for more tools and content around agile.
 
-<h3>Scrum</h3>
+<h4>Scrum</h4>
 The most common of the agile methodologies is probably Scrum. "Agile" itself is a set of principles without rules / guidelines for how to implement those principles. Scrum is a common set of rules for implementing agile principles. Here's a peak into what Scrum is from Scrum.org:
 
 <div class="video-responsive">
@@ -388,7 +392,7 @@ The most common of the agile methodologies is probably Scrum. "Agile" itself is 
 
 We'd recommend taking a deep dive on Scrum.org's [What is Scrum?](https://www.scrum.org/resources/what-is-scrum) for more information on how Scrum is organized. We also like Eric Weiss's [You're Doing Scrum Wrong and Here's How to Fix It](https://medium.com/hackernoon/youre-doing-scrum-wrong-and-here-s-how-to-fix-it-6d45fdd26721) for an updated take on how Scrum can be used at modern companies. 
 
-<h3>Lean</h3>
+<h4>Lean</h4>
 The last of the agile methodologies we’re going to mention here is Lean Software Development, which was developed based on the lean manufacturing principles developed at Toyota in the 1960s and 70s. Within this guide, we subscribe to a number of components of Lean Product Development that ultimately carry over into Lean Software Development. For an overview of what Lean Software Development is, and how it differs from Agile, check out Hackernoon’s [Lean for Software Developers]( https://hackernoon.com/lean-for-software-developers-15021cfb382c).
 
 We’d also recommend checking out [Mary Poppendieck](https://twitter.com/mpoppendieck), who has authored many books on the subject, in her talk on The Future of Software Engineering from GOTO Berlin 2016:
@@ -399,7 +403,7 @@ We’d also recommend checking out [Mary Poppendieck](https://twitter.com/mpoppe
 <br>
 
 
-<h3>Technical and Design Skills</h3>
+<h4>Technical and Design Skills</h4>
 One myth about Product Management (that hopefully we've dispelled at this point) is that you need a Computer Science degree in order to be eligible for these jobs. However, it is necessary that Product Managers have the ability to communicate technical concepts and communicate with technical people. [Fred Wilson]( https://twitter.com/fredwilson), cofounder of the VC firm Union Square Ventures, has an excellent post on this topic in his blog entitled [The Yin and Yang of Product and Engineering](https://avc.com/2010/05/the-yin-and-yang-of-product-and-engineering/) which explains how the two functions should fit together at various stages of company development.
 
 For a practical guide on what to do to gain technical experience, check out Lulu Cheng's blog post [Getting to “technical enough” as a product manager](https://www.lulucheng.com/2015/11/28/getting-to-technical-enough-as-a-product-manager/). Julie Zhuo also has an excellent post on this topic, where she approaches the question of [How to Work with Engineers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-engineers-a3163ff1eced) from a designer's perspective. Ken Norton has a post called [How to Work With Software Engineers](https://www.kennorton.com/essays/how-to-work-with-software-engineers.html) that focuses more on the "soft skills" necessary to be effective here.
@@ -411,7 +415,7 @@ If working more closely with designers interests you, we’d recommend picking u
 <h2 id="eighth-h">VIII. Releasing the Product</h2>
 Anyone who has seen Field of Dreams (or Wayne's World 2) will recognize the quote "if you build it, they will come." As a Product Manager, you've now overseen the conception and building of your product. Now, you need to make sure customers are using it - and using it in the ways you anticipated. Generally speaking, this is done with alpha and beta tests, which release products to smaller groups of users before releasing to a broader base of users. Beyond these tests, you'll want to make sure your Marketing and Sales teams are also equipped to talk about your product so that they're sending the right message into the market and giving your product the best chance possible to succeed. As we've mentioned in pretty much every section, different companies will do this differently, but we'll go over some of the main Product Manager touchpoints for a successful launch.
 
-<h3>Alpha and Beta Tests</h3>
+<h4>Alpha and Beta Tests</h4>
 Alpha and beta tests are designed to achieve similar goals, but experiment on different audiences. Typically, alpha tests are performed by internal employees in some type of development or "sandbox" environment. Beta tests are performed by actual users and clients with the live or "production" version of the product. 
 
 For a step-by-step walkthrough of what a successful beta test looks like, check out Intercom's [How to run a successful beta in 7 steps](https://www.intercom.com/blog/how-to-run-a-successful-beta/). If you're working at an early-stage company, Ula Holovko's post, [How to Conduct a Closed Beta Testing with Zero Budget](https://medium.com/swlh/how-to-conduct-a-closed-beta-testing-with-zero-budget-acd19c2de43) might be helpful. In it, she goes through an actual case study about how they ran the beta test for her product, KeepSolid Sign.
@@ -422,7 +426,7 @@ You may also want to check out the Product Podcast on the subject of beta tests 
 <iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/134992/62942362" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
       </div><br>
 
-<h3>The Launch</h3>
+<h4>The Launch</h4>
 We've reached the finish line (kind of)! It's now time to actually launch the product to users. Different companies will have different approaches here - particularly when you look across the B2B vs B2C space. For the purposes of this outline, we'll point to a few resources that you may find helpful, but if you're working at an established company, they're likely to have their own idea of what a launch plan and successful launch look like. 
 
 First, to get the nomenclature right, you'll want to check out a series of posts outlining a number of technical terms associated with releasing product in Turbine Labs's Deploy != Release blog posts [here](https://blog.turbinelabs.io/deploy-not-equal-release-part-one-4724bc1e726b) and [here](https://blog.turbinelabs.io/deploy-not-equal-release-part-two-acbfe402a91c).
@@ -432,7 +436,7 @@ After familiarizing yourself with those, you'll want to check out a "checklist" 
 One of our favorite posts on product launches comes from the CEO of Slack, [Stewart Butterfield](https://twitter.com/stewart) which is the memo he sent his company before Slack's launch, [We Don't Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d). This post could have gone in the “company mission” section above or the “marketing” section below, but he sent it as part of their launch, so we’ll leave it here.
 
 
-<h3>Product Marketing and Sales</h3>
+<h4>Product Marketing and Sales</h4>
 Thankfully, there are usually other functions at a company that share the responsibility for getting products into the hands of users. Generally speaking, these are the Marketing and Sales teams. Sometimes, the Product Marketing Manager will handle the relationship with Sales and create many of the communications and collateral that the Sales Team will need in order to effectively sell your product. Other times, the Product Manager is responsible for each of these touchpoints. In this section, we'll explain a bit about what these functions are responsible for and how Product Managers should liaise with them.
 
 At a technology company, you'll often find the specific job related to product adoption at a company is the Product Marketing Manager. We like Yasmeen Turayhi's blog post, [When it’s time to hire a Product Marketing Manager](https://medium.com/product-launch-before-and-after/when-to-hire-your-product-marketing-manager-70a1ae13535e), which explains what the role is and how it fits into a typical early-stage company. First Round has similar post, [ClassPass’ CMO on How and When to Invest in Product Marketing](https://firstround.com/review/classpass-cmo-on-how-and-when-to-invest-in-product-marketing/) We also like the post [Why Product Marketing is the Growth Secret Weapon You Absolutely Must Have](https://growthmarketingconf.com/product-marketing-must-have) from the Growth Marketing Conference, which expands on the difference between a general Marketing team and a Product Marketing team. For a look at what excellent Product Marketing looked like at some big name tech companies, check out the post [What I Learned From Developing Branding for Airbnb, Dropbox and Thumbtack](https://firstround.com/review/what-i-learned-from-developing-branding-for-airbnb-dropbox-and-thumbtack/).
@@ -474,6 +478,7 @@ Here are some of the books and blogs worth following that contributed heavily to
 <li>[Sebastien Phlix’s](https://twitter.com/sebastienphl) [2017]( https://medium.com/@sebastienphl/my-product-management-reading-list-2017-cb874975c635) and [2018](https://medium.com/@sebastienphl/my-product-management-reading-list-2018-bad70780c51f) Product Management Reading Lists</li>
 <li>Also check out Product Coalition’s [List of Product Management Courses](https://productcoalition.com/a-comprehensive-list-of-product-management-courses-522ad0b96b75) if you’d like to continue your education!</li>
 </ul>
+
 
 
 
