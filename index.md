@@ -13,11 +13,11 @@
       <pre id="ipt-user-profile"></pre>
     </label>
   </div>
-<br>
+<br><br><br>
 <p><a href="https://inroad.co"><img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%" align="left" /></a></p>
 <p style="clear: both;"></p>
 
-# The Best of Product Management
+# Inroad Guide to Product Management
 
 Oh, hello! Having worked across a number of companies in the technology and startup universe, we find ourselves referencing the same material over and over again. The information that we find to be most useful is put together by thought leaders who have succeeded as Product Managers out in the real world. This is a bit different than what you’d find in a typical Product Management course online. This outline will serve 2 purposes: first, to explain how we think about modern Product Management to clients and second, to help those interested in careers in Product Management scout the terrain to be traversed. 
 
