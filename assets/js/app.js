@@ -63,7 +63,7 @@ const updateUI = async () => {
     document.getElementById("btn-login").classList.remove("hidden");
     document.getElementById("gated-content").classList.add("hidden");
     document.getElementById("ipt-access-token").innerHTML = "";
-    document.getElementById("profile-pic").src = "";
+    document.getElementById("profile-pic").classList.add("hidden");
   }
 };
 
