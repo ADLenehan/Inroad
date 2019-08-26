@@ -189,3 +189,7 @@ label {
 .auth0-lock.auth0-lock .auth0-lock-header-bg {
     height: 100% !important;
 }
+
+a:not([href]):not([tabindex]) {
+    color: white !important;;
+}
