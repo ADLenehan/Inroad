@@ -178,10 +178,10 @@ label {
 }
 
 .auth0-lock.auth0-lock .auth0-lock-name {
-  white-space: normal; 
-  overflow: visible;
+  white-space: normal !important; 
+  overflow: visible !important;
 }
 
 .auth0-lock.auth0-lock .auth0-lock-widget {
-    width: 400px;
+    width: 400px !important;
 }
