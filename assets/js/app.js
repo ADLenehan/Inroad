@@ -11,7 +11,7 @@ var options = {
    responseType: 'code',
   },
    languageDictionary: {
-    title: "We promise to never share your info with anyone, but we'd love to know a bit more about who's checking this info out! Please sign in with LinkedIn to continue - thanks!",
+    title: "We promise to never share your info with anyone, but we'd love to know a bit more about who's checking this info out! Please sign in with LinkedIn to continue.",
     emailInputPlaceholder: "something@youremail.com"
   },
    popupOptions: { width: 800 }
