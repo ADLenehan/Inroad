@@ -70,7 +70,12 @@ const updateUI = async () => {
 };
 
 const login = async () => {
-  lock.show();
+  const isAuthenticated = await auth0.isAuthenticated();
+  if (isAuthenticated) {
+     return;
+     } else {
+     lock.show();
+  }
 };
 
 const logout = () => {
