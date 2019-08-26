@@ -17,6 +17,7 @@ var options = {
    popupOptions: { width: 800 }
 };
 var lock = new Auth0Lock('NHAcMO0QsAek2ftHsriSFGRi6RIr8QTO','inroad.auth0.com', options);
+
 const configureClient = async () => {
   const response = await fetchAuthConfig();
   const config = await response.json();
@@ -25,13 +26,15 @@ const configureClient = async () => {
     client_id: config.clientId
   });
 };
+
 window.onload = async () => {
   await configureClient();
   // NEW - update the UI state
   updateUI();
   
-    const isAuthenticated = await auth0.isAuthenticated();
+  const isAuthenticated = await auth0.isAuthenticated();
   if (isAuthenticated) {
+    await auth0.getTokenSilently();
     updateUI();
     return;
   }
@@ -40,7 +43,6 @@ window.onload = async () => {
   if (query.includes("code=") && query.includes("state=")) {
     // Process the login state
     await auth0.getTokenSilently();
-    
     updateUI();
     // Use replaceState to redirect the user away and remove the querystring parameters
     window.history.replaceState({}, document.title, "/");
