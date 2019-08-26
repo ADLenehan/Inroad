@@ -53,7 +53,6 @@ const updateUI = async () => {
   if (isAuthenticated) {
     const user = await auth0.getUser();
     alert("Hello! I am authed");
-    document.getElementById("gated-content").classList.remove("hidden");
     document.getElementById("btn-logout").classList.remove("hidden");
     document.getElementById("btn-login").classList.add("hidden");
     document.getElementById("ipt-access-token").innerHTML = JSON.stringify(user.name).replace(/\"/g, "");
