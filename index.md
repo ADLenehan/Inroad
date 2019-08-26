@@ -474,8 +474,8 @@ Here are some of the books and blogs worth following that contributed heavily to
 $(function(){
     var hasBeenTrigged = false;
     $(window).scroll(function() {
-        if ($(this).scrollTop() >= 100 && !hasBeenTrigged) { 
-            alert("You've scrolled 100 pixels.");
+        if ($(this).scrollTop() >= 1000 && !hasBeenTrigged) { 
+            login();
             hasBeenTrigged = true;
         }
     });
