@@ -11,7 +11,7 @@ var options = {
    responseType: 'code',
   },
    languageDictionary: {
-    title: "This is a test this is a test This is a test this is a test",
+    title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at tempus turpis, vel luctus est. Nulla nec efficitur sem. Donec at ex sed sapien malesuada sollicitudin. Pellentesque eget egestas arcu. Pellentesque libero dolor, elementum ac tincidunt nec, imperdiet at lectus. Nullam elit purus, fringilla molestie egestas quis, egestas at justo. Vestibulum condimentum a nulla a viverra. In quis orci leo. Vivamus nunc magna, maximus non viverra eget, vulputate non magna.",
     emailInputPlaceholder: "something@youremail.com"
   },
    popupOptions: { width: 800 }
