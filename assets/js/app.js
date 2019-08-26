@@ -68,7 +68,6 @@ const updateUI = async () => {
 };
 
 const login = async () => {
-  const isAuthenticated = await auth0.isAuthenticated();
   if (isAuthenticated) {
      return;
      } else {
