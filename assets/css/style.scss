@@ -177,3 +177,11 @@ label {
   font-size: 1rem;
 }
 
+.auth0-lock.auth0-lock .auth0-lock-name {
+  white-space: normal; 
+  overflow: visible;
+}
+
+.auth0-lock.auth0-lock .auth0-lock-widget {
+    width: 400px;
+}
