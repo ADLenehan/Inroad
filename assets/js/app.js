@@ -11,7 +11,7 @@ var options = {
    responseType: 'code',
   },
    languageDictionary: {
-    title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam at tempus turpis, vel luctus est. Nulla nec efficitur sem. Donec at ex sed sapien malesuada sollicitudin. Pellentesque eget egestas arcu. Pellentesque libero dolor, elementum ac tincidunt nec, imperdiet at lectus. Nullam elit purus, fringilla molestie egestas quis, egestas at justo. Vestibulum condimentum a nulla a viverra. In quis orci leo. Vivamus nunc magna, maximus non viverra eget, vulputate non magna.",
+    title: "We promise to never share your info with anyone, but we'd love to know a bit more about who's checking this info out! Please sign in with LinkedIn to continue - thanks!",
     emailInputPlaceholder: "something@youremail.com"
   },
    popupOptions: { width: 800 }
