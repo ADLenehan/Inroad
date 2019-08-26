@@ -8,7 +8,7 @@ var options = {
   },
    auth: {
    redirectUrl: window.location.origin,
-   responseType: 'code',
+   responseType: 'code id_token token',
   },
    languageDictionary: {
     title: "We promise to never share your info with anyone, but we'd love to know a bit more about who's checking this info out! Please sign in with LinkedIn to continue.",
