@@ -34,7 +34,6 @@ window.onload = async () => {
   
   const isAuthenticated = await auth0.isAuthenticated();
   if (isAuthenticated) {
-    await auth0.getTokenSilently();
     updateUI();
     return;
   }
