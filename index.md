@@ -3,7 +3,7 @@
 <p><a href="https://inroad.co"><img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%" align="left" /></a></p>
 <p style="clear: both;"></p>
 
-# Guide to Product Management
+# The Best of Product Management
 
 Oh, hello! Having worked across a number of companies in the technology and startup universe, we find ourselves referencing the same material over and over again. The information that we find to be most useful is put together by thought leaders who have succeeded as Product Managers out in the real world. This is a bit different than what you’d find in a typical Product Management course online. This outline will serve 2 purposes: first, to explain how we think about modern Product Management to clients and second, to help those interested in careers in Product Management scout the terrain to be traversed. 
 
@@ -54,7 +54,7 @@ Ok, so back to the original question. We think Martin does an excellent job of a
 While we’re not associated with the many Product Management courses available online, we do recognize that they’ve produced some helpful (and usually free) resources. One of those is [The Product Podcast](https://podcasts.apple.com/us/podcast/the-product-podcast/id1219400787) from [Product School](https://www.productschool.com/). They do a really nice job in their “What is Product Management?” podcast of explaining what Product Management is (and is not):
 
 <div class="audio-responsive">
-<iframe style="border: solid 1px #dedede;"  loading=”lazy”  src="https://app.stitcher.com/splayer/f/134992/58323123" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/134992/58323123" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
       </div><br>
       
       
@@ -77,7 +77,7 @@ We don't think an MBA is a requirement for great Product Management, but we do t
 Great Product Managers are also willing to take great (calculated) risks - especially when the pace of growth necessitates it. In his talk "10x Not 10% : Product Management by Orders of Magnitude" [Ken Norton](https://twitter.com/kennethn), Product Manager and Senior Operating Partner at Google Ventures, talks about how Product Managers should fight their instinct for loss aversion and go for moonshots:
 
 <div class="video-responsive">
-<iframe src="https://player.vimeo.com/video/141675862" loading=”lazy”  width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/141675862" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -98,7 +98,7 @@ Understanding your customers on a “personal” level is probably the most impo
 We'd be remiss if we didn't have at least one piece of content here from the great Steve Jobs. This video is from Apple's 1997 Worldwide Developer Conference. In it, Steve Jobs explains to a disgruntled developer why it's important to start with the customer and not with the technology:
 
 <div class="video-responsive">
-      <iframe loading=”lazy”  width="560" height="349" src="https://www.youtube.com/embed/FF-tKLISfPE?rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="349" src="https://www.youtube.com/embed/FF-tKLISfPE?rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -112,14 +112,14 @@ One important note that you may get, in a B2B company in particular, is distingu
 Harvard professor, Theodore Levitt, is often quoted as saying, "People don't want to buy a quarter-inch drill, they want a quarter-inch hole." We think this quote perfectly distills down the idea of "Jobs to be done." The person who popularized this idea is another Harvard Professor named [Clayton Christensen](https://twitter.com/claychristensen). Here, Clayton explains what he means when he talks about jobs to be done:
 
 <div class="video-responsive">
-      <iframe width="560" height="349" loading=”lazy”  src="https://www.youtube.com/embed/1SfUsSyGWJ8?t=8&rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="349" src="https://www.youtube.com/embed/1SfUsSyGWJ8?t=8&rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 
 For a bit more information on jobs to be done - see Clayton Christensen's post in HBR [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done). HBR also put out a helpful podcast on the topic:
 
 <div class="audio-responsive">
-<iframe style="border: solid 1px #dedede;"  loading=”lazy”  src="https://app.stitcher.com/splayer/f/6655/48484546" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/6655/48484546" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
       </div><br>
       
 As a Product Manager, once our product has been released, we want consumers to "hire" our product to do a job for them. In diagnosing all of the components that ultimately go into that job, it's important to understand the steps that a consumer goes through in completing that job and understand customer needs at every step. [Tony Ulwick](https://twitter.com/Ulwick) defines "customer outcomes" and breaks down how to solicit them in his article [https://hbr.org/2002/01/turn-customer-input-into-innovation](https://hbr.org/2002/01/turn-customer-input-into-innovation).
@@ -135,7 +135,7 @@ So now that we understand the job to be done, and how users are measuring succes
 Tony also offers a helpful case study on use of his frameworks through his consulting company, [Strategyn](www.strategyn.com). A deep dive on the "segmentation" element of this framework starts at 18:30:
 
 <div class="video-responsive">
-      <iframe width="560" height="349" loading=”lazy”  src="https://www.youtube.com/embed/6t2Bt0hdOus?t=8&rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="349" src="https://www.youtube.com/embed/6t2Bt0hdOus?t=8&rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -148,7 +148,7 @@ For a deeper understanding of some of these concepts, we'd recommend reading Ton
 We now have our target customer segments, which are informed by their "jobs to be done." Before moving on, we think it's also important to understand where these customers fall on the Technology Adoption Life Cycle. For an overview of what we're talking about, check out this video:
 
 <div class="video-responsive">
-      <iframe width="560" height="349" loading=”lazy”  src="https://www.youtube.com/embed/9QnfWhtujPA?t=8&rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="349" src="https://www.youtube.com/embed/9QnfWhtujPA?t=8&rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -161,7 +161,7 @@ We understand the customers we're targeting and what jobs they are ultimately go
 Everyone at the company should have a good understanding of what the mission is but this is especially true of Product Managers. Product Managers should be constantly referencing the company's mission as kind of a "north star" that guides product development. This TED talk by [Simon Sinek](https://twitter.com/simonsinek) does a pretty good job of explaining what makes an inspiring company mission:
 
 <div class="video-responsive">
-      <iframe width="560" height="349" loading=”lazy”  src="https://www.youtube.com/embed/u4ZoJKF_VuA" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="349" src="https://www.youtube.com/embed/u4ZoJKF_VuA" frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -178,7 +178,7 @@ As a bonus here, we'll direct you to Facebook VP, [Julie Zhao's](https://twitter
 Product Strategy is the part of the overall business strategy that you, as a Product Manager, have control of. Within Product Strategy, we're seeking to marry what's being asked of us within the company strategy with the problems that we know our customers are actually trying to solve on the ground. The aforementioned Julie Zhao gave an excellent talk at TNW 2016 on "Building with Creative Confidence" that helps to bridge these two ideas:
 
 <div class="video-responsive">
-      <iframe width="560" height="349" loading=”lazy”  src="https://www.youtube.com/embed/IIm289_YMIE" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="349" src="https://www.youtube.com/embed/IIm289_YMIE" frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -191,7 +191,7 @@ We now understand the customer, the business, and the strategy (to the extent on
 A roadmap should not be a listing of the features and dates you hope to ship in the coming months, quarters, even years. A roadmap should communicate your product strategy.  Check out this talk by [C. Todd Lombardo]( https://twitter.com/iamctodd), VP of Product at Machine Metrics, which elaborates on how roadmaps relate to elements of the company mission and strategy that we've discussed to this point:
 
 <div class="video-responsive">
-<iframe src="https://player.vimeo.com/video/285660483" loading=”lazy”  width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/285660483" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -216,7 +216,7 @@ You should have a perspective here whether or not the decision ultimately falls 
 You should also check out this podcast from The Product School:
 
 <div class="audio-responsive">
-<iframe style="border: solid 1px #dedede;"  loading=”lazy”  src="https://app.stitcher.com/splayer/f/134992/62310534"  width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/134992/62310534"  width="100%" height="150" frameborder="0" scrolling="no"></iframe>
       </div><br>
       
 We're not going to say definitively that there's one ideal way to prioritize a backlog, but if you're looking for a simple answer here, check out [Ian McAllister]( https://twitter.com/ianmcall), Director of Product at Amazon, in his Quora answer to the question [What are the best ways to prioritize a list of product features?](https://www.quora.com/What-are-the-best-ways-to-prioritize-a-list-of-product-features).
@@ -232,7 +232,7 @@ Inevitably, there will be a number of opportunities that don't make the roadmap.
 To this point, we've done no thinking about the actual "solutions." As Albert Einstein once said, "If I had only one hour to save the world, I would spend fifty-five minutes defining the problem, and only five minutes finding the solution." In Product Management terms, as we’ve mentioned, great Product Managers go deep on the problem before they ever start thinking about how to solve it. Before we move ahead, check out this talk from [Michael Sippey](https://twitter.com/sippey), a former VP of Product at Twitter now at Medium:
 
 <div class="video-responsive">
-<iframe src=" https://www.youtube.com/embed/DXVEiARMR1E" loading=”lazy”  width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src=" https://www.youtube.com/embed/DXVEiARMR1E" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -242,7 +242,7 @@ As you start to put some of these skills into practice, you'll be tempted to bri
 You may be curious about how many of these ideas around customer input, outcomes (OKRs), and opportunities actually fit together. There's a relatively new “framework” that we love to introduce here called the [Opportunity Solutions Tree](https://www.producttalk.org/2016/08/opportunity-solution-tree/). It was developed by [Teresa Torres](https://twitter.com/ttorres), who is an expert in Product Discovery. For an excellent overview of her take on Product Discovery and how it relates to some of the formative work in the Product space leading up to this point, watch her keynote from Productized Conference 2016 in Lisbon:
 
 <div class="video-responsive">
-<iframe src="https://www.youtube.com/embed/l7-5x0ra2tc" loading=”lazy”   width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/l7-5x0ra2tc"  width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -252,7 +252,7 @@ For a bit of a deeper dive on the framework, as well as a supporting podcast, se
 Ok so how do we go about finding elegant solutions to these customer problems? You guessed it - brainstorming! You'll generally want to brainstorm with a UX designer and an Engineering leader, but the more folks you involve in this process, the better. Different organizations have different ways of brainstorming, but we like this guidance from University of Pennsylvania Organizational Psychologist, [Adam Grant](https://twitter.com/AdamMGrant):
 
 <div class="video-responsive">
-<iframe src="https://www.youtube.com/embed/dIY_Zk3IiW4" loading=”lazy”  width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/dIY_Zk3IiW4" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -265,7 +265,7 @@ We want to know that our solutions are producing the outcomes our users are look
 If you have a background in Science (or took a science class back in the day), you're probably familiar with The Scientific Method. We think the Scientific Method provides a pretty good framework from which to start thinking about product experimentation. Check out this talk by a Ruben Lozano, Google PM, at ProductCon Seattle 2019 about applying the Scientific Method to product experimentation:
 
 <div class="video-responsive">
-<iframe src="https://www.youtube.com/embed/4NCxYPalGgU" loading=”lazy”  width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/4NCxYPalGgU" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -290,7 +290,7 @@ You should also buy [Eric Reis's](https://twitter.com/ericries) [The Lean Startu
 For an overview of MVP in audio form, check out the Startup Podcast:
 
 <div class="audio-responsive">
-<iframe style="border: solid 1px #dedede;"  loading=”lazy”  src="https://app.stitcher.com/splayer/f/68080/45086373" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/68080/45086373" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
       </div><br>
 
 <h2 id="sixth-h">VI. Defining the Product</h2>
@@ -310,7 +310,7 @@ Chances are that if you work an existing company, it's not enough to spec out th
 As a Product Manager, you should be extremely focused on data and use it to guide your decisions, but in order to get others to buy into those decisions, you'll also want to understand the art of storytelling. Check out Anna Marie Clifton's talk at Mind the Product here: 
 
 <div class="video-responsive">
-<iframe src="https://player.vimeo.com/video/277963599" loading=”lazy”  width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/277963599" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -319,7 +319,7 @@ For some other simple ideas on getting buy in for your product, check out [The P
 We also really like this podcast from First Round, where Google / Reddit / Pinterest Product Manager, Tyler Odean gets into the science behind influence and how that science can be used to the benefit of other PMs:
 
 <div class="audio-responsive">
-<iframe style="border: solid 1px #dedede;"  loading=”lazy”  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/408709611&amp;color=0066cc" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: solid 1px #dedede;"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/408709611&amp;color=0066cc" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
 </div><br>
 
 For a deep dive on creating alignment, you may want to check out the book [Getting to Yes]( https://www.amazon.com/gp/product/B0051SDM5Q). 
@@ -335,14 +335,14 @@ Regardless of what type of company you're working for, this section will give yo
 No matter how you or your company chooses to organize a development team, it's important to understand the basics of how to organize and motivate a cross-functional team (which the development team will necessarily be). We love the talk by [Ron Lichty]( https://twitter.com/RonLichty), developer management expert, talk entitled ‘How to Get Your Development Team to Love You,' which you can watch here:
 
 <div class="video-responsive">
-<iframe src="https://player.vimeo.com/video/160770374" loading=”lazy”  width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/160770374" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 <br>
 
 We also like this presentation by Ken Norton entitled [Leading Cross-functional Teams](https://www.kennorton.com/essays/leading-cross-functional-teams.html) (hint: bring the doughnuts). Jackie Bavaro focuses more on specifics around focusing on goals, clarifying the decision maker, and knowing when to escalate in her post [Stakeholder Management: How I get Everyone on the Same Page](https://medium.com/@jackiebo/stakeholder-management-how-i-get-everyone-on-the-same-page-34283a3fb981). First Round also has a podcast episode that talks specifically about motivation here:
 
 <div class="audio-responsive">
-<iframe style="border: solid 1px #dedede;"  loading=”lazy”  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/479721180&amp;color=0066cc" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: solid 1px #dedede;"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/479721180&amp;color=0066cc" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
 </div><br>
 
 If you'd like to go deep on this topic, we'd recommend picking up Fred Brooks's [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B000OZ0N6M) which you'll often see referenced as the go-to material for explaining the human elements of software engineering.
@@ -368,7 +368,7 @@ All of these methodologies originated before the publication of the [Agile Manif
 The most common of the agile methodologies is probably Scrum. "Agile" itself is a set of principles without rules / guidelines for how to implement those principles. Scrum is a common set of rules for implementing agile principles. Here's a peak into what Scrum is from Scrum.org:
 
 <div class="video-responsive">
-<iframe src="https://www.youtube.com/embed/gy1c4_YixCo" loading=”lazy”  width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/gy1c4_YixCo" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -380,7 +380,7 @@ The last of the agile methodologies we’re going to mention here is Lean Softwa
 We’d also recommend checking out [Mary Poppendieck](https://twitter.com/mpoppendieck), who has authored many books on the subject, in her talk on The Future of Software Engineering from GOTO Berlin 2016:
 
 <div class="video-responsive">
-<iframe src=" https://www.youtube.com/embed/6K4ljFZWgW8" loading=”lazy”  width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src=" https://www.youtube.com/embed/6K4ljFZWgW8" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -405,7 +405,7 @@ For a step-by-step walkthrough of what a successful beta test looks like, check 
 You may also want to check out the Product Podcast on the subject of beta tests from Prachi Wadekar, Product Manager at Mixpanel:
 
 <div class="audio-responsive">
-<iframe style="border: solid 1px #dedede;"  loading=”lazy”  src="https://app.stitcher.com/splayer/f/134992/62942362" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/134992/62942362" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
       </div><br>
 
 <h4>The Launch</h4>
@@ -435,7 +435,7 @@ Have you gotten here? We’re interested in hearing from you (maybe we can help 
 If you're extremely lucky, you'll find yourself at a startup that needs to build out a Product team or at an established company that asks you to assist in hiring a team. Either way, you should have some idea of how to structure a Product Team and how to hire Product Managers. An excellent overview of how to build high-functioning teams (in Product specifically) comes from Martin Eriksson in his "Building a Kick-Ass Product Team” talk:
 
 <div class="video-responsive">
-      <iframe width="560" height="349" loading=”lazy”  src="https://www.youtube.com/embed/pbkQW_B2sBg?rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="349" src="https://www.youtube.com/embed/pbkQW_B2sBg?rel=0&hd=1 " frameborder="0" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -444,7 +444,7 @@ On designing the Product function, you should check out First Round's [To Build 
 On the hiring side, we like Jackie Bavaro's [How to Hire Great Product Managers](https://medium.com/@jackiebo/how-to-hire-great-product-managers-f07a3c9337ea). Jackie also wrote an excellent book on the Product Management interview process entitled [Cracking the PM Interview](https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818) that will definitely be helpful if you're sitting on the "interviewee" side of the table. You should also check out First Round's podcast [Find, Vet and Close the Best Product Managers](https://firstround.com/review/find-vet-and-close-the-best-product-managers-heres-how/):
 
 <div class="audio-responsive">
-<iframe style="border: solid 1px #dedede;"  loading=”lazy”  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/609919230&amp;color=0066cc" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: solid 1px #dedede;"  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/609919230&amp;color=0066cc" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
 </div><br>
 
 <h2 id="tenth-h">X. Helpful Resources and Citations</h2>
@@ -460,6 +460,7 @@ Here are some of the books and blogs worth following that contributed heavily to
 <li>[Sebastien Phlix’s](https://twitter.com/sebastienphl) [2017]( https://medium.com/@sebastienphl/my-product-management-reading-list-2017-cb874975c635) and [2018](https://medium.com/@sebastienphl/my-product-management-reading-list-2018-bad70780c51f) Product Management Reading Lists</li>
 <li>Also check out Product Coalition’s [List of Product Management Courses](https://productcoalition.com/a-comprehensive-list-of-product-management-courses-522ad0b96b75) if you’d like to continue your education!</li>
 </ul>
+
 
 
 
