@@ -174,8 +174,10 @@ label {
 }
 
 .auth0-lock.auth0-lock .auth0-lock-name {
+  font-size: 18px !important;
   white-space: normal !important; 
   overflow: visible !important;
+  padding: 15px 10px 0px 10px !important;
 }
 
 .auth0-lock.auth0-lock .auth0-lock-widget {
@@ -187,6 +189,8 @@ label {
 }
 
 .auth0-lock.auth0-lock .auth0-lock-header-bg {
-    height: 100% !important;
+    height: 85px !important;
 }
+
+
 
