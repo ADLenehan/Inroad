@@ -43,7 +43,7 @@ If you prefer an audio version, feel free to listen to [The (Abbreviated) Histor
 
 
 <div class="audio-responsive">
-<iframe style="border: solid 1px #dedede;" loading=”lazy”  src="https://app.stitcher.com/splayer/f/46212/62201422" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
+<iframe style="border: solid 1px #dedede;" src="https://app.stitcher.com/splayer/f/46212/62201422" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
       </div><br>
 
 
