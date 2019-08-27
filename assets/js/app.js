@@ -28,7 +28,6 @@ const configureClient = async () => {
 
 window.onload = async () => {
   await configureClient();
-  alert("Onload");
   // NEW - update the UI state
   updateUI();
   
