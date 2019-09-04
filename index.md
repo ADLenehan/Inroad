@@ -1,9 +1,9 @@
 
-<br>
+<br><br>
 <p><a href="https://inroad.co"><img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%" align="left" /></a></p>
 <p style="clear: both;"></p>
 
-# Guide to Product Management
+# The Best of Product Management
 
 Having worked across a number of companies in the technology and startup universe, we find ourselves referencing the same material over and over again. The information that we find to be most useful is put together by thought leaders who have succeeded as Product Managers out in the real world. That perspective is a bit different from what you’d find in a typical Product Management course online. This outline will serve two purposes: first, it will help clients and prospective clients understand how we think about modern Product Management; second, it will help those interested in careers in Product Management scout the terrain to be traversed. 
 
@@ -36,7 +36,9 @@ The “job” of a Product Manager is guiding the development of products and fe
 
 <h3>History of Product Management </h3>
 
- 
+![History of PM]( https://3lsqjy1sj7i027fcn749gutj-wpengine.netdna-ssl.com/wp-content/uploads/2015/10/history-of-product-management-timeline-infographic.png "History of PM")
+
+
 Our choice as the best short history of the concept is [The History and Evolution of Product Management](https://www.mindtheproduct.com/2015/10/history-evolution-product-management/), a piece by [Martin Eriksson](https://twitter.com/bfgmartin). Eriksson starts by explaining how Neil McElroy deployed “brand men” at Proctor and Gamble in 1931. Acting as an advisor at Stanford a decade later, McElroy discussed his thinking with Bill Hewlett and David Packard, who were then launching their computer electronics company. They gave Product Managers responsibility for bringing the voice of the customer into internal discussions at the company. Don’t discount the importance of understanding how the role of Product Manager has evolved to encompass a great breadth of related issues. Taking disparate factors into account in an orderly, balanced, and carefully prioritized way is one of the keys to success. [Martin Eriksson](https://twitter.com/bfgmartin) is an experienced Product Manager who cofounded the blog [Mind the Product](https://www.mindtheproduct.com) (one of our favorites). 
 
 If you prefer an audio explanation, try [The (Abbreviated) History Of Product Management](https://rocketship.fm/episodes/the_abbreviated_history_of_product_management/) podcast by [Rocketship.fm](https://rocketship.fm):
@@ -130,7 +132,7 @@ For a bit more information on this,  see Clayton Christensen's post in HBR [Know
 <iframe style="border: solid 1px #dedede;"  src="https://app.stitcher.com/splayer/f/6655/48484546" width="100%" height="150" frameborder="0" scrolling="no"></iframe>
       </div><br>
       
-Fundamentally, we want consumers to "hire" our product to do a job for them. To fully understand what might motivate them to do so, we need to understand each and every step the consumer goes through in completing that job and understand what the customer needs at every step. [Tony Ulwick](https://twitter.com/Ulwick) defines "customer outcomes" and breaks down how to solicit them in his article [https://hbr.org/2002/01/turn-customer-input-into-innovation](https://hbr.org/2002/01/turn-customer-input-into-innovation).
+Fundamentally, we want consumers to "hire" our product to do a job for them. To fully understand what might motivate them to do so, we need to understand each and every step the consumer goes through in completing that job and understand what the customer needs at every step. [Tony Ulwick](https://twitter.com/Ulwick) defines "customer outcomes" and breaks down how to solicit them in his article [Turn Customer Input into Innovation](https://hbr.org/2002/01/turn-customer-input-into-innovation).
 
 <h3>Traditional Customer Segmentation</h3>
 
@@ -276,10 +278,10 @@ If you're looking for more on how to think about brainstorming solutions, check 
 <h3>Testing Solutions</h3>
 Serious as we may be about focusing on the customer, and designing around the customer’s experience, we must never assume that solutions developed in this way will make the customer happy. The solution we have in mind may bring with it a new set of problems. The more testing we can do, and the sooner we can do it, the better off we are going to be. Ideally, if we're off base in any way, we'd like to learn that before our team has written a single line of code. That’s why a lot of successful Product Managers rely on paper prototypes of one sort or another. Paper prototypes bring the customer experience to life quickly and economically. They allow us to experiment at low cost. 
 
- If you’re not familiar with paper prototyping, here’s a quick and easy video intro from Todd Hausman, a UX researcher at Google, Melissa Powel, a program manager there, and Mariam Shaikh, a UX designer there. This video is the first in a series of three videos covering the subject of prototyping more broadly.
+If you’re not familiar with paper prototyping, here’s a quick and easy video intro from Todd Hausman, a UX researcher at Google, Melissa Powel, a program manager there, and Mariam Shaikh, a UX designer there. This video is the first in a series of three videos covering the subject of prototyping more broadly.
 
 <div class="video-responsive">
-<iframe src="https://www.youtube.com/watch?v=JMjozqJS44M" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src=" https://www.youtube.com/embed/JMjozqJS44M" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 <br>
 
@@ -364,7 +366,6 @@ No matter how you or your company chooses to structure your development team, it
 <br>
 
 
-XXXXXXX
 We also like this presentation by Ken Norton entitled [Leading Cross-functional Teams](https://www.kennorton.com/essays/leading-cross-functional-teams.html) (hint: bring the doughnuts). Jackie Bavaro focuses more on specifics around focusing on goals, clarifying the decision maker, and knowing when to escalate in her post [Stakeholder Management: How I get Everyone on the Same Page](https://medium.com/@jackiebo/stakeholder-management-how-i-get-everyone-on-the-same-page-34283a3fb981). First Round also has a podcast episode that talks specifically about motivation here:
 
 <div class="audio-responsive">
@@ -472,16 +473,18 @@ On the hiring side, we like Jackie Bavaro's [How to Hire Great Product Managers]
 <h2 id="tenth-h">X. Helpful Resources and Citations</h2>
 Here are some of the books and blogs worth following that contributed heavily to this outline that may not have been mentioned above:
 <ul>
-<li>[The Lean Product Playbook](https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874) by [Dan Olsen]( https://twitter.com/danolsen) (probably the most thorough book on customer-driven Product Management)</li>
-<li>[The Product Book](https://www.productschool.com/the-product-book/) by Product School</li>
-<li>[Intercom on Product Management](https://www.intercom.com/books/product-management)</li>
-<li>[Silicon Valley Product Group](https://svpg.com/)</li>
-<li>[The First Round Review’s Product Magazine](https://firstround.com/review/product/)</li>
-<li>[The Amplitude Product Blog](https://amplitude.com/blog)</li>
-<li>[The Pendo Product Blog]( https://www.pendo.io/pendo-blog/)</li>
-<li>[Sebastien Phlix’s](https://twitter.com/sebastienphl) [2017]( https://medium.com/@sebastienphl/my-product-management-reading-list-2017-cb874975c635) and [2018](https://medium.com/@sebastienphl/my-product-management-reading-list-2018-bad70780c51f) Product Management Reading Lists</li>
-<li>Also check out Product Coalition’s [List of Product Management Courses](https://productcoalition.com/a-comprehensive-list-of-product-management-courses-522ad0b96b75) if you’d like to continue your education!</li>
+<li><a href="https://www.amazon.com/Lean-Product-Playbook-Innovate-Products/dp/1118960874”> The Lean Product Playbook </a> by <a href="https://twitter.com/danolsen”> Dan Olsen </a>) (probably the most thorough book on customer-driven Product Management)</li>
+<li><a href="https://www.productschool.com/the-product-book/”> The Product Book </a>) by Product School</li>
+<li><a href=“https://www.intercom.com/books/product-management”>Intercom on Product Management</a></li>
+<li><a href=“https://svpg.com/”> Silicon Valley Product Group</a></li>
+<li><a href=“https://firstround.com/review/product/”> The First Round Review’s Product Magazine </a></li>
+<li><a href=“https://amplitude.com/blog”> The Amplitude Product Blog </a></li>
+<li><a href=“https://www.pendo.io/pendo-blog/”>The Pendo Product Blog </a></li>
+<li><a href=“https://twitter.com/sebastienphl”> Sebastien Phlix’s</a> <a href=“https://medium.com/@sebastienphl/my-product-management-reading-list-2017-cb874975c635”>2017</a> and <a href=“https://medium.com/@sebastienphl/my-product-management-reading-list-2018-bad70780c51f”>2018</a> Product Management Reading Lists</li>
+<li>Also check out Product Coalition’s <a href=“https://productcoalition.com/a-comprehensive-list-of-product-management-courses-522ad0b96b75”>List of Product Management Courses</a> if you’d like to continue your education!</li>
 </ul>
+
+
 
 
 
