@@ -195,5 +195,16 @@ label {
     margin: 10px 0px !important;
 }
 
+.auth0-lock.auth0-lock .auth0-lock-header .auth0-lock-header-bg { 
+  background-color: #F0F0F0; 
+}
+
+.auth0-lock-iphone.auth0-lock .auth0-lock-form {
+  display: initial !important; 
+}
+
+.auth0-lock .auth0-lock-content {
+  padding: 20px; 
+}
 
 
