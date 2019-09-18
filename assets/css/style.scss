@@ -180,11 +180,15 @@ label {
 }
 
 .auth0-lock.auth0-lock .auth0-lock-widget {
-    width: 400px !important;
+    width: 375px !important;
 }
 
 .auth0-lock.auth0-lock .auth0-lock-form {
-    padding: 20px 100px !important;
+    padding: 0px 40px !important;
+}
+
+.auth0-lock.auth0-lock .auth0-lock-social-button.auth0-lock-social-big-button .auth0-lock-social-button-text {
+    text-align: center !important;
 }
 
 .auth0-lock.auth0-lock .auth0-lock-header-bg {
