@@ -88,8 +88,6 @@ If you’d like to go deeper into understanding what excellent Product Managers 
 
 Products are solutions. Before you can develop a smart solution, you need a complete understanding of the problem or opportunity. In the case of a business, customers are paying you (in one form or another) to solve their problems. They may pay you to solve problems they don’t know they have (before the iPhone, lack of 24X7 portable access to email would not have been considered a problem). It’s important to remember that your customers are people, who may not view problems and solutions in purely objective, rational ways (assuming you’re reading this before the robots take over). 
 
-Understanding your customers on a “personal” level is probably the most important skill that a product manager can have. As Amazon states in their [Leadership Principles](https://www.amazon.jobs/en/principles), "Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers." If you read that list in full, you’ll notice that this is the first of Amazon’s fourteen leadership principles. It’s important.
-
 We recognize that there are likely going to be multiple customers (stakeholders) that the Product Team should be concerned with – including internal stakeholders – but for the purpose of this guide, we’ll focus on the end users. Ultimately these are the customers we’re trying to serve.
 
 <h3>Customers First</h3>
