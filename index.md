@@ -248,7 +248,7 @@ To this point, we've done no thinking about the actual "solutions." So, we are o
 <div class="video-responsive">
 <iframe src=" https://www.youtube.com/embed/DXVEiARMR1E" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
-<br>
+<br>  
 
 Let’s understand that solutions-oriented thinking is seductive. As you start to put some of the skills we’re discussing into practice, you'll be tempted to bring some “solutions thinking” forward in the process. You’ll want to start brainstorming solutions before developing a thorough understanding of the problem space. Our advice is, avoid this temptation – particularly in conversations you have with users. Don't cloud their perspective and input with your own ideas about how their problems should be solved. If you’re asking yourself whether you’re ready to move on to the solution, relax, you probably aren’t. That being said, the day will come when we enter the "solution space" of the Product Management Process.
 
