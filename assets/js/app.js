@@ -3,7 +3,7 @@ const fetchAuthConfig = () => fetch("/auth_config.json");
 
 var options = {
    allowedConnections: ['linkedin'],
-   closable: false,
+   closable: true,
    theme: {
     primaryColor: '#F0F0F0',
     logo: 'https://syllabus.inroad.co/assets/img/Inroad_logo_2G.png'
@@ -13,7 +13,7 @@ var options = {
    responseType: 'code',
   },
    languageDictionary: {
-    title: "We promise to never share your info with anyone, but we'd love to know a bit more about who's checking this out! Please sign in with LinkedIn to continue.",
+    title: "If you haven't filled out the form on our homepage, please sign in with LinkedIn to continue. We promise to never share your info with anyone!",
     emailInputPlaceholder: "something@youremail.com"
   }
 };
