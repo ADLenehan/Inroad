@@ -1,6 +1,6 @@
 
 <br><br><br><br>
-<p><a href="https://inroad.co"><img src="/assets/img/Inroad_logo_2G.png" style="width: 50%; height: 50%" align="left" /></a></p>
+<p><a href="https://inroad.co"><img src="/assets/img/Inroad_logo_2G.png" style="width: 40%; height: 40%" align="left" /></a></p>
 <p style="clear: both;"></p>
 
 # Guide to Product Management
